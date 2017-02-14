@@ -10,6 +10,7 @@ import org.usfirst.frc.team4373.robot.commands.auton.TimeBasedGearAuton;
 import org.usfirst.frc.team4373.robot.subsystems.Climber;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 import org.usfirst.frc.team4373.robot.subsystems.GearRelease;
+import org.usfirst.frc.team4373.robot.subsystems.Shooter;
 
 /**
  * This is the main robot class.
@@ -34,6 +35,7 @@ public class Robot extends IterativeRobot {
         DriveTrain.getDriveTrain();
         Climber.getClimber();
         GearRelease.getGearRelease();
+        Shooter.getShooter();
     }
 
     @Override
