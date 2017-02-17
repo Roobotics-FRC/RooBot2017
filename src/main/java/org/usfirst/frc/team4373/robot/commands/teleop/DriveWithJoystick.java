@@ -1,5 +1,6 @@
 package org.usfirst.frc.team4373.robot.commands.teleop;
 
+import com.ctre.CANTalon;
 import edu.wpi.first.wpilibj.command.PIDCommand;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import org.usfirst.frc.team4373.robot.OI;
@@ -86,6 +87,8 @@ public class DriveWithJoystick extends PIDCommand {
 
     @Override
     protected void initialize() {
+        this.driveTrain.switchControlMode(CANTalon.TalonControlMode.Speed);
+        
         this.setSetpoint(0);
         this.setInputRange(-180, 180);
         this.getPIDController().setOutputRange(-1, 1);
