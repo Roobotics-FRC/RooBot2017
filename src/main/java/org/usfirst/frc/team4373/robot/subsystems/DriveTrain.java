@@ -28,6 +28,9 @@ public class DriveTrain extends Subsystem {
         return driveTrain;
     }
 
+    // Whenever we're configuring motors, we will always use the following order:
+    // left (1, 2), right (1, 2), middle (1, 2)
+
     /**
      * Initializes motors on respective ports, sets break and reverse modes, and sets followers.
     */
@@ -47,10 +50,7 @@ public class DriveTrain extends Subsystem {
         configureTalon(this.middle1);
         configureTalon(this.middle2);
 
-        this.controlMode = CANTalon.TalonControlMode.Speed;
-        this.left1.changeControlMode(controlMode);
-        this.right1.changeControlMode(controlMode);
-        this.middle1.changeControlMode(controlMode);
+        switchControlMode(CANTalon.TalonControlMode.Speed);
 
         this.left2.changeControlMode(CANTalon.TalonControlMode.Follower);
         this.left2.set(RobotMap.LEFT_DRIVE_MOTOR_1);
@@ -81,60 +81,65 @@ public class DriveTrain extends Subsystem {
         // Set closed loop gains in slot 0
         talon.setProfile(0);
         // PID config
-        talon.setF(0.0);
-        talon.setP(0.1);
-        talon.setI(0.0);
-        talon.setD(0.0);
+        talon.setF(0.0d);
+        talon.setP(0.1d);
+        talon.setI(0.0d);
+        talon.setD(0.0d);
     }
 
     /**
-     * Sets power to the motors.
-     * @param forward The forward power (-1=backward to 1=forward).
-     * @param right The left/right power (-1=left to 1=right).
+     * Sets the control mode of the motors.
+     * @param mode The control mode to which to switch.
      */
-    public void move(double forward, double right) {
-        // TODO: Determine appropriate amount of power to deliver to right/left motors
-        // TODO: Figure out if we even need this method
-        this.middle1.set(right);
+    public void switchControlMode(CANTalon.TalonControlMode mode) {
+        this.controlMode = mode;
+        this.left1.changeControlMode(mode);
+        this.right1.changeControlMode(mode);
+        this.middle1.changeControlMode(mode);
     }
 
-    // In "set" methods, we multiply by 500 to convert from voltage to RPM
-    // (5400 max rpm / 10:1 gear ratio)
+    // In voltage/speed "set" methods, we multiply by 500 to convert from voltage to RPM
+    // (5400 max rpm / 10:1 gear ratio) ≈ 500
 
     /**
      * Sets power to the left motors.
-     * @param power The power to allocate to the left motors from -1 to 1.
+     * @param value In voltage or speed mode,
+     *              the power to allocate to the left motors from -1 to 1.
+     *              In position mode, the number of rotations to turn the left motors.
      */
-    public void setLeft(double power) {
+    public void setLeft(double value) {
         if (controlMode == CANTalon.TalonControlMode.Speed) {
-            this.left1.set(power * 500);
+            this.left1.set(value * 500);
         } else {
-            this.left1.set(power);
+            this.left1.set(value);
         }
     }
 
     /**
      * Sets power to the right motors.
-     * Note that the right motors are facing backwards, so power is negated.
-     * @param power The power to allocate to the right motors from -1 to 1.
+     * @param value In voltage or speed mode,
+     *              the power to allocate to the right motors from -1 to 1.
+     *              In position mode, the number of rotations to turn the right motors.
      */
-    public void setRight(double power) {
+    public void setRight(double value) {
         if (controlMode == CANTalon.TalonControlMode.Speed) {
-            this.right1.set(power * 500);
+            this.right1.set(value * 500);
         } else {
-            this.right1.set(-power);
+            this.right1.set(-value);
         }
     }
 
     /**
      * Sets power to the middle motors.
-     * @param power The power to allocate to the middle motor from -1 (left) to 1 (right).
+     * @param value In voltage or speed mode,
+     *              the power to allocate to the middle motors from -1 to 1.
+     *              In position mode, the number of rotations to turn the middle motors.
      */
-    public void setMiddle(double power) {
+    public void setMiddle(double value) {
         if (controlMode == CANTalon.TalonControlMode.Speed) {
-            this.middle1.set(power * 500);
+            this.middle1.set(value * 500);
         } else {
-            this.middle1.set(power);
+            this.middle1.set(value);
         }
     }
 
@@ -171,12 +176,15 @@ public class DriveTrain extends Subsystem {
     }
 
     /**
-     * Sets power to both motors simultaneously.
-     * @param power The power to allocate to both motors from -1 to 1.
+     * Sets power to both left and right motors.
+     * @param value In voltage or speed mode,
+     *              the power to allocate to the motors from -1 to 1.
+     *              In position mode, the number of rotations to turn the motors.
+>>>>>>> Add position-based auton skeleton and better drive train control mode switching
      */
-    public void setBoth(double power) {
-        setLeft(power);
-        setRight(power);
+    public void setBoth(double value) {
+        setLeft(value);
+        setRight(value);
     }
 
     @Override
