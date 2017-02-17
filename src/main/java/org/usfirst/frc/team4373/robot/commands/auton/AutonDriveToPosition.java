@@ -5,7 +5,8 @@ import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 
 /**
- * Created by jrr6 on 2/17/17.
+ * Autonomously drives the robot to a position using position closed loop.
+ * @author aaplmath
  */
 public class AutonDriveToPosition extends Command {
     private DriveTrain driveTrain;
