@@ -1,8 +1,11 @@
 package org.usfirst.frc.team4373.robot;
 
 import edu.wpi.first.wpilibj.IterativeRobot;
+import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
+import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
+import org.usfirst.frc.team4373.robot.commands.auton.AutonDriveToPosition;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 
 /**
@@ -26,10 +29,27 @@ public class Robot extends IterativeRobot {
         super.teleopInit();
     }
 
+    private Command autonCommand = null;
+    private SendableChooser autonChooser;
+
     @Override
     public void autonomousInit() {
-        OI.getOI().getGyro().reset();
         super.autonomousInit();
+        OI.getOI().getGyro().reset();
+        if (autonCommand != null) {
+            autonCommand.cancel();
+        }
+        String command = (String) autonChooser.getSelected();
+        switch (command) {
+            case "driveToPosition":
+                autonCommand = new AutonDriveToPosition();
+                break;
+            default:
+                autonCommand = null;
+        }
+        if (autonCommand != null) {
+            autonCommand.start();
+        }
     }
 
     @Override

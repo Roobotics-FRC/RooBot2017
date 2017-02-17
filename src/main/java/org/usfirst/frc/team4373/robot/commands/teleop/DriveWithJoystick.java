@@ -88,7 +88,7 @@ public class DriveWithJoystick extends PIDCommand {
     @Override
     protected void initialize() {
         this.driveTrain.switchControlMode(CANTalon.TalonControlMode.Speed);
-        
+
         this.setSetpoint(0);
         this.setInputRange(-180, 180);
         this.getPIDController().setOutputRange(-1, 1);
