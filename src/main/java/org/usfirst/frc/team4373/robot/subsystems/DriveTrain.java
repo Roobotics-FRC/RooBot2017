@@ -4,6 +4,7 @@ import com.ctre.CANTalon;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import org.usfirst.frc.team4373.robot.RobotMap;
 import org.usfirst.frc.team4373.robot.commands.teleop.DriveWithJoystick;
+import org.usfirst.frc.team4373.robot.commands.teleop.TestEncoderCommand;
 
 /**
  * Programmatic representation of physical drive train components.
@@ -96,9 +97,14 @@ public class DriveTrain extends Subsystem {
         setRight(power);
     }
 
+    public int getTestEncoder() {
+        return this.left1.getEncPosition();
+    }
+
     @Override
     protected void initDefaultCommand() {
-        setDefaultCommand(new DriveWithJoystick());
+        //  setDefaultCommand(new DriveWithJoystick());
+        setDefaultCommand(new TestEncoderCommand());
     }
 
 }
