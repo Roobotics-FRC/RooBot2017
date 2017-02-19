@@ -94,7 +94,10 @@ public class DriveTrain extends Subsystem {
         this.controlMode = mode;
         this.left1.changeControlMode(mode);
         this.right1.changeControlMode(mode);
-        this.middle1.changeControlMode(mode);
+
+        // This code has been modified because the middle wheel has no encoder
+        this.middle1.changeControlMode(CANTalon.TalonControlMode.Voltage);
+        //     this.middle1.changeControlMode(mode);
     }
 
     // In voltage/speed "set" methods, we multiply by 500 to convert from voltage to RPM
@@ -135,11 +138,13 @@ public class DriveTrain extends Subsystem {
      *              In position mode, the number of rotations to turn the middle motors.
      */
     public void setMiddle(double value) {
-        if (controlMode == CANTalon.TalonControlMode.Speed) {
-            this.middle1.set(value * 500);
-        } else {
-            this.middle1.set(value);
-        }
+        // This code is commented because we have no encoder on the talon
+        //    if (controlMode == CANTalon.TalonControlMode.Speed) {
+        //        this.middle1.set(value * 500);
+        //    } else {
+        //        this.middle1.set(value);
+        //    }
+        this.middle1.set(value);
     }
 
     /**
