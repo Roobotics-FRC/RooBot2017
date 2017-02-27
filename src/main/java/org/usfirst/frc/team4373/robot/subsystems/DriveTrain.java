@@ -185,7 +185,6 @@ public class DriveTrain extends Subsystem {
      * @param value In voltage or speed mode,
      *              the power to allocate to the motors from -1 to 1.
      *              In position mode, the number of rotations to turn the motors.
->>>>>>> Add position-based auton skeleton and better drive train control mode switching
      */
     public void setBoth(double value) {
         setLeft(value);
