@@ -10,7 +10,10 @@ public class RobotMap {
     public static final int JOYSTICK_FORWARD_AXIS = 1;
     public static final int JOYSTICK_TWIST_AXIS = 2;
     public static final int JOYSTICK_CLIMBER_BUTTON = 8;
-    public static final int GEAR_INTAKE_UP_BUTTON = 9;
+    public static final int GEAR_INTAKE_UP_BUTTON = 4;
+    public static final int BUMP_LEFT_BUTTON = 5;
+    public static final int BUMP_RIGHT_BUTTON = 6;
+    public static final int CHANGE_FORWARD_BUTTON = 1;
 
     // Sensor ports
     public static final int JOYSTICK_PORT = 0;

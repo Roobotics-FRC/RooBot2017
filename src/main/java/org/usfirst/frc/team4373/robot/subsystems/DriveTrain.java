@@ -67,7 +67,8 @@ public class DriveTrain extends Subsystem {
     private void configureTalon(CANTalon talon) {
         talon.enableBrakeMode(true);
 
-        int absolutePosition = talon.getPulseWidthPosition() & 0xFFF; /* mask out the bottom12 bits, we don't care about the wrap arounds */
+        // mask out the bottom 12 bits, we don't care about the wrap-arounds
+        int absolutePosition = talon.getPulseWidthPosition() & 0xFFF;
         // Use the low level API to set the quad encoder signal
         talon.setEncPosition(absolutePosition);
         // Set sensor and sensor direction
@@ -140,12 +141,11 @@ public class DriveTrain extends Subsystem {
      */
     public void setMiddle(double value) {
         // This code is commented because we have no encoder on the talon
-        //    if (controlMode == CANTalon.TalonControlMode.Speed) {
-        //        this.middle1.set(value * 500);
-        //    } else {
-        //        this.middle1.set(value);
-        //    }
-        this.middle1.set(value);
+        if (controlMode == CANTalon.TalonControlMode.Speed) {
+            this.middle1.set(value * 500);
+        } else {
+            this.middle1.set(value);
+        }
     }
 
     /**
@@ -167,7 +167,7 @@ public class DriveTrain extends Subsystem {
                 this.left1.set(-0.5d);
                 break;
             case RIGHT:
-                this.middle1.set(0.5d);
+                this.middle1.set(5d);
                 break;
             case LEFT:
                 this.middle1.set(-0.5d);

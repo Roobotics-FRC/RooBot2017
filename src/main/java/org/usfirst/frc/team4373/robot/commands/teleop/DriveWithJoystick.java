@@ -4,6 +4,7 @@ import com.ctre.CANTalon;
 import edu.wpi.first.wpilibj.command.PIDCommand;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import org.usfirst.frc.team4373.robot.OI;
+import org.usfirst.frc.team4373.robot.Robot;
 import org.usfirst.frc.team4373.robot.RobotMap;
 import org.usfirst.frc.team4373.robot.input.hid.RooJoystick;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
@@ -53,7 +54,7 @@ public class DriveWithJoystick extends PIDCommand {
         } else {
             OI.getOI().getGyro().reset();
         }
-        if (OI.getOI().getDriveJoystick().getRawButton(1)) {
+        if (OI.getOI().getDriveJoystick().getRawButton(RobotMap.CHANGE_FORWARD_BUTTON)) {
             switch (OI.getOI().getDriveJoystick().getPOV()) {
                 case 0:
                     forwardDirection = Direction.FORWARD;
@@ -96,7 +97,7 @@ public class DriveWithJoystick extends PIDCommand {
         }
 
         // "Bumping"
-        if (OI.getOI().getDriveJoystick().getRawButton(5)) {
+        if (OI.getOI().getDriveJoystick().getRawButton(RobotMap.BUMP_LEFT_BUTTON)) {
             switch (forwardDirection) {
                 case FORWARD:
                     driveTrain.bumpToDirection(Direction.LEFT);
@@ -113,7 +114,7 @@ public class DriveWithJoystick extends PIDCommand {
                 default:
                     break;
             }
-        } else if (OI.getOI().getDriveJoystick().getRawButton(6)) {
+        } else if (OI.getOI().getDriveJoystick().getRawButton(RobotMap.BUMP_RIGHT_BUTTON)) {
             switch (forwardDirection) {
                 case FORWARD:
                     driveTrain.bumpToDirection(Direction.RIGHT);
