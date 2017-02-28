@@ -94,10 +94,7 @@ public class DriveTrain extends Subsystem {
         this.controlMode = mode;
         this.left1.changeControlMode(mode);
         this.right1.changeControlMode(mode);
-
-        // This code has been modified because the middle wheel has no encoder
-        this.middle1.changeControlMode(CANTalon.TalonControlMode.Voltage);
-        //     this.middle1.changeControlMode(mode);
+        this.middle1.changeControlMode(mode);
     }
 
     // In voltage/speed "set" methods, we multiply by 500 to convert from voltage to RPM
