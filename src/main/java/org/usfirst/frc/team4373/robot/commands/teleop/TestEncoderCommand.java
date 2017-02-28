@@ -5,7 +5,8 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 
 /**
- * Created by jrr6 on 2/18/17.
+ * Tests encoders.
+ * @author aaplmath
  */
 public class TestEncoderCommand extends Command {
     private DriveTrain driveTrain;
@@ -21,7 +22,10 @@ public class TestEncoderCommand extends Command {
 
     @Override
     protected void execute() {
-        SmartDashboard.putNumber("Encoder Position", driveTrain.getTestEncoder());
+        int[] encVelocities = this.driveTrain.getTestEncoders();
+        for (int i = 0; i < encVelocities.length; i++) {
+            SmartDashboard.putNumber("Encoder Velocity " + i, encVelocities[i]);
+        }
     }
 
     @Override

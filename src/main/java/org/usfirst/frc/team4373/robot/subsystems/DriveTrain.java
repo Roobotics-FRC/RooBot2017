@@ -3,7 +3,6 @@ package org.usfirst.frc.team4373.robot.subsystems;
 import com.ctre.CANTalon;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import org.usfirst.frc.team4373.robot.RobotMap;
-import org.usfirst.frc.team4373.robot.commands.teleop.DriveWithJoystick;
 import org.usfirst.frc.team4373.robot.commands.teleop.TestEncoderCommand;
 
 /**
@@ -97,8 +96,14 @@ public class DriveTrain extends Subsystem {
         setRight(power);
     }
 
-    public int getTestEncoder() {
-        return this.left1.getEncPosition();
+    /**
+     * Test.
+     * @return test
+     */
+    public int[] getTestEncoders() {
+        return new int[]{this.left1.getEncVelocity(), this.left2.getEncVelocity(),
+                this.right1.getEncVelocity(), this.right2.getEncVelocity(),
+                this.middle1.getEncVelocity(), this.middle2.getEncVelocity()};
     }
 
     @Override
