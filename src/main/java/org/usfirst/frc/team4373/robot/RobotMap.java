@@ -32,7 +32,10 @@ public class RobotMap {
     public static final int FORWARD_SOLENOID_PORT = 1;
     public static final int BACKWARD_SOLENOID_PORT = 0;
 
-    // misc
+    // Miscellaneous
     public static final int TIME_BASED_AUTON_DEFAULT_SECONDS = 4;
     public static final double TIME_BASED_AUTON_MOTOR_VALUE = 0.5;
+
+    // Camera
+    public static final String CAMERA_NAME = "cam0";
 }
