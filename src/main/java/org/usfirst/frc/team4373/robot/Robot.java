@@ -5,12 +5,9 @@ import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-<<<<<<< HEAD
 import org.usfirst.frc.team4373.robot.commands.auton.TimeBasedAuton;
 import org.usfirst.frc.team4373.robot.commands.auton.TimeBasedGearAuton;
-=======
 import org.usfirst.frc.team4373.robot.commands.auton.AutonDriveForward;
->>>>>>> Add auton start
 import org.usfirst.frc.team4373.robot.subsystems.Climber;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 import org.usfirst.frc.team4373.robot.subsystems.GearRelease;
@@ -48,6 +45,11 @@ public class Robot extends IterativeRobot {
 
     @Override
     public void autonomousInit() {
+        super.autonomousInit();
+        OI.getOI().getGyro().reset();
+        if (autonCommand != null) {
+            autonCommand.cancel();
+        }
         String command = (String) autonChooser.getSelected();
         int autonValueKey = (int) SmartDashboard.getNumber("Auton Time:",
                 RobotMap.TIME_BASED_AUTON_DEFAULT_SECONDS);
