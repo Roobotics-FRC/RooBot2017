@@ -54,6 +54,16 @@ public class DriveTrain extends Subsystem {
     }
 
     /**
+     * Sets the control mode of the motors.
+     * @param mode The control mode to which to switch.
+     */
+    public void switchControlMode(CANTalon.TalonControlMode mode) {
+        this.left1.changeControlMode(mode);
+        this.right1.changeControlMode(mode);
+        this.middle1.changeControlMode(mode);
+    }
+
+    /**
      * Sets power to the left motors.
      * @param power The power to allocate to the left motors from -1 to 1.
      */
