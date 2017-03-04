@@ -3,6 +3,7 @@ package org.usfirst.frc.team4373.robot;
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
+import org.usfirst.frc.team4373.robot.commands.auton.AutonDriveForward;
 import org.usfirst.frc.team4373.robot.subsystems.Climber;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 import org.usfirst.frc.team4373.robot.subsystems.GearRelease;
@@ -29,6 +30,7 @@ public class Robot extends IterativeRobot {
     @Override
     public void autonomousInit() {
         OI.getOI().getGyro().reset();
+        (new AutonDriveForward()).start();
         super.autonomousInit();
     }
 
