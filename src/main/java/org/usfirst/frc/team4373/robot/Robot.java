@@ -1,5 +1,6 @@
 package org.usfirst.frc.team4373.robot;
 
+import edu.wpi.first.wpilibj.CameraServer;
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
@@ -34,6 +35,8 @@ public class Robot extends IterativeRobot {
         DriveTrain.getDriveTrain();
         Climber.getClimber();
         GearRelease.getGearRelease();
+        CameraServer.getInstance().setQuality(100);
+        CameraServer.getInstance().startAutomaticCapture();
     }
 
     @Override
