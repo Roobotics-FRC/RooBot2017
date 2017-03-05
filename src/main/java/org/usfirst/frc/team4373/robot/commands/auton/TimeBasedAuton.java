@@ -27,7 +27,8 @@ public class TimeBasedAuton extends Command {
         if (timeBasedAuton == null) {
             timeBasedAuton = new TimeBasedAuton(time, motorValue);
         } else {
-            timeBasedAuton = timeBasedAuton;
+            timeBasedAuton.setTime(time);
+            timeBasedAuton.setMotorValue(motorValue);
         }
         return timeBasedAuton;
     }
@@ -37,6 +38,14 @@ public class TimeBasedAuton extends Command {
         requires(driveTrain = DriveTrain.getDriveTrain());
         this.timeSeconds = time;
         this.desiredDurationMillis = this.timeSeconds * this.TO_MILLISECONDS;
+        this.motorValue = motorValue;
+    }
+
+    public void setTime(int time) {
+        this.timeSeconds = time;
+    }
+
+    public void setMotorValue(double motorValue) {
         this.motorValue = motorValue;
     }
 
