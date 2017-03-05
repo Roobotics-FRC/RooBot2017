@@ -38,8 +38,13 @@ public class TimeBasedGearAuton extends Command {
      * @param motorValue The speed (0-1) at which the motor should run.
      */
     public static TimeBasedGearAuton getTimeBasedGearAuton(int time, double motorValue) {
-        timeBasedGearAuton = timeBasedGearAuton == null
-                ? new TimeBasedGearAuton(time, motorValue) : timeBasedGearAuton;
+        if (timeBasedGearAuton == null) {
+            timeBasedGearAuton = new TimeBasedGearAuton(time, motorValue);
+        }
+        else {
+            timeBasedGearAuton.setTime(time);
+            timeBasedGearAuton.setMotorValue(motorValue);
+        }
         return timeBasedGearAuton;
     }
     
@@ -53,6 +58,14 @@ public class TimeBasedGearAuton extends Command {
         this.moveBackwardDuration = 1000;
         this.motorValue = motorValue;
         this.state = State.WAITING;
+    }
+
+    public void setTime(int time) {
+        this.timeSeconds = time;
+    }
+
+    public void setMotorValue(double motorValue) {
+        this.motorValue = motorValue;
     }
 
     @Override
