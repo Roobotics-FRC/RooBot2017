@@ -53,7 +53,7 @@ public class TimeBasedGearAuton extends Command {
         requires(driveTrain = DriveTrain.getDriveTrain());
         requires(gearRelease = GearRelease.getGearRelease());
         this.timeSeconds = time;
-        this.moveForwardDuration = this.timeSeconds * this.TO_MILLISECONDS;
+        this.moveForwardDuration = this.timeSeconds * TO_MILLISECONDS;
         this.releaseDuration = 2000;
         this.moveBackwardDuration = 1000;
         this.motorValue = motorValue;
