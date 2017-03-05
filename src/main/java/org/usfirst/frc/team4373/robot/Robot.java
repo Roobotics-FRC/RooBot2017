@@ -24,8 +24,8 @@ public class Robot extends IterativeRobot {
         SmartDashboard.putNumber("Auton Speed:", 0.5);
 
         autonChooser = new SendableChooser();
-        autonChooser.addDefault("Disabled", "disabled");
-        autonChooser.addObject("DriveStraight", "driveStraight");
+        autonChooser.addObject("Disabled", "disabled");
+        autonChooser.addDefault("DriveStraight", "driveStraight");
         autonChooser.addObject("RudimentaryGear", "rudimentaryGear");
         SmartDashboard.putData("Auton Mode Selector", autonChooser);
         SmartDashboard.putNumber("Test Number", 42);
