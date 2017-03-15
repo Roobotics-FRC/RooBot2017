@@ -58,7 +58,7 @@ public class DriveTrain extends Subsystem {
      * @return The number of rotations (positive or negative) of the left motors.
      */
     public int getLeftEncoderPosition() {
-        return left2.getEncPosition();
+        return left1.getEncPosition();
     }
 
     /**
