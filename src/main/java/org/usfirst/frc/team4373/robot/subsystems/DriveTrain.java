@@ -54,6 +54,30 @@ public class DriveTrain extends Subsystem {
     }
 
     /**
+     * Returns the position (number of revolutions away from 0) of the left motors.
+     * @return The number of rotations (positive or negative) of the left motors.
+     */
+    public int getLeftEncoderPosition() {
+        return left2.getEncPosition();
+    }
+
+    /**
+     * Returns the position (number of revolutions away from 0) of the right motors.
+     * @return The number of rotations (positive or negative) of the right motors.
+     */
+    public int getRightEncoderPosition() {
+        return right1.getEncPosition();
+    }
+
+    /**
+     * Returns the position (number of revolutions away from 0) of the middle motors.
+     * @return The number of rotations (positive or negative) of the middle motors.
+     */
+    public int getMiddleEncoderPosition() {
+        return middle2.getEncPosition();
+    }
+
+    /**
      * Sets power to the left motors.
      * @param power The power to allocate to the left motors from -1 to 1.
      */
