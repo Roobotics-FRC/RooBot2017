@@ -58,6 +58,7 @@ public class DriveWithJoystick extends PIDCommand {
 
     @Override
     protected void execute() {
+        SmartDashboard.putNumber("Left encoder value", driveTrain.getLeftEncoderPosition());
         if (System.currentTimeMillis() >= cooldownEndTime) {
             cooldown.set(false);
         } else {
