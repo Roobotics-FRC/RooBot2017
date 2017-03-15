@@ -30,6 +30,8 @@ public class AutonDriveForwardToPosition extends Command {
         } else {
             autonDriveForwardToPosition.setTargetRevolutions(revolutions);
             autonDriveForwardToPosition.setMotorValue(motorValue);
+            autonDriveForwardToPosition.revsStart =
+                    DriveTrain.getDriveTrain().getLeftEncoderPosition();
         }
         return autonDriveForwardToPosition;
     }
@@ -58,9 +60,9 @@ public class AutonDriveForwardToPosition extends Command {
     protected void execute() {
         int leftPos = driveTrain.getLeftEncoderPosition();
         SmartDashboard.putNumber("Revolutions remaining",
-                targetRevolutions - Math.abs(leftPos - revsStart) / 1440);
+                targetRevolutions - Math.abs(leftPos - revsStart) / 4096);
         SmartDashboard.putNumber("Left encoder value", leftPos);
-        if (Math.abs(leftPos - revsStart) / 1440 <= targetRevolutions) {
+        if (Math.abs(leftPos - revsStart) / 4096 <= targetRevolutions) {
             driveTrain.setBoth(this.motorValue);
         } else {
             driveTrain.setBoth(0.0d);
