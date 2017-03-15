@@ -40,8 +40,7 @@ public class TimeBasedGearAuton extends Command {
     public static TimeBasedGearAuton getTimeBasedGearAuton(int time, double motorValue) {
         if (timeBasedGearAuton == null) {
             timeBasedGearAuton = new TimeBasedGearAuton(time, motorValue);
-        }
-        else {
+        } else {
             timeBasedGearAuton.setTime(time);
             timeBasedGearAuton.setMotorValue(motorValue);
         }
