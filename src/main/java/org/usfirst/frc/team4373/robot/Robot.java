@@ -149,3 +149,5 @@ I'm not sure you realize that what you are reading is not what it means.
 // The fact that boys are allowed to exist at all is evidence of a remarkable
 Christian forbearance among men.
 		-- Ambrose Bierce
+// Be not anxious about what you have, but about what you are.
+		-- Pope St. Gregory I
