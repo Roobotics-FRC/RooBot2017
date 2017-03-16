@@ -1240,3 +1240,4 @@ Aren't we all out on our own recognizance?
 // I told my kids, "Someday, you'll have kids of your own."  One of them said,
 "So will you."
 		-- Rodney Dangerfield
+// A vivid and creative mind characterizes you.
