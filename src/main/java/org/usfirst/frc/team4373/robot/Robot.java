@@ -1197,3 +1197,5 @@ With no place to go.		But that can't make the queue move fast.
 // "The eleventh commandment was `Thou Shalt Compute' or `Thou Shalt Not
 Compute' -- I forget which."
 		-- Epigrams in Programming, ACM SIGPLAN Sept. 1982
+// Don't try to have the last word -- you might get it.
+		-- Lazarus Long
