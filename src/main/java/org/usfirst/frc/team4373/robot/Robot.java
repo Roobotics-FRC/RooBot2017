@@ -261,3 +261,5 @@ And beats high mountain down.
 		-- Bernie Greenberg.
 // You can do more with a kind word and a gun than with just a kind word.
 - Al Capone
+// It is surely a great calamity for a human being to have no obsessions.
+- Robert Bly
