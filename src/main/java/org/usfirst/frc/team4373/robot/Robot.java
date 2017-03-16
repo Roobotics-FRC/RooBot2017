@@ -480,3 +480,14 @@ voters to win the next election.
 	The computer industry has frequently borrowed from mythology:
 	Witness the sprites in computer graphics, the demons in artificial
 	intelligence, and the trolls in the marketing department.
+// Although written many years ago, Lady Chatterley's Lover has just been
+reissued by the Grove Press, and this pictorial account of the
+day-to-day life of an English gamekeeper is full of considerable
+interest to outdoor minded readers, as it contains many passages on
+pheasant-raising, the apprehending of poachers, ways to control vermin,
+and other chores and duties of the professional gamekeeper.
+Unfortunately, one is obliged to wade through many pages of extraneous
+material in order to discover and savour those sidelights on the
+management of a midland shooting estate, and in this reviewer's opinion
+the book cannot take the place of J. R. Miller's "Practical Gamekeeping."
+		-- Ed Zern, "Field and Stream" (Nov. 1959)
