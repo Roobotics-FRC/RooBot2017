@@ -40,7 +40,9 @@ public class Robot extends IterativeRobot {
 
     @Override
     public void teleopInit() {
-        autonCommand.cancel();
+        if (autonCommand != null) {
+            autonCommand.cancel();
+        }
         OI.getOI().getGyro().reset();
         super.teleopInit();
     }
