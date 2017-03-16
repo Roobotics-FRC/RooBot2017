@@ -151,3 +151,4 @@ Christian forbearance among men.
 		-- Ambrose Bierce
 // Be not anxious about what you have, but about what you are.
 		-- Pope St. Gregory I
+// Today is what happened to yesterday.
