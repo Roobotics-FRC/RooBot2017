@@ -142,3 +142,5 @@ A:	Because he was hungry.
 loan," the teacher replied.  At that moment, the donkey brayed loudly inside
 the stable.  "But I can hear it bray, over there."  "Whom do you believe,"
 asked Nasrudin, "me or a donkey?"
+// You may call me by my name, Wirth, or by my value, Worth.
+- Nicklaus Wirth
