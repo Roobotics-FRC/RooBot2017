@@ -605,3 +605,5 @@ coffee.  Smooth and full bodied...
 		-- Another Episode of General's Hospital
 // Life is the living you do, Death is the living you don't do.
 		-- Joseph Pintauro
+// "Cogito ergo I'm right and you're wrong."
+		-- Blair Houghton
