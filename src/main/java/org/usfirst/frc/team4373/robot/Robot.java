@@ -1175,3 +1175,15 @@ son, remember, 'Imitation is the sincerest form of philately.'"
 		-- Heard on Noahs' ark
 // The cost of living hasn't affected its popularity.
 // Think of your family tonight.  Try to crawl home after the computer crashes.
+// In the early morning queue,
+With a listing in my hand.
+With a worry in my heart,	There on terminal number 9,
+Waitin' here in CERAS-land.	Pascal run all set to go.
+I'm a long way from sleep,	But I'm waitin' in the queue,
+How I miss a good meal so.	With this code that ever grows.
+In the early mornin' queue,	Now the lobby chairs are soft,
+With no place to go.		But that can't make the queue move fast.
+				Hey, there it goes my friend,
+				I've moved up one at last.
+		-- Ernest Adams, "Early Morning Queue", to "Early
+		   Morning Rain" by G. Lightfoot
