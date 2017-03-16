@@ -280,3 +280,16 @@ irrational -- the powers of reason are suprisingly ineffective in
 changing the believer's mind.
 - Steve Allen, comdeian, from an essay in the book "The Courage of 
   Conviction", edited by Philip Berman
+// 			HOW TO PROVE IT, PART 2
+
+proof by cumbersome notation:
+	Best done with access to at least four alphabets and special
+	symbols.
+
+proof by exhaustion:
+	An issue or two of a journal devoted to your proof is useful.
+
+proof by omission:
+	'The reader may easily supply the details'
+	'The other 253 cases are analogous'
+	'...' 
