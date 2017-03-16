@@ -931,3 +931,6 @@ it myself.  Like the hunt, but with richer rewards.
 who now smoke pot will someday become congressmen and legalize
 it in order to protect themselves.
 		-- Lenny Bruce
+// Blessed is the man who, having nothing to say, abstains from giving
+wordy evidence of the fact.
+		-- George Eliot
