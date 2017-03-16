@@ -3,6 +3,7 @@ package org.usfirst.frc.team4373.robot.subsystems;
 import com.ctre.CANTalon;
 import com.ctre.CanTalonJNI;
 import edu.wpi.first.wpilibj.command.Subsystem;
+import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import org.usfirst.frc.team4373.robot.RobotMap;
 import org.usfirst.frc.team4373.robot.commands.teleop.DriveWithJoystick;
 import org.usfirst.frc.team4373.robot.commands.teleop.DriveWithJoystick.Direction;
@@ -152,8 +153,10 @@ public class DriveTrain extends Subsystem {
      */
     public void setLeft(double power) {
         if (this.left1.getControlMode().equals(CANTalon.TalonControlMode.Position)) {
+            SmartDashboard.putBoolean("setLeftTalonPosition", true);
             power *= getLeftEncoderCPR();
         }
+        SmartDashboard.putNumber("leftTalonValue", power);
         this.left1.set(power);
     }
 
