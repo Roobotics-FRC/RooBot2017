@@ -699,3 +699,5 @@ had to seek professional help."
 // No modern woman with a grain of sense ever sends little notes to an
 unmarried man -- not until she is married, anyway.
 		-- Arthur Binstead
+// Philosophy will clip an angel's wings.
+		-- John Keats
