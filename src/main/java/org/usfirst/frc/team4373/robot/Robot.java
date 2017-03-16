@@ -294,3 +294,5 @@ proof by omission:
 	'The other 253 cases are analogous'
 	'...' 
 // When all else fails, read the instructions.
+// Life is like a sewer.  What you get out of it depends on what you put into it.
+		-- Tom Lehrer
