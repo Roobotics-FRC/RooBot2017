@@ -396,3 +396,14 @@ END and STOP.  No matter how you arrange the statements, you can't make
 a syntax error.  Programs written in SIMPLE do nothing useful.  Thus
 they achieve the results of programs written in other languages without
 the tedious, frustrating process of testing and debugging.
+// Rattling around the back of my head is a disturbing image of something I
+saw at the airport ... Now I'm remembering, those giant piles of computer
+magazines right next to "People" and "Time" in the airport store.  Does
+it bother anyone else that half the world is being told all of our hard-won
+secrets of computer technology?  Remember how all the lawyers cried foul
+when "How to Avoid Probate" was published?  Are they taking no-fault
+insurance lying down?  No way!  But at the current rate it won't be long
+before there are stacks of the "Transactions on Information Theory" at the
+A&P checkout counters.  Who's going to be impressed with us electrical
+engineers then?  Are we, as the saying goes, giving away the store?
+		-- Robert W. Lucky, IEEE President
