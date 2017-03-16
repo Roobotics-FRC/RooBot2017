@@ -244,3 +244,4 @@ stopping at red lights are both optional.
 // "...[Linux's] capacity to talk via any medium except smoke signals."
 (By Dr. Greg Wettstein, Roger Maris Cancer Center)
 // How come only your friends step on your new white sneakers?
+// You too can wear a nose mitten.
