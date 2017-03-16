@@ -135,3 +135,4 @@ A:	Because he was hungry.
 // People are beginning to notice you.  Try dressing before you leave the house.
 // Counting in octal is just like counting in decimal--if you don't use your thumbs.
 		-- Tom Lehrer
+// All that glitters has a high refractive index.
