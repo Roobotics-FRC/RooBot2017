@@ -991,3 +991,4 @@ the player replied, and was off.  "See what I mean?" Sherrill asked.
 called you from here."
 // JAPAN is a WONDERFUL planet -- I wonder if we'll ever reach their level
 of COMPARATIVE SHOPPING ...
+// ... and furthermore ... I don't like your trousers.
