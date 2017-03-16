@@ -957,3 +957,5 @@ Of course, it would orbit Sputnik, not Earth!
 // I am more bored than you could ever possibly be.  Go back to work.
 // What is worth doing is worth the trouble of asking somebody to do.
 // You like to form new friendships and make new acquaintances.
+// Sometimes, too long is too long.
+- Joe Crowe
