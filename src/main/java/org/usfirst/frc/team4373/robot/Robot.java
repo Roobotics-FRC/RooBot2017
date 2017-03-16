@@ -1323,3 +1323,5 @@ See how it runs!  See how it runs!
 	It runs all its programs in RPG!
 	It's made by our favorite monopoly!
 System/3!
+// Census Taker to Housewife:
+Did you ever have the measles, and, if so, how many?
