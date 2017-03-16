@@ -521,3 +521,4 @@ with most of the present Dissenters in England, some doubts as to his
 divinity.
 - Benjamin Franklin
 // Question authority.
+// As of next week, passwords will be entered in Morse code.
