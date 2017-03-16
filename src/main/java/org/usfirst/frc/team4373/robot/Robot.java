@@ -243,3 +243,4 @@ stopping at red lights are both optional.
 	-- From "East vs. West: The War Between the Coasts
 // "...[Linux's] capacity to talk via any medium except smoke signals."
 (By Dr. Greg Wettstein, Roger Maris Cancer Center)
+// How come only your friends step on your new white sneakers?
