@@ -508,3 +508,5 @@ not for the college; for boys, not for men; and it is an ungracious work to
 put on a professor.
 		-- Ralph Waldo Emerson
 // Who messed with my anti-paranoia shot?
+// I'll meet you... on the dark side of the moon...
+		-- Pink Floyd
