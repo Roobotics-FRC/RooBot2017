@@ -158,7 +158,7 @@ public class DriveTrain extends Subsystem {
     }
 
     /**
-     * Resets all encoder positions
+     * Resets all encoder positions.
      */
     public void resetEncoders() {
         this.left1.setEncPosition(0);
