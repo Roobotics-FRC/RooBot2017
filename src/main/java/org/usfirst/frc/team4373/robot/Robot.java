@@ -691,3 +691,6 @@ just a case of "uncontained blade liberation."
 // Among the lucky, you are the chosen one.
 // People who make no mistakes do not usually make anything.
 // Support bacteria -- it's the only culture some people have!
+// "Maybe we should think of this as one perfect week... where we found each
+other, and loved each other... and then let each other go before anyone
+had to seek professional help."
