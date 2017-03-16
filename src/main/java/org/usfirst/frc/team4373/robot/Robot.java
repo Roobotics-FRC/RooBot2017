@@ -728,3 +728,8 @@ which time it will be worth absolutely nothing.
 // Perfection is reached, not when there is no longer anything to add, but
 when there is no longer anything to take away.
 		-- Antoine de Saint-Exupery
+// When I was younger, I could remember anything, whether it had happened
+or not; but my faculties are decaying now and soon I shall be so I
+cannot remember any but the things that never happened.  It is sad to
+go to pieces like this but we all have to do it.
+		-- Mark Twain
