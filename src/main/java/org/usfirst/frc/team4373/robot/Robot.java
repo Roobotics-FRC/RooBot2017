@@ -161,3 +161,5 @@ Christian forbearance among men.
 	I'm Not Misbehaving
 
 And A Whole Lot More...
+// I'd love to kiss you, but I just washed my hair.
+		-- Bette Davis, "Cabin in the Cotton"
