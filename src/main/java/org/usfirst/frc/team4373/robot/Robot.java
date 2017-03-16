@@ -462,3 +462,5 @@ others who have tried it.
 // Armenians and Azerbaijanis in Stepanakert, capital of the Nagorno-Karabakh
 autonomous region, rioted over much needed spelling reform in the Soviet Union.
 		-- P.J. O'Rourke
+// What makes you think graduate school is supposed to be satisfying?
+		-- Erica Jong, "Fear of Flying"
