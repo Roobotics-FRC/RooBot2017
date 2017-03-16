@@ -1268,3 +1268,14 @@ that.  On USENET, this is known as a summary.  It lets people read all the
 replies without annoying newsreaders getting in the way.  Do the same when
 summarizing a vote.
 		-- Emily Postnews Answers Your Questions on Netiquette
+// 	THE LESSER-KNOWN PROGRAMMING LANGUAGES #2: RENE
+
+Named after the famous French philosopher and mathematician Rene DesCartes,
+RENE is a language used for artificial intelligence.  The language is being
+developed at the Chicago Center of Machine Politics and Programming under a
+grant from the Jane Byrne Victory Fund.  A spokesman described the language
+as "Just as great as dis [sic] city of ours."
+
+The center is very pleased with progress to date.  They say they have almost
+succeeded in getting a VAX to think. However, sources inside the
+organization say that each time the machine fails to think it ceases to exist.
