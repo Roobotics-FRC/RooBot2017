@@ -493,3 +493,17 @@ the book cannot take the place of J. R. Miller's "Practical Gamekeeping."
 		-- Ed Zern, "Field and Stream" (Nov. 1959)
 // The first marriage is the triumph of imagination over intelligence,
 and the second the triumph of hope over experience.
+// If the colleges were better, if they really had it, you would need to get
+the police at the gates to keep order in the inrushing multitude.  See in
+college how we thwart the natural love of learning by leaving the natural
+method of teaching what each wishes to learn, and insisting that you shall
+learn what you have no taste or capacity for.  The college, which should
+be a place of delightful labor, is made odious and unhealthy, and the
+young men are tempted to frivolous amusements to rally their jaded spirits.
+I would have the studies elective.  Scholarship is to be created not
+by compulsion, but by awakening a pure interest in knowledge.  The wise
+instructor accomplishes this by opening to his pupils precisely the
+attractions the study has for himself.  The marking is a system for schools,
+not for the college; for boys, not for men; and it is an ungracious work to
+put on a professor.
+		-- Ralph Waldo Emerson
