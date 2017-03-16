@@ -775,3 +775,6 @@ trivially equivalent, so the only important _n are _n less than _n.  We
 can take _n = _n (from above), so it's true for _n+1 because it's just
 about _n.
 	QED.	(QED translates from the Latin as "So what?")
+// Term, holidays, term, holidays, till we leave school, and then work, work,
+work till we die.
+		-- C.S. Lewis
