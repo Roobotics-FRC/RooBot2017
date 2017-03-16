@@ -978,3 +978,5 @@ by Hegel for the American market on a subcontract from General Dynamics.
 		-- John Updike, "Couples"
 // When it's dark enough you can see the stars.
 		-- Ralph Waldo Emerson,
+// You can no more win a war than you can win an earthquake.
+		-- Jeannette Rankin
