@@ -708,3 +708,4 @@ but together can decide that nothing can be done.
 		-- Fred Allen
 // There must be at least 500,000,000 rats in the United States; of course,
 I never heard the story before.
+// How come everyone's going so slow if it's called rush hour?
