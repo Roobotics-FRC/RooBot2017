@@ -927,3 +927,7 @@ is a match.
 they see it is easier than trading.  And it has its pleasures.  I feel
 it myself.  Like the hunt, but with richer rewards.
 		-- Apella, "A Private Little War", stardate 4211.8
+// Marijuana will be legal some day, because the many law students
+who now smoke pot will someday become congressmen and legalize
+it in order to protect themselves.
+		-- Lenny Bruce
