@@ -915,3 +915,6 @@ and the other half who have nothing to say and keep on saying it.
 // [The French Riviera is] a sunny place for shady people.
 		-- Somerset Maugham
 // The more crap you put up with, the more crap you are going to get.
+// "They that can give up essential liberty to obtain a little temporary
+safety deserve neither liberty nor safety."
+		-- Benjamin Franklin, 1759
