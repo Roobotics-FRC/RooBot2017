@@ -613,3 +613,8 @@ because there is more things involved than could come up on the road, even
 after we've been home a long while.
 		-- Casey Stengel
 // If God had intended Man to Smoke, He would have set him on Fire.
+// Good government never depends upon laws, but upon the personal qualities of
+those who govern.  The machinery of government is always subordinate to the
+will of those who administer that machinery.  The most important element of
+government, therefore, is the method of choosing leaders.
+		-- Frank Herbert, "Children of Dune"
