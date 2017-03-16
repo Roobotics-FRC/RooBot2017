@@ -307,3 +307,6 @@ their ignorance the hard way."
 trained and educated professions, law is the only one in which the prime
 lesson is that *winning* is more important than *truth*.
 	Once someone has sunk to that level, what worse can you say about them?
+// My doctor told me to stop having intimate dinners for four.  Unless there
+are three other people.
+		-- Orson Welles
