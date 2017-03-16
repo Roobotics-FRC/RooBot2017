@@ -25,11 +25,11 @@ public class TestAuton extends Command {
     @Override
     protected void initialize() {
         driveTrain = DriveTrain.getDriveTrain();
+        driveTrain.changeControlMode(CANTalon.TalonControlMode.Position);
     }
 
     @Override
     protected void execute() {
-        driveTrain.changeControlMode(CANTalon.TalonControlMode.Position);
         driveTrain.setLeft(13 * 4096);
     }
 
