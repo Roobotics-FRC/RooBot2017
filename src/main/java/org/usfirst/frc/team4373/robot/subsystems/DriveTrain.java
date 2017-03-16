@@ -162,7 +162,10 @@ public class DriveTrain extends Subsystem {
             this.left1.setSetpoint(power);
         }
         SmartDashboard.putNumber("leftTalonValue", power);
-        DriverStation.reportError("leftTalonValue, " + power + "\n", false);
+        DriverStation.reportError("leftTalonValue, "
+                + power + "\tCPR:"
+                + getLeftEncoderCPR() + "\n",
+                true);
         this.left1.set(power);
     }
 
