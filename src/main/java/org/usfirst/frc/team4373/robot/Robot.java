@@ -1229,3 +1229,5 @@ card.
 		-- Dennis M. Ritchie
 // Also, the Scots are said to have invented golf.  Then they had
 to invent Scotch whiskey to take away the pain and frustration.
+// What's this stuff about people being "released on their own recognizance"?
+Aren't we all out on our own recognizance?
