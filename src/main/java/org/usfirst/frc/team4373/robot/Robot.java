@@ -1023,3 +1023,4 @@ challenge roughly comparable to herding cats.
 interface circuit details.  The two models, however, are not compatible
 on the same communications line connection.
 		-- Bell System Technical Reference
+// System checkpoint complete.
