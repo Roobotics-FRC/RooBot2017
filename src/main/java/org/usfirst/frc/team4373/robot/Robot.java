@@ -912,3 +912,5 @@ her again.  Okay?"
 on the side to make it interesting?"
 // Half the world is composed of people who have something to say and can't,
 and the other half who have nothing to say and keep on saying it.
+// [The French Riviera is] a sunny place for shady people.
+		-- Somerset Maugham
