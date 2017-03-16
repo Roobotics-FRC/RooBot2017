@@ -854,3 +854,30 @@ admit it frankly and try another.  But above all, try something.
 // "Lead us in a few words of silent prayer."
 -- Bill Peterson, former Houston Oiler football coach
 // Jesuit priests are DATING CAREER DIPLOMATS!!
+// As many of you know, I am taking a class here at UNC on Personality.
+One of the tests to determine personality in our book was so incredibly
+useful and interesting, I just had to share it.
+
+Answer each of the following items "true" or "false"
+
+ 1. I think beavers work too hard.
+ 2. I use shoe polish to excess.
+ 3. God is love.
+ 4. I like mannish children.
+ 5. I have always been diturbed by the sight of Lincoln's ears.
+ 6. I always let people get ahead of me at swimming pools.
+ 7. Most of the time I go to sleep without saying goodbye.
+ 8. I am not afraid of picking up door knobs.
+ 9. I believe I smell as good as most people.
+10. Frantic screams make me nervous.
+11. It's hard for me to say the right thing when I find myself in a room
+    full of mice.
+12. I would never tell my nickname in a crisis.
+13. A wide necktie is a sign of disease.
+14. As a child I was deprived of licorice.
+15. I would never shake hands with a gardener.
+16. My eyes are always cold.
+17. Cousins are not to be trusted.
+18. When I look down from a high spot, I want to spit.
+19. I am never startled by a fish.
+20. I have never gone to pieces over the weekend.
