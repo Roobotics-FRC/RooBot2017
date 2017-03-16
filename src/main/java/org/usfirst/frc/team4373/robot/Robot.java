@@ -848,3 +848,6 @@ get off my driveway."
 // Succumb to natural tendencies.  Be hateful and boring.
 // Harrison's Postulate:
 	For every action, there is an equal and opposite criticism.
+// It is common sense to take a method and try it.  If it fails,
+admit it frankly and try another.  But above all, try something.
+		-- Franklin D. Roosevelt
