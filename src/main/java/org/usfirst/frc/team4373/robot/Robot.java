@@ -717,3 +717,6 @@ to Beaver"!
 // Freedom of the press is for those who happen to own one.
 // Don't tell me what you dreamed last night for I've been reading Freud.
 // I will always love the false image I had of you.
+// I know the disposition of women: when you will, they won't; when
+you won't, they set their hearts upon you of their own inclination.
+		-- Publius Terentius Afer (Terence)
