@@ -1082,3 +1082,4 @@ on armaments and military equipment.  It pays without discussion, it ruins
 itself, and that is an excellent thing for the syndicates of financiers and
 manufacturers for whom patriotic terrors are an abundant source of gain.
 		-- Anatole France
+// Huh?
