@@ -582,3 +582,5 @@ same moment -- halftime.
 		-- "The Hitchhiker's Guide to the Galaxy"
 // There are no manifestos like cannon and musketry.
 		-- The Duke of Wellington
+// Nobody knows what goes between his cold toes and his warm ears.
+		-- Roy Harper
