@@ -793,3 +793,5 @@ work till we die.
 corrupt absolutely, until the victim eschewed violence entirely in
 favor of smart solutions to stupid problems.
 		-- Piers Anthony
+// "And they told us, what they wanted...
+ Was a sound that could kill some-one, from a distance." -- Kate Bush
