@@ -507,3 +507,4 @@ attractions the study has for himself.  The marking is a system for schools,
 not for the college; for boys, not for men; and it is an ungracious work to
 put on a professor.
 		-- Ralph Waldo Emerson
+// Who messed with my anti-paranoia shot?
