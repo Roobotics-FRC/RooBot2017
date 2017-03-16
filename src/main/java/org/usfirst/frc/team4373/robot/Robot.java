@@ -1032,3 +1032,5 @@ and 8 percent said "Gimme a quarter?"
 		-- David Letterman
 // If society fits you comfortably enough, you call it freedom.
 		-- Robert Frost
+// Q:	How much does it cost to ride the Unibus?
+A:	2 bits.
