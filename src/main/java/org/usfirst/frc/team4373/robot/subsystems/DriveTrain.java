@@ -3,12 +3,9 @@ package org.usfirst.frc.team4373.robot.subsystems;
 import com.ctre.CANTalon;
 import com.ctre.CanTalonJNI;
 import edu.wpi.first.wpilibj.command.Subsystem;
-import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import org.usfirst.frc.team4373.robot.RobotMap;
 import org.usfirst.frc.team4373.robot.commands.teleop.DriveWithJoystick;
 import org.usfirst.frc.team4373.robot.commands.teleop.DriveWithJoystick.Direction;
-
-import java.awt.*;
 
 /**
  * Programmatic representation of physical drive train components.

@@ -4,11 +4,12 @@ import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 
 /**
- * @author (tesla)
- * Created on 3/16/17
+ * Test mode.
+ * @author Henry Pitcairn
  */
 public class TestAuton extends Command {
     private static TestAuton testAuton = null;
+
     public static TestAuton getTestAuton() {
         if (testAuton == null) testAuton = new TestAuton();
         return testAuton;
