@@ -34,7 +34,7 @@ public class Robot extends IterativeRobot {
         autonChooser.addObject("Test", "test");
         SmartDashboard.putData("Auton Mode Selector", autonChooser);
 
-        OI.getOI().getGyro().calibrate();
+        // OI.getOI().getGyro().calibrate();
         DriveTrain.getDriveTrain();
         Climber.getClimber();
         GearRelease.getGearRelease();
