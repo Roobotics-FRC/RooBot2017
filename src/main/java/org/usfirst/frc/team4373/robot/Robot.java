@@ -1211,3 +1211,6 @@ A:	Diyathinkhesaurus.
 
 Q:	What do you call a blind pre-historic animal with a dog?
 A:	Diyathinkhesaurus Rex.
+// Ginsburg's Law:
+	At the precise moment you take off your shoe in a shoe store, your
+	big toe will pop out of your sock to see what's going on.
