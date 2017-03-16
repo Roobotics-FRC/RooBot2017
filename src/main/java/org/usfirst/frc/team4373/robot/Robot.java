@@ -1174,3 +1174,4 @@ son, remember, 'Imitation is the sincerest form of philately.'"
 // Sailing is fun, but scrubbing the decks is aardvark.
 		-- Heard on Noahs' ark
 // The cost of living hasn't affected its popularity.
+// Think of your family tonight.  Try to crawl home after the computer crashes.
