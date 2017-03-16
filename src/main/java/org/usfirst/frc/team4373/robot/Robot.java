@@ -457,3 +457,5 @@ not because of their habits, but in spite of them.  The reason we find
 only robust persons doing this thing is that it has killed all the
 others who have tried it.
 		-- Ambrose Bierce, "The Devil's Dictionary"
+// There's too much beauty upon this earth for lonely men to bear.
+		-- Richard Le Gallienne
