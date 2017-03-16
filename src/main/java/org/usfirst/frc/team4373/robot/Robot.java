@@ -955,3 +955,4 @@ Of course, it would orbit Sputnik, not Earth!
 // Your fly might be open (but don't check it just now).
 // MESSAGE ACKNOWLEDGED -- The Pershing II missiles have been launched.
 // I am more bored than you could ever possibly be.  Go back to work.
+// What is worth doing is worth the trouble of asking somebody to do.
