@@ -1219,3 +1219,5 @@ A:	Diyathinkhesaurus Rex.
 // Paul Revere was a tattle-tale.
 // "my terminal is a lethal teaspoon."
 -- Patricia O Tuama
+// I owe the public nothing.
+		-- J.P. Morgan
