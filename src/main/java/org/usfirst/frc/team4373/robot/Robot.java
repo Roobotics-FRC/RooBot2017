@@ -980,3 +980,12 @@ by Hegel for the American market on a subcontract from General Dynamics.
 		-- Ralph Waldo Emerson,
 // You can no more win a war than you can win an earthquake.
 		-- Jeannette Rankin
+// Texas A&M football coach Jackie Sherrill went to the office of the Dean
+of Academics because he was concerned about his players' mental abilities.
+"My players are just too stupid for me to deal with them", he told the
+unbelieving dean.  At this point, one of his players happened to enter
+the dean's office.  "Let me show you what I mean", said Sherrill, and he
+told the player to run over to his office to see if he was in.  "OK, Coach",
+the player replied, and was off.  "See what I mean?" Sherrill asked.
+"Yeah", replied the dean.  "He could have just picked up this phone and
+called you from here."
