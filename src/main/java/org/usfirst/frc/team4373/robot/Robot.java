@@ -801,3 +801,5 @@ favor of smart solutions to stupid problems.
 // QOTD:
 	"This is a one line proof... if we start sufficiently far to the
 	left."
+// Let us not look back in anger or forward in fear, but around us in awareness.
+		-- James Thurber
