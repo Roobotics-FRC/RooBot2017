@@ -1030,3 +1030,5 @@ street in midtown Manhattan were asked whether they approved of the US
 invasion of Grenada.  Fifty-three percent said yes; 39 percent said no;
 and 8 percent said "Gimme a quarter?"
 		-- David Letterman
+// If society fits you comfortably enough, you call it freedom.
+		-- Robert Frost
