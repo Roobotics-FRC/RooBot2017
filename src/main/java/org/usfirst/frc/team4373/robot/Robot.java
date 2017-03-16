@@ -740,3 +740,5 @@ go to pieces like this but we all have to do it.
 // What the deuce is it to me?  You say that we go around the sun.  If we went
 around the moon it would not make a pennyworth of difference to me or my work.
 		-- Sherlock Holmes, "A Study in Scarlet"
+// A New York City ordinance prohibits the shooting of rabbits from the
+rear of a Third Avenue street car -- if the car is in motion.
