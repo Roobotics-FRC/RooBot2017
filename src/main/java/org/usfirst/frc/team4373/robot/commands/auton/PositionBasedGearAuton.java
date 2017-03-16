@@ -1,5 +1,6 @@
 package org.usfirst.frc.team4373.robot.commands.auton;
 
+import edu.wpi.first.wpilibj.DriverStation;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
@@ -29,6 +30,14 @@ public class PositionBasedGearAuton extends Command {
 
     private static PositionBasedGearAuton positionBasedGearAuton = null;
 
+    private void setNeutralState() {
+        this.moveForwardTurns = SmartDashboard.getNumber("Move forward turns", 4);
+        this.moveBackwardTurns = 4;
+        this.motorValue = motorValue;
+        this.state = State.WAITING;
+        this.positionStart = 0;
+    }
+
     /**
      * Gets the current TimeBasedGearAuton instance with the specified parameters.
      * @param time The amount of time the motor should run.
@@ -47,10 +56,7 @@ public class PositionBasedGearAuton extends Command {
         super();
         requires(driveTrain = DriveTrain.getDriveTrain());
         requires(gearRelease = GearRelease.getGearRelease());
-        this.moveForwardTurns = SmartDashboard.getNumber("Move forward turns", 4);
-        this.moveBackwardTurns = 4;
-        this.motorValue = motorValue;
-        this.state = State.WAITING;
+        this.setNeutralState();
     }
 
     public void setMotorValue(double motorValue) {
@@ -70,6 +76,8 @@ public class PositionBasedGearAuton extends Command {
                 turns - positionStart);
         switch (state) {
             case WAITING:
+                DriverStation.reportWarning("PositionBasedGearAuton: in State WAITING\n",
+                        false);
                 positionStart = turns;
                 state = State.MOVING_TOWARD_PEG;
                 break;
@@ -108,18 +116,17 @@ public class PositionBasedGearAuton extends Command {
         return this.isFinished;
     }
 
+
+
     @Override
     protected void end() {
-        positionStart = 0;
+        this.setNeutralState();
         driveTrain.setBoth(0.0d);
-        state = State.WAITING;
     }
 
     @Override
     protected void interrupted() {
-        // shouldn't be
-        positionStart = 0;
+        this.setNeutralState();
         driveTrain.setBoth(0d);
-        state = State.WAITING;
     }
 }
