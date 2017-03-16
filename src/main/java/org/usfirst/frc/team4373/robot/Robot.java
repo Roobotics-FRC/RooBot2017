@@ -778,3 +778,10 @@ about _n.
 // Term, holidays, term, holidays, till we leave school, and then work, work,
 work till we die.
 		-- C.S. Lewis
+// Fortune's graffito of the week (or maybe even month):
+
+		Don't Write On Walls!
+
+		   (and underneath)
+
+		You want I should type?
