@@ -522,3 +522,24 @@ divinity.
 - Benjamin Franklin
 // Question authority.
 // As of next week, passwords will be entered in Morse code.
+// XLVII:
+	Two-thirds of the Earth's surface is covered with water.  The other
+	third is covered with auditors from headquarters.
+XLVIII:
+	The more time you spend talking about what you have been doing, the
+	less time you have to spend doing what you have been talking about.
+	Eventually, you spend more and more time talking about less and less
+	until finally you spend all your time talking about nothing.
+XLIX:
+	Regulations grow at the same rate as weeds.
+L:
+	The average regulation has a life span one-fifth as long as a
+	chimpanzee's and one-tenth as long as a human's -- but four times
+	as long as the official's who created it.
+LI:
+	By the time of the United States Tricentennial, there will be more
+	government workers than there are workers.
+LII:
+	People working in the private sector should try to save money.
+	There remains the possibility that it may someday be valuable again.
+		-- Norman Augustine
