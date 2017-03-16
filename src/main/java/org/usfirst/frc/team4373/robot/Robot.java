@@ -628,3 +628,7 @@ the sights I'm never going to visit.
 where everything is reversed, after which the point becomes to understand
 more and more that there is something which cannot be understood.
 		-- S. Kierkegaard
+// 	"These are DARK TIMES for all mankind's HIGHEST VALUES!"
+	"These are DARK TIMES for FREEDOM and PROSPERITY!"
+	"These are GREAT TIMES to put your money on BAD GUY to kick the CRAP
+out of MEGATON MAN!"
