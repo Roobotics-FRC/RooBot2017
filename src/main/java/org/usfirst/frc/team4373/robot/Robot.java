@@ -227,3 +227,8 @@ greatness.  Those who have greatness within them do not go in for politics.
 // Never go to bed mad.  Stay up and fight.
 		-- Phyllis Diller, "Phyllis Diller's Housekeeping Hints"
 // Perhaps the biggest disappointments were the ones you expected anyway.
+// The three biggest software lies:
+	(1) *Of course* we'll give you a copy of the source.
+	(2) *Of course* the third party vendor we bought that from
+	    will fix the microcode.
+	(3) Beta test site?  No, *of course* you're not a beta test site.
