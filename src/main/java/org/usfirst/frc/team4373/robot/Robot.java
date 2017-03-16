@@ -1199,3 +1199,8 @@ Compute' -- I forget which."
 		-- Epigrams in Programming, ACM SIGPLAN Sept. 1982
 // Don't try to have the last word -- you might get it.
 		-- Lazarus Long
+// This is for all ill-treated fellows
+	Unborn and unbegot,
+For them to read when they're in trouble
+	And I am not.
+		-- A. E. Housman
