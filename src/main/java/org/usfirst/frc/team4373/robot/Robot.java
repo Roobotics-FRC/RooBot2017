@@ -846,3 +846,5 @@ should go park it in the middle of the freeway and yell at everyone to
 get off my driveway."
 		-- Steven Wright
 // Succumb to natural tendencies.  Be hateful and boring.
+// Harrison's Postulate:
+	For every action, there is an equal and opposite criticism.
