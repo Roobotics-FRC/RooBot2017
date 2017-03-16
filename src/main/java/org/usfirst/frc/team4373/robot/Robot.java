@@ -624,3 +624,7 @@ government, therefore, is the method of choosing leaders.
 the sights I'm never going to visit.
 // Everything takes longer, costs more, and is less useful.
 		-- Erwin Tomash
+// [Maturity consists in the discovery that] there comes a critical moment
+where everything is reversed, after which the point becomes to understand
+more and more that there is something which cannot be understood.
+		-- S. Kierkegaard
