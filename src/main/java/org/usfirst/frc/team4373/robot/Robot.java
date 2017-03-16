@@ -138,3 +138,7 @@ A:	Because he was hungry.
 // All that glitters has a high refractive index.
 // QOTD:
 	"I used to go to UCLA, but then my Dad got a job."
+// A neighbor came to Nasrudin, asking to borrow his donkey.  "It is out on
+loan," the teacher replied.  At that moment, the donkey brayed loudly inside
+the stable.  "But I can hear it bray, over there."  "Whom do you believe,"
+asked Nasrudin, "me or a donkey?"
