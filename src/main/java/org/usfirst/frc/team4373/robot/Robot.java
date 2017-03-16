@@ -1301,3 +1301,7 @@ suggesting that the sweet singer was "semi-literate".  Her reply was
 forthright: "The Editors that has spoken in this scandalous manner have went
 beyond reason."  She added that "literary work is very difficult to do".
 		-- Stephen Pile, "The Book of Heroic Failures"
+// The difference between common-sense and paranoia is that common-sense is
+thinking everyone is out to get you.  That's normal -- they are.  Paranoia
+is thinking that they're conspiring.
+		-- J. Kegler
