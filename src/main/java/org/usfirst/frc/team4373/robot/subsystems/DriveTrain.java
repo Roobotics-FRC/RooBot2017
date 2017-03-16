@@ -64,6 +64,7 @@ public class DriveTrain extends Subsystem {
      */
     public void changeControlMode(CANTalon.TalonControlMode controlMode) {
         this.left1.changeControlMode(controlMode);
+        this.left1.reverseOutput(true);
         this.right1.changeControlMode(controlMode);
         this.middle1.changeControlMode(controlMode);
         this.left1.setFeedbackDevice(CANTalon.FeedbackDevice.CtreMagEncoder_Absolute);
