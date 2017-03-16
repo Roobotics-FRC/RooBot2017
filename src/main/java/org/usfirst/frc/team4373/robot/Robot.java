@@ -329,3 +329,8 @@ I'm looking forward to not being able to drive 65, either.
 // No small art is it to sleep: it is necessary for that purpose to keep
 awake all day.
 		-- Nietzsche
+// O slender as a willow-wand!  O clearer than clear water!
+O reed by the living pool!  Fair river-daughter!
+O spring-time and summer-time, and spring again after!
+O wind on the waterfall, and the leaves' laughter!
+		-- J. R. R. Tolkien
