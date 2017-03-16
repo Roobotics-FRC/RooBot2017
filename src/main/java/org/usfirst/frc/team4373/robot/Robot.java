@@ -249,3 +249,4 @@ stopping at red lights are both optional.
 // Mundus vult decipi decipiatur ergo.
 		-- Xaviera Hollander
 	[The world wants to be cheated, so cheat.]
+// Some people live life in the fast lane.  You're in oncoming traffic.
