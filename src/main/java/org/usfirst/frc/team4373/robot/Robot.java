@@ -970,3 +970,7 @@ his share in this defense are the constitutional rights secure."
 // "Data is a lot like humans:  It is born.  Matures.  Gets married to other data,
 divorced. Gets old.  One thing that it doesn't do is die.  It has to be killed."
 -- Arthur Miller
+// The two party system ... is a triumph of the dialectic.  It showed that
+two could be one and one could be two and had probably been fabricated
+by Hegel for the American market on a subcontract from General Dynamics.
+		-- I.F. Stone
