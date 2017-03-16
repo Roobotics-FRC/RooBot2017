@@ -804,3 +804,7 @@ favor of smart solutions to stupid problems.
 // Let us not look back in anger or forward in fear, but around us in awareness.
 		-- James Thurber
 // It's a good thing we don't get all the government we pay for.
+// "The picture's pretty bleak, gentlemen...  The world's climates are changing, 
+the mammals are taking over, and we all have a brain about the size of a 
+walnut."
+-- some dinosaurs from The Far Side, by Gary Larson
