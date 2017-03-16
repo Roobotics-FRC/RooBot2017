@@ -190,3 +190,7 @@ system, institute complete automation and destroy the male sex.
 they don't notice you.
 // Life is what happens to you while you're busy making other plans.
 		-- John Lennon, "Beautiful Boy"
+// Thus spake the master programmer:
+	"When you have learned to snatch the error code from
+	the trap frame, it will be time for you to leave."
+		-- Geoffrey James, "The Tao of Programming"
