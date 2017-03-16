@@ -1168,3 +1168,5 @@ son, remember, 'Imitation is the sincerest form of philately.'"
 	of less successful organizations, such as the US government, IBM
 	employs 68% of all known ex-Attorneys' General.
 // True happiness will be found only in true love.
+// If we can ever make red tape nutritional, we can feed the world.
+		-- R. Schaeberle, "Management Accounting"
