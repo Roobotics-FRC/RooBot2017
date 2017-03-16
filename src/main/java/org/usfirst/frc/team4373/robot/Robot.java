@@ -999,3 +999,4 @@ terror of their tyranny, however, is alleviated by their lack of consistency."
 -- Albert Einstein
 // Bunker's Admonition:
 	You cannot buy beer; you can only rent it.
+// Chicago law prohibits eating in a place that is on fire.
