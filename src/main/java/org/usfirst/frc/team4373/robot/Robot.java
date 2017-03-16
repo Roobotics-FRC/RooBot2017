@@ -108,3 +108,7 @@ public class Robot extends IterativeRobot {
 // A friend is a present you give yourself.
 		-- Robert Louis Stevenson
 // Good day to avoid cops.  Crawl to work.
+// Is not marriage an open question, when it is alleged, from the
+beginning of the world, that such as are in the institution wish to get
+out, and such as are out wish to get in?
+		-- Ralph Emerson
