@@ -923,3 +923,7 @@ safety deserve neither liberty nor safety."
 // The best way to make a fire with two sticks is to make sure one of them
 is a match.
 		-- Will Rogers
+// I thought my people would grow tired of killing.  But you were right,
+they see it is easier than trading.  And it has its pleasures.  I feel
+it myself.  Like the hunt, but with richer rewards.
+		-- Apella, "A Private Little War", stardate 4211.8
