@@ -152,3 +152,12 @@ Christian forbearance among men.
 // Be not anxious about what you have, but about what you are.
 		-- Pope St. Gregory I
 // Today is what happened to yesterday.
+// Coming to Stores Near You:
+
+101 Grammatically Correct Popular Tunes Featuring:
+
+	(You Aren't Anything but a) Hound Dog
+	It Doesn't Mean a Thing If It Hasn't Got That Swing
+	I'm Not Misbehaving
+
+And A Whole Lot More...
