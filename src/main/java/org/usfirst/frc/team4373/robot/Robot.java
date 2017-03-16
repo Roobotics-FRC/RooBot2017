@@ -1116,3 +1116,8 @@ met a blonde named Circe on the streetcar, and didn't come back for 20 years.
 	What you get when you eat too much and too fast.
 // To iterate is human, to recurse, divine.
 		-- Robert Heller
+// Ho! Tom Bombadil, Tom Bombadillo!
+By water, wood and hill, by reed and willow,
+By fire, sun and moon, harken now and hear us!
+Come, Tom Bombadil, for our need is near us!
+		-- J. R. R. Tolkien
