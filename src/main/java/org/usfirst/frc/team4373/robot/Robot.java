@@ -514,3 +514,9 @@ put on a professor.
 	Nothing is so good that somebody, somewhere, will not hate it.
 // After any salary raise, you will have less money at the end of the
 month than you did before.
+// As to Jesus of Nazareth...I think the system of Morals and his Religion,
+as he left them to us, the best the World ever saw or is likely to see;
+but I apprehend it has received various corrupting Changes, and I have,
+with most of the present Dissenters in England, some doubts as to his
+divinity.
+- Benjamin Franklin
