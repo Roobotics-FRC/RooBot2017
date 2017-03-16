@@ -158,6 +158,15 @@ public class DriveTrain extends Subsystem {
     }
 
     /**
+     * Resets all encoder positions
+     */
+    public void resetEncoders() {
+        this.left1.setEncPosition(0);
+        this.right1.setEncPosition(0);
+        this.middle2.setEncPosition(0);
+    }
+
+    /**
      * "Bumps" the robot in the target direction.
      * @param direction The direction in which to bump the robot.
      */

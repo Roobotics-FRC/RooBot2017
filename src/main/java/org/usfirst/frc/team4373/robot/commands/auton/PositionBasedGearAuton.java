@@ -70,6 +70,7 @@ public class PositionBasedGearAuton extends Command {
                 turns - positionStart);
         switch (state) {
             case WAITING:
+                positionStart = driveTrain.getLeftEncoderTurns();
                 state = State.MOVING_TOWARD_PEG;
                 break;
             case MOVING_TOWARD_PEG:
