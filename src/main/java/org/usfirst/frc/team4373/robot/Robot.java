@@ -520,3 +520,4 @@ but I apprehend it has received various corrupting Changes, and I have,
 with most of the present Dissenters in England, some doubts as to his
 divinity.
 - Benjamin Franklin
+// Question authority.
