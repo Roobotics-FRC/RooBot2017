@@ -709,3 +709,6 @@ but together can decide that nothing can be done.
 // There must be at least 500,000,000 rats in the United States; of course,
 I never heard the story before.
 // How come everyone's going so slow if it's called rush hour?
+// A writer is congenitally unable to tell the truth and that is why we call
+what he writes fiction.
+		-- William Faulkner
