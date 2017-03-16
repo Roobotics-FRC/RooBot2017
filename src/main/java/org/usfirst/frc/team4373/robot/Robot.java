@@ -1223,3 +1223,4 @@ A:	Diyathinkhesaurus Rex.
 		-- J.P. Morgan
 // Fortunate is he for whom the belle toils.
 // The girl who stoops to conquer usually wears a low-cut dress.
+// Don't interfere with the stranger's style.
