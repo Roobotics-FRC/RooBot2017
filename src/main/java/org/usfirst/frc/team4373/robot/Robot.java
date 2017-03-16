@@ -548,3 +548,7 @@ LII:
 // Executive ability is deciding quickly and getting somebody else to do
 the work.
 		-- John G. Pollard
+// Grandpa Charnock's Law:
+	You never really learn to swear until you learn to drive.
+
+	[I thought it was when your kids learned to drive.  Ed.]
