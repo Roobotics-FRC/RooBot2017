@@ -367,3 +367,4 @@ You:	"It's figgy pudding!  What a treat!"
 
 Daughter: "It looks like goat barf."
 		-- Dave Barry, "Simple, Homespun Gifts"
+// In order to get a loan you must first prove you don't need it.
