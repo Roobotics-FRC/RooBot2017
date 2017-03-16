@@ -997,3 +997,5 @@ of COMPARATIVE SHOPPING ...
 // "The majority of the stupid is invincible and guaranteed for all time. The 
 terror of their tyranny, however, is alleviated by their lack of consistency."
 -- Albert Einstein
+// Bunker's Admonition:
+	You cannot buy beer; you can only rent it.
