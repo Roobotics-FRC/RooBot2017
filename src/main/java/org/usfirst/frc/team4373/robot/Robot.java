@@ -587,3 +587,19 @@ same moment -- halftime.
 // "If it ain't broke, don't fix it."
 - Bert Lantz
 // You will be advanced socially, without any special effort on your part.
+// 	The General disliked trying to explain the highly technical inner
+workings of the U.S. Air Force.
+	"$7,662 for a ten cup coffee maker, General?" the Senator asked.
+	In his head he ran through his standard explanations.  "It's not so,"
+he thought.  "It's a deterrent."  Soon he came up with, "It's computerized,
+Senator.  Tiny computer chips make coffee that's smooth and full-bodied.  Try
+a cup."
+	The Senator did.  "Pfffttt!  Tastes like jet fuel!"
+	"It's not so," the General thought.  "It's a deterrent."
+	Then he remembered something.  "We bought a lot of untested computer
+chips," the General answered.  "They got into everything.  Just a little
+mix-up.  Nothing serious."
+	Then he remembered something else.  It was at the site of the
+mysterious B-1 crash.  A strange smell in the fuel lines.  It smelled like
+coffee.  Smooth and full bodied...
+		-- Another Episode of General's Hospital
