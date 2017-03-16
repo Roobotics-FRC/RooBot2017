@@ -301,3 +301,4 @@ finds himself no wiser than before," Bokonon tells us.  "He is full of
 murderous resentment of people who are ignorant without having come by
 their ignorance the hard way."
 		-- Kurt Vonnegut, "Cat's Cradle"
+// Greatness is a transitory experience. It is never consistent.
