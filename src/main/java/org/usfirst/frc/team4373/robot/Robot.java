@@ -512,3 +512,5 @@ put on a professor.
 		-- Pink Floyd
 // Pohl's law:
 	Nothing is so good that somebody, somewhere, will not hate it.
+// After any salary raise, you will have less money at the end of the
+month than you did before.
