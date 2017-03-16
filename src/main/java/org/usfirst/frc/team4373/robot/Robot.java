@@ -1193,3 +1193,4 @@ With no place to go.		But that can't make the queue move fast.
 		-- Muhammad Ali
 // We lie loudest when we lie to ourselves.
 	-- Eric Hoffer
+// Stamp out organized crime!!  Abolish the IRS.
