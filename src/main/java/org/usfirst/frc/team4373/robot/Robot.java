@@ -696,3 +696,6 @@ other, and loved each other... and then let each other go before anyone
 had to seek professional help."
 // Avec!
 // You will gain money by a fattening action.
+// No modern woman with a grain of sense ever sends little notes to an
+unmarried man -- not until she is married, anyway.
+		-- Arthur Binstead
