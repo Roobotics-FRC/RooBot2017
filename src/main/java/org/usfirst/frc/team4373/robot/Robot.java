@@ -571,3 +571,5 @@ could tell them.
 		-- "Get GUMMed," Dr. Dobb's Journal, June '84
 // I think there's a world market for about five computers.
 		-- attr. Thomas J. Watson (Chairman of the Board, IBM), 1943
+// Did you know that clones never use mirrors?
+		-- Ambrose Bierce, "The Devil's Dictionary"
