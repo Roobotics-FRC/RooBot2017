@@ -715,3 +715,4 @@ what he writes fiction.
 // Somewhere in Tenafly, New Jersey, a chiropractor is viewing "Leave it
 to Beaver"!
 // Freedom of the press is for those who happen to own one.
+// Don't tell me what you dreamed last night for I've been reading Freud.
