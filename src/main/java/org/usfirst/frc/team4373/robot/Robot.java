@@ -1059,3 +1059,6 @@ and investigate for yourself than to repeat a creed. ... I look for the day
 when *reason*, throned upon the world's brains, shall be the King of Kings and
 the God of Gods.
 -- Robert G. Ingersoll
+// Life is a biochemical reaction to the stimulus of the surrounding
+environment in a stable ecosphere, while a bowl of cherries is a
+round container filled with little red fruits on sticks.
