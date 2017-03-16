@@ -658,3 +658,7 @@ a man who takes more words than are necessary to tell more than he knows.
 at the right moment.
 		-- Horace
 // Where do your SOCKS go when you lose them in th' WASHER?
+// The Third Law of Photography:
+	If you did manage to get any good shots, they will be ruined
+	when someone inadvertently opens the darkroom door and all of
+	the dark leaks out.
