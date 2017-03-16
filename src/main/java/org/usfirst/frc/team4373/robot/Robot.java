@@ -787,3 +787,5 @@ work till we die.
 		You want I should type?
 // She been married so many times she got rice marks all over her face.
 		-- Tom Waits
+// Complex system:
+	One with real problems and imaginary profits.
