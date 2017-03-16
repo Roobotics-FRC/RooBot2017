@@ -679,3 +679,5 @@ logically experienced citizens."
 	According to the FAA, the propeller blade didn't break off, it was
 just a case of "uncontained blade liberation."
 		-- Quarterly Review of Doublespeak (NCTE)
+// Audacity, and again, audacity, and always audacity.
+		-- G.J. Danton
