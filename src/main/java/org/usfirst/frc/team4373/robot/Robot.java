@@ -1308,3 +1308,7 @@ is thinking that they're conspiring.
 // Them as has, gets.
 // The truth you speak has no past and no future.
 It is, and that's all it needs to be.
+// Old Mother Hubbard lived in a shoe,
+She had so many children,
+She didn't know what to do.
+So she moved to Atlanta.
