@@ -346,3 +346,5 @@ A:	In the United States you can't buy anything for zlotys and in
 // One thing about the past.
 It's likely to last.
 		-- Ogden Nash
+// Whenever a system becomes completely defined, some damn fool discovers
+something which either abolishes the system or expands it beyond recognition.
