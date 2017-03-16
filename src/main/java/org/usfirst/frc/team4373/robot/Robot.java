@@ -612,3 +612,4 @@ but a left-hander would be the thing if they wouldn't have knowed it already
 because there is more things involved than could come up on the road, even
 after we've been home a long while.
 		-- Casey Stengel
+// If God had intended Man to Smoke, He would have set him on Fire.
