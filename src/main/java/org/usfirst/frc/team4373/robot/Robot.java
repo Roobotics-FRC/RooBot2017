@@ -205,3 +205,16 @@ is a lie.  You lie, you tell the truth ... but you cannot, for you lie.
 // Life is a serious burden, which no thinking, humane person would
 wantonly inflict on someone else.
 		-- Clarence Darrow
+// Around the turn of this century, a composer named Camille Saint-Saens wrote
+a satirical zoological-fantasy called "Le Carnaval des Animaux."  Aside from
+one movement of this piece, "The Swan", Saint-Saens didn't allow this work
+to be published or even performed until a year had elapsed after his death.
+(He died in 1921.)
+	Most of us know the "Swan" movement rather well, with its smooth,
+flowing cello melody against a calm background; but I've been having this
+fantasy...
+	What if he had written this piece with lyrics, as a song to be sung?
+And, further, what if he had accompanied this song with a musical saw?  (This
+instrument really does exist, often played by percussionists!)  Then the
+piece would be better known as:
+	SAINT-SAENS' SAW SONG "SWAN"!
