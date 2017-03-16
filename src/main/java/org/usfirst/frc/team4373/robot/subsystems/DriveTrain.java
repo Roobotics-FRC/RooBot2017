@@ -166,6 +166,10 @@ public class DriveTrain extends Subsystem {
                 + power + "\tCPR:"
                 + getLeftEncoderCPR() + "\n",
                 true);
+        if (power == 0) {
+            Exception e = new Exception("Oh fuck");
+            e.printStackTrace();
+        }
         this.left1.set(power);
     }
 
