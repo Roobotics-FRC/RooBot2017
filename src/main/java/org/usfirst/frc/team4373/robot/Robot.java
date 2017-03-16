@@ -637,3 +637,4 @@ out of MEGATON MAN!"
 // Give them RADAR-GUIDED SKEE-BALL LANES and VELVEETA BURRITOS!!
 // Scrubbing floors and emptying bedpans has as much dignity as the Presidency.
 		-- Richard Nixon
+// You had mail.  Paul read it, so ask him what it said.
