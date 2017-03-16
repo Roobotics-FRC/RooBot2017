@@ -1187,3 +1187,5 @@ With no place to go.		But that can't make the queue move fast.
 				I've moved up one at last.
 		-- Ernest Adams, "Early Morning Queue", to "Early
 		   Morning Rain" by G. Lightfoot
+// Be careful when you bite into your hamburger.
+		-- Derek Bok
