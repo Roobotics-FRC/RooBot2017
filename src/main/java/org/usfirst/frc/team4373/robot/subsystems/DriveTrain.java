@@ -153,6 +153,7 @@ public class DriveTrain extends Subsystem {
     public void setLeft(double power) {
         if (this.left1.getControlMode().equals(CANTalon.TalonControlMode.Position)) {
             power *= getLeftEncoderCPR();
+            this.left1.setSetpoint(power);
         }
         this.left1.set(power);
     }
