@@ -737,3 +737,6 @@ go to pieces like this but we all have to do it.
 		-- Whitney Balliett
 // I hate babies.  They're so human.
 		-- H.H. Munro
+// What the deuce is it to me?  You say that we go around the sun.  If we went
+around the moon it would not make a pennyworth of difference to me or my work.
+		-- Sherlock Holmes, "A Study in Scarlet"
