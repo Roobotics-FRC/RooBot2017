@@ -890,3 +890,5 @@ Answer each of the following items "true" or "false"
 		-- G.B. Shaw
 // "Success covers a multitude of blunders."
 -- George Bernard Shaw
+// Now is the time for all good men to come to.
+		-- Walt Kelly
