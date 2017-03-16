@@ -325,3 +325,4 @@ electrical system, which is good, because electricity can kill you.
 		-- Dave Barry, "The Taming of the Screw"
 // I can't drive 55.
 I'm looking forward to not being able to drive 65, either.
+// Avoid cliches like the plague.  They're a dime a dozen.
