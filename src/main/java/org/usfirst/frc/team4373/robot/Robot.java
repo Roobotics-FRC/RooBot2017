@@ -1217,3 +1217,5 @@ A:	Diyathinkhesaurus Rex.
 // Beat your son every day; you may not know why, but he will.
 // RHAPSODY in Glue!
 // Paul Revere was a tattle-tale.
+// "my terminal is a lethal teaspoon."
+-- Patricia O Tuama
