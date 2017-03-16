@@ -552,3 +552,5 @@ the work.
 	You never really learn to swear until you learn to drive.
 
 	[I thought it was when your kids learned to drive.  Ed.]
+// The happiest time of a person's life is after his first divorce.
+		-- J.K. Galbraith 
