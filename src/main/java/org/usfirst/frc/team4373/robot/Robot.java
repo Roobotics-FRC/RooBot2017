@@ -586,3 +586,4 @@ same moment -- halftime.
 		-- Roy Harper
 // "If it ain't broke, don't fix it."
 - Bert Lantz
+// You will be advanced socially, without any special effort on your part.
