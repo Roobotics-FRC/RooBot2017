@@ -475,3 +475,8 @@ autonomous region, rioted over much needed spelling reform in the Soviet Union.
 voters to win the next election.
 // Violence is a sword that has no handle -- you have to hold the blade.
 // Why bother building any more nuclear warheads until we use the ones we have?
+// pixel, n.:
+	A mischievous, magical spirit associated with screen displays.
+	The computer industry has frequently borrowed from mythology:
+	Witness the sprites in computer graphics, the demons in artificial
+	intelligence, and the trolls in the marketing department.
