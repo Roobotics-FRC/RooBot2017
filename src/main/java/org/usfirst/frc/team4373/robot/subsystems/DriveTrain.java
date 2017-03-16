@@ -1,7 +1,9 @@
 package org.usfirst.frc.team4373.robot.subsystems;
 
 import com.ctre.CANTalon;
+import com.ctre.CanTalonJNI;
 import edu.wpi.first.wpilibj.command.Subsystem;
+import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import org.usfirst.frc.team4373.robot.RobotMap;
 import org.usfirst.frc.team4373.robot.commands.teleop.DriveWithJoystick;
 import org.usfirst.frc.team4373.robot.commands.teleop.DriveWithJoystick.Direction;
@@ -58,6 +60,7 @@ public class DriveTrain extends Subsystem {
      * @return The number of rotations (positive or negative) of the left motors.
      */
     public int getLeftEncoderPosition() {
+        SmartDashboard.putNumber("Encoder CPR", this.left1.getParameter(CanTalonJNI.param_t.eNumberEncoderCPR));
         return left1.getEncPosition();
     }
 
