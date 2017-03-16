@@ -466,3 +466,5 @@ autonomous region, rioted over much needed spelling reform in the Soviet Union.
 		-- Erica Jong, "Fear of Flying"
 // An Italian is COMBING his hair in suburban DES MOINES!
 // May your SO always know when you need a hug.
+// First Law of Socio-Genetics:
+	Celibacy is not hereditary.
