@@ -5,7 +5,7 @@ import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import org.usfirst.frc.team4373.robot.commands.auton.AutonDriveForwardToPosition;
+import org.usfirst.frc.team4373.robot.commands.auton.PositionBasedGearAuton;
 import org.usfirst.frc.team4373.robot.commands.auton.TimeBasedAuton;
 import org.usfirst.frc.team4373.robot.commands.auton.TimeBasedGearAuton;
 import org.usfirst.frc.team4373.robot.subsystems.Climber;
@@ -41,7 +41,7 @@ public class Robot extends IterativeRobot {
 
     @Override
     public void teleopInit() {
-        if(!isAutonStopped) {
+        if (!isAutonStopped) {
             autonCommand.cancel();
         }
         OI.getOI().getGyro().reset();
@@ -68,8 +68,8 @@ public class Robot extends IterativeRobot {
                 autonCommand = TimeBasedGearAuton.getTimeBasedGearAuton(autonValueKey, motorValue);
                 break;
             case "driveRevolutions":
-                autonCommand = AutonDriveForwardToPosition.getAutonDriveForwardToPosition(
-                        autonRevsKey,motorValue);
+                autonCommand = PositionBasedGearAuton.getPositionBasedGearAUton(
+                        autonRevsKey, motorValue);
                 break;
             default:
                 autonCommand = null;
@@ -87,7 +87,7 @@ public class Robot extends IterativeRobot {
 
     @Override
     public void teleopPeriodic() {
-        if(!isAutonStopped) {
+        if (!isAutonStopped) {
             autonCommand.cancel();
         }
         Scheduler.getInstance().run();
