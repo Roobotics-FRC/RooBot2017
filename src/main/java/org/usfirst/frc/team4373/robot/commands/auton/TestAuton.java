@@ -30,7 +30,7 @@ public class TestAuton extends Command {
     @Override
     protected void execute() {
         driveTrain.changeControlMode(CANTalon.TalonControlMode.Position);
-        driveTrain.setLeft(3);
+        driveTrain.setLeft(13);
     }
 
     @Override
