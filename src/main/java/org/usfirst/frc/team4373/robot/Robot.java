@@ -1114,3 +1114,5 @@ met a blonde named Circe on the streetcar, and didn't come back for 20 years.
 // Mind your own business, Spock.  I'm sick of your halfbreed interference.
 // Gravity:
 	What you get when you eat too much and too fast.
+// To iterate is human, to recurse, divine.
+		-- Robert Heller
