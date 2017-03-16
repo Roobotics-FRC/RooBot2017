@@ -1132,3 +1132,6 @@ If you wish to be happy forever, learn to fish.
 	To provide weapons to a Spanish pickle.
 // It was a JOKE!!  Get it??  I was receiving messages from DAVID LETTERMAN!!
 YOW!!
+// Artificial intelligence has the same relation to intelligence as
+artificial flowers have to flowers.
+		-- David Parnas
