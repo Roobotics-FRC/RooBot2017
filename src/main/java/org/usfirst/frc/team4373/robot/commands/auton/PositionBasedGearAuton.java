@@ -78,7 +78,8 @@ public class PositionBasedGearAuton extends Command {
             case WAITING:
                 SmartDashboard.putString("Autonomous state",
                         "PositionBasedGearAuton:WAITING\n");
-                positionStart = turns;
+                setNeutralState();
+                // positionStart = turns;
                 state = State.MOVING_TOWARD_PEG;
                 break;
             case MOVING_TOWARD_PEG:
