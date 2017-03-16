@@ -408,3 +408,6 @@ A&P checkout counters.  Who's going to be impressed with us electrical
 engineers then?  Are we, as the saying goes, giving away the store?
 		-- Robert W. Lucky, IEEE President
 // The world is coming to an end!  Repent and return those library books!
+// Democracy is a process by which the people are free to choose the man who
+will get the blame.
+		-- Laurence J. Peter
