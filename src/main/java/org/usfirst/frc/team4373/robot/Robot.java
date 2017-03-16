@@ -1242,3 +1242,18 @@ Aren't we all out on our own recognizance?
 		-- Rodney Dangerfield
 // A vivid and creative mind characterizes you.
 // Toddlers are the stormtroopers of the Lord of Entropy.
+// Finagle's First Law:
+	To study a subject best, understand it thoroughly before you start.
+
+Finagle's Second Law:
+	Always keep a record of data -- it indicates you've been working.
+
+Finagle's Fourth Law:
+	Once a job is fouled up, anything done to improve it only makes
+	it worse.
+
+Finagle's Fifth Law:
+	Always draw your curves, then plot your readings.
+
+Finagle's Sixth Law:
+	Don't believe in miracles -- rely on them.
