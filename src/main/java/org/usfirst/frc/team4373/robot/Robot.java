@@ -755,3 +755,7 @@ the prisoners of addiction and the prisoners of envy.
 // Just because you like my stuff doesn't mean I owe you anything.
 		-- Bob Dylan
 // Your society will be sought by people of taste and refinement.
+// 	"For I perceive that behind this seemingly unrelated sequence
+of events, there lurks a singular, sinister attitude of mind."
+	"Whose?"
+	"MINE! HA-HA!"
