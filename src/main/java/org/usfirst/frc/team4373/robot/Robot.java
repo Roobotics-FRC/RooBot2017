@@ -1194,3 +1194,6 @@ With no place to go.		But that can't make the queue move fast.
 // We lie loudest when we lie to ourselves.
 	-- Eric Hoffer
 // Stamp out organized crime!!  Abolish the IRS.
+// "The eleventh commandment was `Thou Shalt Compute' or `Thou Shalt Not
+Compute' -- I forget which."
+		-- Epigrams in Programming, ACM SIGPLAN Sept. 1982
