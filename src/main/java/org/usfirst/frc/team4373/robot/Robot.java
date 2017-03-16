@@ -1214,3 +1214,4 @@ A:	Diyathinkhesaurus Rex.
 // Ginsburg's Law:
 	At the precise moment you take off your shoe in a shoe store, your
 	big toe will pop out of your sock to see what's going on.
+// Beat your son every day; you may not know why, but he will.
