@@ -1170,3 +1170,4 @@ son, remember, 'Imitation is the sincerest form of philately.'"
 // True happiness will be found only in true love.
 // If we can ever make red tape nutritional, we can feed the world.
 		-- R. Schaeberle, "Management Accounting"
+// Talk is cheap because supply always exceeds demand.
