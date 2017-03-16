@@ -293,3 +293,4 @@ proof by omission:
 	'The reader may easily supply the details'
 	'The other 253 cases are analogous'
 	'...' 
+// When all else fails, read the instructions.
