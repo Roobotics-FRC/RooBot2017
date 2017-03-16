@@ -650,3 +650,4 @@ a man who takes more words than are necessary to tell more than he knows.
 // egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
 // Per buck you get more computing action with the small computer.
 		-- R.W. Hamming
+// Very few profundities can be expressed in less than 80 characters.
