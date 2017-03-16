@@ -813,3 +813,6 @@ walnut."
 	creating endless annoyance to male users.
 		-- Rich Hall, "Sniglets"
 // He who has imagination without learning has wings but no feet.
+// Comparing information and knowledge is like asking whether the fatness
+of a pig is more or less green than the designated hitter rule."
+		-- David Guaspari
