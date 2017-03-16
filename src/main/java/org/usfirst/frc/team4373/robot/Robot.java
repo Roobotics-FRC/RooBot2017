@@ -200,3 +200,5 @@ is a lie.  You lie, you tell the truth ... but you cannot, for you lie.
 		-- Norman the android, "I, Mudd", stardate 4513.3
 // Not all who own a harp are harpers.
 		-- Marcus Terentius Varro
+// Three may keep a secret, if two of them are dead.
+		-- Benjamin Franklin
