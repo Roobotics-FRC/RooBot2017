@@ -895,3 +895,5 @@ Answer each of the following items "true" or "false"
 // 	"Hawk, we're going to die."
 	"Never say die... and certainly never say we."
 		-- M*A*S*H
+// User n.:
+	A programmer who will believe anything you tell him.
