@@ -1062,3 +1062,5 @@ the God of Gods.
 // Life is a biochemical reaction to the stimulus of the surrounding
 environment in a stable ecosphere, while a bowl of cherries is a
 round container filled with little red fruits on sticks.
+// Support the Girl Scouts!
+	(Today's Brownie is tomorrow's Cookie!)
