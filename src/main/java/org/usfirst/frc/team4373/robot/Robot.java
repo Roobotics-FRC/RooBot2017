@@ -1016,3 +1016,6 @@ miniaturization, you could place half a dozen of them on a pinhead.
 // I've always felt sorry for people that don't drink -- remember,
 when they wake up, that's as good as they're gonna feel all day!
 // Look!  Before our very eyes, the future is becoming the past.
+// At Group L, Stoffel oversees six first-rate programmers, a managerial
+challenge roughly comparable to herding cats.
+		-- The Washington Post Magazine, 9 June, 1985
