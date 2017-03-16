@@ -1130,3 +1130,5 @@ If you wish to be happy forever, learn to fish.
 		-- Chinese Proverb
 // Armadillo:
 	To provide weapons to a Spanish pickle.
+// It was a JOKE!!  Get it??  I was receiving messages from DAVID LETTERMAN!!
+YOW!!
