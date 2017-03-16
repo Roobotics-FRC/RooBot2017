@@ -795,3 +795,4 @@ favor of smart solutions to stupid problems.
 		-- Piers Anthony
 // "And they told us, what they wanted...
  Was a sound that could kill some-one, from a distance." -- Kate Bush
+// But Officer, I stopped for the last one, and it was green!
