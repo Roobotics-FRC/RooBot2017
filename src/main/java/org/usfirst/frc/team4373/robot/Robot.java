@@ -761,3 +761,17 @@ of events, there lurks a singular, sinister attitude of mind."
 	"MINE! HA-HA!"
 // Bringing computers into the home won't change either one, but may
 revitalize the corner saloon.
+// Proof techniques #1: Proof by Induction.
+
+This technique is used on equations with "_n" in them.  Induction
+techniques are very popular, even the military used them.
+
+SAMPLE: Proof of induction without proof of induction.
+
+	We know it's true for _n equal to 1.  Now assume that it's true
+for every natural number less than _n.  _N is arbitrary, so we can take _n
+as large as we want.  If _n is sufficiently large, the case of _n+1 is
+trivially equivalent, so the only important _n are _n less than _n.  We
+can take _n = _n (from above), so it's true for _n+1 because it's just
+about _n.
+	QED.	(QED translates from the Latin as "So what?")
