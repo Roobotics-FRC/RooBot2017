@@ -1035,3 +1035,4 @@ and 8 percent said "Gimme a quarter?"
 // Q:	How much does it cost to ride the Unibus?
 A:	2 bits.
 // You might have mail.
+// Try to value useful qualities in one who loves you.
