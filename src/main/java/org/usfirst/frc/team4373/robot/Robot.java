@@ -1040,3 +1040,16 @@ A:	2 bits.
 clear question.
 // Since we're all here, we must not be all there.
 		-- Bob "Mountain" Beck
+// flowchart, n. & v.:
+	[From flow "to ripple down in rich profusion, as hair" + chart
+"a cryptic hidden-treasure map designed to mislead the uninitiated."]
+1. n. The solution, if any, to a class of Mascheroni construction
+problems in which given algorithms require geometrical representation
+using only the 35 basic ideograms of the ANSI template.  2. n. Neronic
+doodling while the system burns.  3. n. A low-cost substitute for
+wallpaper.  4. n.  The innumerate misleading the illiterate.  "A
+thousand pictures is worth ten lines of code." -- The Programmer's
+Little Red Vade Mecum, Mao Tse T'umps.  5. v.intrans. To produce
+flowcharts with no particular object in mind.  6. v.trans. To obfuscate
+(a problem) with esoteric cartoons.
+		-- Stan Kelly-Bootle, "The Devil's DP Dictionary"
