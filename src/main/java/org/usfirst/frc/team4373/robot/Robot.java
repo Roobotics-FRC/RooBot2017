@@ -1074,3 +1074,5 @@ and acts that are contrary to habit...
 // The trouble is, there is an endless supply of White Men, but there has
 always been a limited number of Human Beings.
 		-- Little Big Man
+// There's no such thing as a free lunch.
+		-- Milton Friendman
