@@ -752,3 +752,5 @@ leave it behind.
 // Computer Science is merely the post-Turing decline in formal systems theory.
 // In a consumer society there are inevitably two kinds of slaves:
 the prisoners of addiction and the prisoners of envy.
+// Just because you like my stuff doesn't mean I owe you anything.
+		-- Bob Dylan
