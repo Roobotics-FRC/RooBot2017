@@ -250,3 +250,9 @@ stopping at red lights are both optional.
 		-- Xaviera Hollander
 	[The world wants to be cheated, so cheat.]
 // Some people live life in the fast lane.  You're in oncoming traffic.
+// This thing all things devours:
+Birds, beasts, trees, flowers;
+Gnaws iron, bites steel;
+Grinds hard stones to meal;
+Slays king, ruins town,
+And beats high mountain down.
