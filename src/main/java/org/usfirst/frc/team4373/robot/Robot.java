@@ -576,3 +576,5 @@ could tell them.
 // Be careful!  Is it classified?
 // With a rubber duck, one's never alone.
 		-- "The Hitchhiker's Guide to the Galaxy"
+// On Thanksgiving Day all over America, families sit down to dinner at the
+same moment -- halftime.
