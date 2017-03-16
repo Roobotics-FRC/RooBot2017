@@ -72,6 +72,9 @@ public class DriveTrain extends Subsystem {
         this.left1.setFeedbackDevice(CANTalon.FeedbackDevice.CtreMagEncoder_Absolute);
         this.right1.setFeedbackDevice(CANTalon.FeedbackDevice.CtreMagEncoder_Absolute);
         this.middle1.setFeedbackDevice(CANTalon.FeedbackDevice.CtreMagEncoder_Absolute);
+        this.left1.enableControl();
+        this.right1.enableControl();
+        this.middle1.enableControl();
     }
 
     /**
