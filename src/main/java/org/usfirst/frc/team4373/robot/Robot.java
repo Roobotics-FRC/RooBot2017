@@ -412,3 +412,7 @@ engineers then?  Are we, as the saying goes, giving away the store?
 will get the blame.
 		-- Laurence J. Peter
 // Now I am depressed ...
+// The evolution of the human race will not be accomplished in the ten thousand
+years of tame animals, but in the million years of wild animals, because man
+is and will always be a wild animal.
+-- Charles Galton Darwin
