@@ -720,3 +720,6 @@ to Beaver"!
 // I know the disposition of women: when you will, they won't; when
 you won't, they set their hearts upon you of their own inclination.
 		-- Publius Terentius Afer (Terence)
+// $100 invested at 7% interest for 100 years will become $100,000, at
+which time it will be worth absolutely nothing.
+		-- Lazarus Long, "Time Enough for Love"
