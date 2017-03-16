@@ -174,3 +174,10 @@ chaos.
 (By jjs@wintermute.ucr.edu, Joe Sloan)
 // The worst cliques are those which consist of one man.
 		-- G.B. Shaw
+// The voluptuous blond was chatting with her handsome escort in a posh 
+restaurant when their waiter, stumbling as he brought their drinks, 
+dumped a martini on the rocks down the back of the blonde's dress.  She
+sprang to her feet with a wild rebel yell, dashed wildly around the table,
+then galloped wriggling from the room followed by her distraught boyfriend.
+A man seated on the other side of the room with a date of his own beckoned
+to the waiter and said, "We'll have two of whatever she was drinking."
