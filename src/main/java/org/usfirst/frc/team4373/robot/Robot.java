@@ -170,3 +170,5 @@ chaos.
 -- Peter da Silva
 // One learns to itch where one can scratch.
 		-- Ernest Bramah
+// A Linux machine! because a 486 is a terrible thing to waste!
+(By jjs@wintermute.ucr.edu, Joe Sloan)
