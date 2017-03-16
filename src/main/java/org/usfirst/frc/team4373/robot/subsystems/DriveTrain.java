@@ -157,7 +157,7 @@ public class DriveTrain extends Subsystem {
             power *= getLeftEncoderCPR();
             this.left1.setSetpoint(power);
         }
-        SmartDashboard.putNumber("leftTalonValue", power);
+        SmartDashboard.putString("leftTalonValue", "" + power);
         this.left1.set(power);
     }
 
