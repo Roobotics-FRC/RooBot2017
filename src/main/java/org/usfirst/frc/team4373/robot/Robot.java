@@ -827,3 +827,4 @@ unmarried man -- not until she is married, anyway.
 		-- Gary Larson
 // Iowa State -- the high school after high school!
 		-- Crow T. Robot
+// Mistakes are often the stepping stones to utter failure.
