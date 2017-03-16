@@ -296,3 +296,8 @@ proof by omission:
 // When all else fails, read the instructions.
 // Life is like a sewer.  What you get out of it depends on what you put into it.
 		-- Tom Lehrer
+// "Beware of the man who works hard to learn something, learns it, and
+finds himself no wiser than before," Bokonon tells us.  "He is full of
+murderous resentment of people who are ignorant without having come by
+their ignorance the hard way."
+		-- Kurt Vonnegut, "Cat's Cradle"
