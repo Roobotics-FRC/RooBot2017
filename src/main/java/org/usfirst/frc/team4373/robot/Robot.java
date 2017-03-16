@@ -218,3 +218,4 @@ And, further, what if he had accompanied this song with a musical saw?  (This
 instrument really does exist, often played by percussionists!)  Then the
 piece would be better known as:
 	SAINT-SAENS' SAW SONG "SWAN"!
+// Stability itself is nothing else than a more sluggish motion.
