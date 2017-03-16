@@ -70,6 +70,12 @@ public class AutonDriveForwardToPosition extends Command {
     }
 
     @Override
+    public synchronized void start() {
+        super.start();
+        revsStart = driveTrain.getLeftEncoderPosition();
+    }
+
+    @Override
     protected boolean isFinished() {
         return this.isFinished;
     }
