@@ -648,3 +648,5 @@ a man who takes more words than are necessary to tell more than he knows.
 		-- Alexander Woolcott
 // Memory fault -- brain fried
 // egrep -n '^[a-z].*\(' $ | sort -t':' +2.0
+// Per buck you get more computing action with the small computer.
+		-- R.W. Hamming
