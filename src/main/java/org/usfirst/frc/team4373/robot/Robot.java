@@ -914,3 +914,4 @@ on the side to make it interesting?"
 and the other half who have nothing to say and keep on saying it.
 // [The French Riviera is] a sunny place for shady people.
 		-- Somerset Maugham
+// The more crap you put up with, the more crap you are going to get.
