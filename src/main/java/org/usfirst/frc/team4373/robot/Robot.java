@@ -459,3 +459,6 @@ others who have tried it.
 		-- Ambrose Bierce, "The Devil's Dictionary"
 // There's too much beauty upon this earth for lonely men to bear.
 		-- Richard Le Gallienne
+// Armenians and Azerbaijanis in Stepanakert, capital of the Nagorno-Karabakh
+autonomous region, rioted over much needed spelling reform in the Soviet Union.
+		-- P.J. O'Rourke
