@@ -186,3 +186,5 @@ being at all relevant to women, there remains to civic-minded responsible
 thrill-seeking females only to overthrow the government, eliminate the money
 system, institute complete automation and destroy the male sex.
 		-- Valerie Solanas
+// Some changes are so slow, you don't notice them.  Others are so fast,
+they don't notice you.
