@@ -712,3 +712,5 @@ I never heard the story before.
 // A writer is congenitally unable to tell the truth and that is why we call
 what he writes fiction.
 		-- William Faulkner
+// Somewhere in Tenafly, New Jersey, a chiropractor is viewing "Leave it
+to Beaver"!
