@@ -246,3 +246,6 @@ stopping at red lights are both optional.
 // How come only your friends step on your new white sneakers?
 // You too can wear a nose mitten.
 // DIDI ... is that a MARTIAN name, or, are we in ISRAEL?
+// Mundus vult decipi decipiatur ergo.
+		-- Xaviera Hollander
+	[The world wants to be cheated, so cheat.]
