@@ -892,3 +892,6 @@ Answer each of the following items "true" or "false"
 -- George Bernard Shaw
 // Now is the time for all good men to come to.
 		-- Walt Kelly
+// 	"Hawk, we're going to die."
+	"Never say die... and certainly never say we."
+		-- M*A*S*H
