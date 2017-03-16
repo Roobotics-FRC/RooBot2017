@@ -237,3 +237,7 @@ greatness.  Those who have greatness within them do not go in for politics.
 Snoopy:	That's nice to know.
 	The secret of life is to look good at a distance.
 // The system was down for backups from 5am to 10am last Saturday.
+// To a Californian, a person must prove himself criminally insane before he
+is allowed to drive a taxi in New York.  For New York cabbies, honesty and
+stopping at red lights are both optional.
+	-- From "East vs. West: The War Between the Coasts
