@@ -53,6 +53,10 @@ public class DriveTrain extends Subsystem {
         this.left2.set(RobotMap.LEFT_DRIVE_MOTOR_1);
         this.middle2.changeControlMode(CANTalon.TalonControlMode.Follower);
         this.middle2.set(RobotMap.MIDDLE_DRIVE_MOTOR_1);
+
+        this.left1.configEncoderCodesPerRev(4096);
+        this.right1.configEncoderCodesPerRev(4096);
+        this.middle2.configEncoderCodesPerRev(4096);
     }
 
     /**
