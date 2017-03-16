@@ -58,11 +58,10 @@ public class AutonDriveForwardToPosition extends Command {
 
     @Override
     protected void execute() {
-        int leftPos = driveTrain.getLeftEncoderPosition();
+        int leftTurns = driveTrain.getLeftEncoderPosition();
         SmartDashboard.putNumber("Revolutions remaining",
-                targetRevolutions - Math.abs(leftPos - revsStart) / 4096);
-        SmartDashboard.putNumber("Left encoder value", leftPos);
-        if (Math.abs(leftPos - revsStart) / 4096 <= targetRevolutions) {
+                targetRevolutions - leftTurns);
+        if (leftTurns <= targetRevolutions) {
             driveTrain.setBoth(this.motorValue);
         } else {
             driveTrain.setBoth(0.0d);

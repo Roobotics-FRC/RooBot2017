@@ -60,7 +60,6 @@ public class DriveTrain extends Subsystem {
      * @return The number of rotations (positive or negative) of the left motors.
      */
     public int getLeftEncoderPosition() {
-        SmartDashboard.putNumber("Encoder CPR", this.left1.getParameter(CanTalonJNI.param_t.eNumberEncoderCPR));
         return left1.getEncPosition();
     }
 
@@ -79,6 +78,55 @@ public class DriveTrain extends Subsystem {
     public int getMiddleEncoderPosition() {
         return middle2.getEncPosition();
     }
+
+    /**
+     * Gets the number of encoder counts per revolution of the left motors.
+     * @return the number of encoder counts per revolution of the left motors.
+     */
+    public double getLeftEncoderCPR() {
+        return this.left1.getParameter(CanTalonJNI.param_t.eNumberEncoderCPR);
+    }
+
+    /**
+     * Gets the number of encoder counts per revolution of the right motors.
+     * @return the number of encoder counts per revolution of the right motors.
+     */
+    public double getRightEncoderCPR() {
+        return this.right1.getParameter(CanTalonJNI.param_t.eNumberEncoderCPR);
+    }
+
+    /**
+     * Gets the number of encoder counts per revolution of the middle motors.
+     * @return the number of encoder counts per revolution of the middle motors.
+     */
+    public double getMiddleEncoderCPR() {
+        return this.middle2.getParameter(CanTalonJNI.param_t.eNumberEncoderCPR);
+    }
+
+    /**
+     * Gets the number of times the left wheels have rotated.
+     * @return the number of times the left wheels have rotated.
+     */
+    public double getLeftEncoderTurns() {
+        return getLeftEncoderPosition() / getLeftEncoderCPR();
+    }
+
+    /**
+     * Gets the number of times the right wheels have rotated.
+     * @return the number of times the right wheels have rotated.
+     */
+    public double getRightEncoderTurns() {
+        return getRightEncoderPosition() / getRightEncoderCPR();
+    }
+
+    /**
+     * Gets the number of times the middle wheels have rotated.
+     * @return the number of times the middle wheels have rotated.
+     */
+    public double getMiddleEncoderTurns() {
+        return getMiddleEncoderPosition() / getMiddleEncoderCPR();
+    }
+
 
     /**
      * Sets power to the left motors.
