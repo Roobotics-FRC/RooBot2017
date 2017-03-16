@@ -1128,3 +1128,5 @@ If you wish to be happy for three days, get married.
 If you wish to be happy for a month, kill your pig and eat it.
 If you wish to be happy forever, learn to fish.
 		-- Chinese Proverb
+// Armadillo:
+	To provide weapons to a Spanish pickle.
