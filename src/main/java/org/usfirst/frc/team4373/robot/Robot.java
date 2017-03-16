@@ -920,3 +920,6 @@ safety deserve neither liberty nor safety."
 		-- Benjamin Franklin, 1759
 // I used to be Snow White, but I drifted.
 		-- Mae West
+// The best way to make a fire with two sticks is to make sure one of them
+is a match.
+		-- Will Rogers
