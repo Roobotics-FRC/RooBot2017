@@ -789,3 +789,7 @@ work till we die.
 		-- Tom Waits
 // Complex system:
 	One with real problems and imaginary profits.
+// Mental power tended to corrupt, and absolute intelligence tended to
+corrupt absolutely, until the victim eschewed violence entirely in
+favor of smart solutions to stupid problems.
+		-- Piers Anthony
