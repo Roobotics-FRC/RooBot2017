@@ -853,3 +853,4 @@ admit it frankly and try another.  But above all, try something.
 		-- Franklin D. Roosevelt
 // "Lead us in a few words of silent prayer."
 -- Bill Peterson, former Houston Oiler football coach
+// Jesuit priests are DATING CAREER DIPLOMATS!!
