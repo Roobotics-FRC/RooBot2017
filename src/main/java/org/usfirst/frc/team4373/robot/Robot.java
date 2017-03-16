@@ -127,3 +127,4 @@ than to be walked upon.
 // People who are funny and smart and return phone calls get much better
 press than people who are just funny and smart.
 		-- Howard Simons, "The Washington Post"
+// No problem is insoluble in all conceivable circumstances.
