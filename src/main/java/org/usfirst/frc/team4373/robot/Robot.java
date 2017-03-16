@@ -839,3 +839,9 @@ As sharply sweet to my heart he seems
 My own dear love, he is all my dreams --
 	And I wish he were in Asia.
 		-- Dorothy Parker, part 2
+// "I was drunk last night, crawled home across the lawn.  By accident I
+put the car key in the door lock.  The house started up.  So I figured
+what the hell, and drove it around the block a few times.  I thought I
+should go park it in the middle of the freeway and yell at everyone to
+get off my driveway."
+		-- Steven Wright
