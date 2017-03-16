@@ -952,3 +952,4 @@ plunder a third.
 -- Ambrose Bierce
 // The Czechs announced after Sputnik that they, too, would launch a satellite.
 Of course, it would orbit Sputnik, not Earth!
+// Your fly might be open (but don't check it just now).
