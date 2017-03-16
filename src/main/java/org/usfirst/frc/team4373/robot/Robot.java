@@ -1206,3 +1206,8 @@ For them to read when they're in trouble
 		-- A. E. Housman
 // Women give themselves to God when the Devil wants nothing more to do with them.
 		-- Arnould
+// Q:	What do you call a blind pre-historic animal?
+A:	Diyathinkhesaurus.
+
+Q:	What do you call a blind pre-historic animal with a dog?
+A:	Diyathinkhesaurus Rex.
