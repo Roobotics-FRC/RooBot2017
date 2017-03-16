@@ -897,3 +897,8 @@ Answer each of the following items "true" or "false"
 		-- M*A*S*H
 // User n.:
 	A programmer who will believe anything you tell him.
+// Jones' First Law:
+	Anyone who makes a significant contribution to any field of
+	endeavor, and stays in that field long enough, becomes an
+	obstruction to its progress -- in direct proportion to the
+	importance of their original contribution.
