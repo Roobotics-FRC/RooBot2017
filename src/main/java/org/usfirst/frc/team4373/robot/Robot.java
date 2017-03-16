@@ -1053,3 +1053,9 @@ Little Red Vade Mecum, Mao Tse T'umps.  5. v.intrans. To produce
 flowcharts with no particular object in mind.  6. v.trans. To obfuscate
 (a problem) with esoteric cartoons.
 		-- Stan Kelly-Bootle, "The Devil's DP Dictionary"
+// "We are not endeavoring to chain the future but to free the present. ... We are
+the advocates of inquiry, investigation, and thought. ... It is grander to think
+and investigate for yourself than to repeat a creed. ... I look for the day
+when *reason*, throned upon the world's brains, shall be the King of Kings and
+the God of Gods.
+-- Robert G. Ingersoll
