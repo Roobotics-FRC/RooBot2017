@@ -163,3 +163,8 @@ Christian forbearance among men.
 And A Whole Lot More...
 // I'd love to kiss you, but I just washed my hair.
 		-- Bette Davis, "Cabin in the Cotton"
+// ...I don't care for the term 'mechanistic'. The word 'cybernetic' is a lot
+more apropos. The mechanistic world-view is falling further and further behind
+the real world where even simple systems can produce the most marvellous
+chaos. 
+-- Peter da Silva
