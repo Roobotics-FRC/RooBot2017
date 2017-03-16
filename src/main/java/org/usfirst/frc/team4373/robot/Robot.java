@@ -803,3 +803,4 @@ favor of smart solutions to stupid problems.
 	left."
 // Let us not look back in anger or forward in fear, but around us in awareness.
 		-- James Thurber
+// It's a good thing we don't get all the government we pay for.
