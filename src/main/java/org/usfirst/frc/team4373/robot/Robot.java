@@ -131,3 +131,4 @@ press than people who are just funny and smart.
 // I think my career is ruined!
 // Q:	Why did the astrophysicist order three hamburgers?
 A:	Because he was hungry.
+// If you have a procedure with 10 parameters, you probably missed some.
