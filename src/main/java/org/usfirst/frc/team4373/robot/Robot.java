@@ -569,3 +569,5 @@ Kidding?" led by Jan Yeats.  No Reader Service No. is necessary because
 all GUGUs (Gurus of Unix Group of Users) already know everything we
 could tell them.
 		-- "Get GUMMed," Dr. Dobb's Journal, June '84
+// I think there's a world market for about five computers.
+		-- attr. Thomas J. Watson (Chairman of the Board, IBM), 1943
