@@ -1279,3 +1279,25 @@ as "Just as great as dis [sic] city of ours."
 The center is very pleased with progress to date.  They say they have almost
 succeeded in getting a VAX to think. However, sources inside the
 organization say that each time the machine fails to think it ceases to exist.
+// The Worst American Poet
+	Julia Moore, "the Sweet Singer of Michigan" (1847-1920) was so bad that
+Mark Twain said her first book gave him joy for 20 years.
+	Her verse was mainly concerned with violent death -- the great fire
+of Chicago and the yellow fever epidemic proved natural subjects for her pen.
+	Whether death was by drowning, by fits or by runaway sleigh, the
+formula was the same:
+		Have you heard of the dreadful fate
+		Of Mr. P.P. Bliss and wife?
+		Of their death I will relate,
+		And also others lost their life
+		(in the) Ashbula Bridge disaster,
+		Where so many people died.
+	Even if you started out reasonably healthy in one of Julia's poems,
+the chances are that after a few stanzas you would be at the bottom of a
+river or struck by lightning.  A critic of the day said she was "worse than
+a Gatling gun" and in one slim volume counted 21 killed and 9 wounded.
+	Incredibly, some newspapers were critical of her work, even
+suggesting that the sweet singer was "semi-literate".  Her reply was
+forthright: "The Editors that has spoken in this scandalous manner have went
+beyond reason."  She added that "literary work is very difficult to do".
+		-- Stephen Pile, "The Book of Heroic Failures"
