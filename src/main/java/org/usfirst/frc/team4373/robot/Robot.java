@@ -1076,3 +1076,9 @@ always been a limited number of Human Beings.
 		-- Little Big Man
 // There's no such thing as a free lunch.
 		-- Milton Friendman
+// A people living under the perpetual menace of war and invasion is very easy to
+govern.  It demands no social reforms.  It does not haggle over expenditures
+on armaments and military equipment.  It pays without discussion, it ruins
+itself, and that is an excellent thing for the syndicates of financiers and
+manufacturers for whom patriotic terrors are an abundant source of gain.
+		-- Anatole France
