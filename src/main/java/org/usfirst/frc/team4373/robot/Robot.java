@@ -1241,3 +1241,4 @@ Aren't we all out on our own recognizance?
 "So will you."
 		-- Rodney Dangerfield
 // A vivid and creative mind characterizes you.
+// Toddlers are the stormtroopers of the Lord of Entropy.
