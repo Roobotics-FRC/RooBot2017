@@ -119,3 +119,4 @@ other, talking and trying to listen at the same time, exchanging information.
 This seems to be our most urgent biological function; it is what we do with
 our lives."
 		-- Lewis Thomas, "The Lives of a Cell"
+// Two peanuts were walking through the New York.  One was assaulted.
