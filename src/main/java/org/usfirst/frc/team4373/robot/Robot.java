@@ -266,3 +266,5 @@ And beats high mountain down.
 // Friends may come and go, but enemies accumulate.
 		-- Thomas Jones
 // (null cookie; hope that's ok)
+// Wilner's Observation:
+	All conversations with a potato should be conducted in private.
