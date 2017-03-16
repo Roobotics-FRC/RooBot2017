@@ -323,3 +323,5 @@ pipes, and instead of radios and waffle irons, it has faucets and toilets.
 So the truth is that your plumbing systems is nothing at all like your
 electrical system, which is good, because electricity can kill you.
 		-- Dave Barry, "The Taming of the Screw"
+// I can't drive 55.
+I'm looking forward to not being able to drive 65, either.
