@@ -245,3 +245,4 @@ stopping at red lights are both optional.
 (By Dr. Greg Wettstein, Roger Maris Cancer Center)
 // How come only your friends step on your new white sneakers?
 // You too can wear a nose mitten.
+// DIDI ... is that a MARTIAN name, or, are we in ISRAEL?
