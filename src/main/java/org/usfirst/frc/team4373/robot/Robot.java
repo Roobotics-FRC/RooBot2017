@@ -18,6 +18,7 @@ import org.usfirst.frc.team4373.robot.subsystems.GearRelease;
 public class Robot extends IterativeRobot {
     private Command autonCommand = null;
     private SendableChooser autonChooser = null;
+    private boolean isAutonStopped = true;
 
     @Override
     public void robotInit() {
@@ -40,6 +41,9 @@ public class Robot extends IterativeRobot {
 
     @Override
     public void teleopInit() {
+        if(!isAutonStopped) {
+            autonCommand.cancel();
+        }
         OI.getOI().getGyro().reset();
         super.teleopInit();
     }
@@ -70,6 +74,7 @@ public class Robot extends IterativeRobot {
             default:
                 autonCommand = null;
         }
+        this.isAutonStopped = false;
         if (autonCommand != null) {
             autonCommand.start();
         }
@@ -82,6 +87,9 @@ public class Robot extends IterativeRobot {
 
     @Override
     public void teleopPeriodic() {
+        if(!isAutonStopped) {
+            autonCommand.cancel();
+        }
         Scheduler.getInstance().run();
         SmartDashboard.putNumber("Gyro", OI.getOI().getGyro().getAngle());
     }
