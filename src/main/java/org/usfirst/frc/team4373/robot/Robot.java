@@ -1316,3 +1316,4 @@ So she moved to Atlanta.
 // God doesn't play dice.
 		-- Albert Einstein
 // Despite all appearances, your boss is a thinking, feeling, human being.
+// For 20 dollars, I'll give you a good fortune next time ...
