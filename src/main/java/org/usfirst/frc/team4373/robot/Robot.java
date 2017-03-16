@@ -580,3 +580,5 @@ could tell them.
 same moment -- halftime.
 // With a rubber duck, one's never alone.
 		-- "The Hitchhiker's Guide to the Galaxy"
+// There are no manifestos like cannon and musketry.
+		-- The Duke of Wellington
