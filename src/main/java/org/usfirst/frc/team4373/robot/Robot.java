@@ -681,3 +681,10 @@ just a case of "uncontained blade liberation."
 		-- Quarterly Review of Doublespeak (NCTE)
 // Audacity, and again, audacity, and always audacity.
 		-- G.J. Danton
+// The Official MBA Handbook on the use of sunlamps:
+	Use a sunlamp only on weekends.  That way, if the office wise guy
+	remarks on the sudden appearance of your tan, you can fabricate
+	some story about a sun-stroked weekend at some island Shangri-La
+	like Caneel Bay.  Nothing is more transparent than leaving the
+	office at 11:45 on a Tuesday night, only to return an Aztec sun
+	god at 8:15 the next morning.
