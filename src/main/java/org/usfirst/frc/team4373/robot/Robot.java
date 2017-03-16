@@ -1156,3 +1156,7 @@ smaller prime numbers.
 Since the composite numbers are formed from primes, their qualities
 are derived from those primes.  So, for instance, the number 6 is "odd
 but true", while the powers of 2 are all extremely odd numbers.
+// 	A boy spent years collecting postage stamps.  The girl next door bought
+an album too, and started her own collection.  "Dad, she buys everything I've
+bought, and it's taken all the fun out of it for me.  I'm quitting."  Don't,
+son, remember, 'Imitation is the sincerest form of philately.'"
