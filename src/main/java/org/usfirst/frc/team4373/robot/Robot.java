@@ -144,3 +144,5 @@ the stable.  "But I can hear it bray, over there."  "Whom do you believe,"
 asked Nasrudin, "me or a donkey?"
 // You may call me by my name, Wirth, or by my value, Worth.
 - Nicklaus Wirth
+// I know you believe you understand what you think this fortune says, but
+I'm not sure you realize that what you are reading is not what it means.
