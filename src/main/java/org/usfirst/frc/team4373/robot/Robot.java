@@ -198,3 +198,5 @@ they don't notice you.
 telling the truth.  You cannot tell the truth because everything you say
 is a lie.  You lie, you tell the truth ... but you cannot, for you lie.
 		-- Norman the android, "I, Mudd", stardate 4513.3
+// Not all who own a harp are harpers.
+		-- Marcus Terentius Varro
