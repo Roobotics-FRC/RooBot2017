@@ -76,12 +76,14 @@ public class PositionBasedGearAuton extends Command {
                 turns - positionStart);
         switch (state) {
             case WAITING:
-                SmartDashboard.putString("Autonomous state", "PositionBasedGearAuton:WAITING\n");
+                SmartDashboard.putString("Autonomous state",
+                        "PositionBasedGearAuton:WAITING\n");
                 positionStart = turns;
                 state = State.MOVING_TOWARD_PEG;
                 break;
             case MOVING_TOWARD_PEG:
-                SmartDashboard.putString("Autonomous state", "PositionBasedGearAuton:MOVING_TOWARD_PEG\n");
+                SmartDashboard.putString("Autonomous state",
+                        "PositionBasedGearAuton:MOVING_TOWARD_PEG\n");
 
                 SmartDashboard.putNumber("Turns remaining",
                         Math.abs(moveForwardTurns - (turns - positionStart)));
@@ -95,7 +97,8 @@ public class PositionBasedGearAuton extends Command {
                 }
                 break;
             case MOVING_AWAY_FROM_PEG:
-                SmartDashboard.putString("Autonomous state", "PositionBasedGearAuton:MOVING_AWAY_FROM_PEG\n");
+                SmartDashboard.putString("Autonomous state",
+                        "PositionBasedGearAuton:MOVING_AWAY_FROM_PEG\n");
                 SmartDashboard.putNumber("Turns remaining",
                         Math.abs(moveBackwardTurns - (turns - positionStart)));
                 if (Math.abs(turns - positionStart) <= moveBackwardTurns) {
