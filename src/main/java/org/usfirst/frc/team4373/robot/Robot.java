@@ -491,3 +491,5 @@ material in order to discover and savour those sidelights on the
 management of a midland shooting estate, and in this reviewer's opinion
 the book cannot take the place of J. R. Miller's "Practical Gamekeeping."
 		-- Ed Zern, "Field and Stream" (Nov. 1959)
+// The first marriage is the triumph of imagination over intelligence,
+and the second the triumph of hope over experience.
