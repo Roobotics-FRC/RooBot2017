@@ -133,3 +133,5 @@ press than people who are just funny and smart.
 A:	Because he was hungry.
 // If you have a procedure with 10 parameters, you probably missed some.
 // People are beginning to notice you.  Try dressing before you leave the house.
+// Counting in octal is just like counting in decimal--if you don't use your thumbs.
+		-- Tom Lehrer
