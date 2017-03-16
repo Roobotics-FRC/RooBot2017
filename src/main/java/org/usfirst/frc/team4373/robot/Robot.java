@@ -370,3 +370,6 @@ Daughter: "It looks like goat barf."
 // In order to get a loan you must first prove you don't need it.
 // "Ninety percent of baseball is half mental."
 -- Yogi Berra
+// It has long been an axiom of mine that the little things are infinitely
+the most important.
+		-- Sir Arthur Conan Doyle, "A Case of Identity"
