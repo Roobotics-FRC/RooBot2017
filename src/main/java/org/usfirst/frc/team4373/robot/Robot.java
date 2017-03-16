@@ -373,3 +373,7 @@ Daughter: "It looks like goat barf."
 // It has long been an axiom of mine that the little things are infinitely
 the most important.
 		-- Sir Arthur Conan Doyle, "A Case of Identity"
+// Wedding, n:
+	A ceremony at which two persons undertake to become one, one undertakes
+	to become nothing and nothing undertakes to become supportable.
+		-- Ambrose Bierce
