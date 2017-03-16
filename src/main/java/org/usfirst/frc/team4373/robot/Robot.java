@@ -825,3 +825,5 @@ unmarried man -- not until she is married, anyway.
 -- booby			-- duck-billed platypus
 -- sapsucker			-- Clarence
 		-- Gary Larson
+// Iowa State -- the high school after high school!
+		-- Crow T. Robot
