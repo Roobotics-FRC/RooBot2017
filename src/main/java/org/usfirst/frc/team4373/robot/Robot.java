@@ -1036,3 +1036,5 @@ and 8 percent said "Gimme a quarter?"
 A:	2 bits.
 // You might have mail.
 // Try to value useful qualities in one who loves you.
+// Charm is a way of getting the answer "Yes" -- without having asked any
+clear question.
