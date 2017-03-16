@@ -1013,3 +1013,5 @@ miniaturization, you could place half a dozen of them on a pinhead.
  But it is the universal weakness of mankind that what we are
  given to administer we presently imagine we own."
 -- H.G. Wells
+// I've always felt sorry for people that don't drink -- remember,
+when they wake up, that's as good as they're gonna feel all day!
