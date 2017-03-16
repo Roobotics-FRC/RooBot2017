@@ -469,3 +469,5 @@ autonomous region, rioted over much needed spelling reform in the Soviet Union.
 // First Law of Socio-Genetics:
 	Celibacy is not hereditary.
 // Your love life will be... interesting.
+// What sane person could live in this world and not be crazy?
+		-- Ursula K. LeGuin
