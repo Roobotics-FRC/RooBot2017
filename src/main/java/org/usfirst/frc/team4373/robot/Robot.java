@@ -640,3 +640,6 @@ out of MEGATON MAN!"
 // You had mail.  Paul read it, so ask him what it said.
 // Uncertain fortune is thoroughly mastered by the equity of the calculation.
 - Blaise Pascal
+// I heard a definition of an intellectual, that I thought was very interesting:
+a man who takes more words than are necessary to tell more than he knows.
+		-- Dwight D. Eisenhower
