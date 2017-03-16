@@ -1224,3 +1224,6 @@ A:	Diyathinkhesaurus Rex.
 // Fortunate is he for whom the belle toils.
 // The girl who stoops to conquer usually wears a low-cut dress.
 // Don't interfere with the stranger's style.
+// The notion of a "record" is an obsolete remnant of the days of the 80-column
+card.
+		-- Dennis M. Ritchie
