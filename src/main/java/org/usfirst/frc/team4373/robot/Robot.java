@@ -974,3 +974,5 @@ divorced. Gets old.  One thing that it doesn't do is die.  It has to be killed."
 two could be one and one could be two and had probably been fabricated
 by Hegel for the American market on a subcontract from General Dynamics.
 		-- I.F. Stone
+// Government [is] an illusion the governed should not encourage.
+		-- John Updike, "Couples"
