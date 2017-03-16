@@ -155,6 +155,7 @@ public class DriveTrain extends Subsystem {
         if (this.left1.getControlMode().equals(CANTalon.TalonControlMode.Position)) {
             SmartDashboard.putBoolean("setLeftTalonPosition", true);
             power *= getLeftEncoderCPR();
+            this.left1.setSetpoint(power);
         }
         SmartDashboard.putNumber("leftTalonValue", power);
         this.left1.set(power);
