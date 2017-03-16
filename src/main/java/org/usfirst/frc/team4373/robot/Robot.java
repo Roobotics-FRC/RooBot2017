@@ -1257,3 +1257,14 @@ Finagle's Fifth Law:
 
 Finagle's Sixth Law:
 	Don't believe in miracles -- rely on them.
+// Dear Emily:
+	I collected replies to an article I wrote, and now it's time to
+summarize.  What should I do?
+		-- Editor
+
+Dear Editor:
+	Simply concatenate all the articles together into a big file and post
+that.  On USENET, this is known as a summary.  It lets people read all the
+replies without annoying newsreaders getting in the way.  Do the same when
+summarizing a vote.
+		-- Emily Postnews Answers Your Questions on Netiquette
