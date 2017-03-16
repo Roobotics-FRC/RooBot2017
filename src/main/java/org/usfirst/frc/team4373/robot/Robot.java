@@ -1191,3 +1191,5 @@ With no place to go.		But that can't make the queue move fast.
 		-- Derek Bok
 // My way of joking is to tell the truth.  That's the funniest joke in the world.
 		-- Muhammad Ali
+// We lie loudest when we lie to ourselves.
+	-- Eric Hoffer
