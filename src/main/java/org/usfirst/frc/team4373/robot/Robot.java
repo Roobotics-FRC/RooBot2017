@@ -1204,3 +1204,5 @@ Compute' -- I forget which."
 For them to read when they're in trouble
 	And I am not.
 		-- A. E. Housman
+// Women give themselves to God when the Devil wants nothing more to do with them.
+		-- Arnould
