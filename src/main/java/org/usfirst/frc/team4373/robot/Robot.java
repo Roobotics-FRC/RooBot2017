@@ -440,3 +440,6 @@ with every one of us -- and that's "selfishness."
 // To stay young requires unceasing cultivation of the ability to unlearn
 old falsehoods.
 		-- Lazarus Long, "Time Enough For Love"
+// Alexander Hamilton started the U.S. Treasury with nothing - and that was
+the closest our country has ever been to being even.
+	-- The Best of Will Rogers
