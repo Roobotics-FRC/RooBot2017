@@ -543,3 +543,5 @@ LII:
 	People working in the private sector should try to save money.
 	There remains the possibility that it may someday be valuable again.
 		-- Norman Augustine
+// Keep a diary and one day it'll keep you.
+		-- Mae West
