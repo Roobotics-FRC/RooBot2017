@@ -706,3 +706,5 @@ unmarried man -- not until she is married, anyway.
 // A conference is a gathering of important people who singly can do nothing
 but together can decide that nothing can be done.
 		-- Fred Allen
+// There must be at least 500,000,000 rats in the United States; of course,
+I never heard the story before.
