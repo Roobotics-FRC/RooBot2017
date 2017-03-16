@@ -224,3 +224,5 @@ piece would be better known as:
 // Politics and the fate of mankind are formed by men without ideals and without
 greatness.  Those who have greatness within them do not go in for politics.
 		-- Albert Camus
+// Never go to bed mad.  Stay up and fight.
+		-- Phyllis Diller, "Phyllis Diller's Housekeeping Hints"
