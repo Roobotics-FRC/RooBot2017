@@ -888,3 +888,5 @@ Answer each of the following items "true" or "false"
 		-- Dave "First Strike" Pare
 // If parents would only realize how they bore their children.
 		-- G.B. Shaw
+// "Success covers a multitude of blunders."
+-- George Bernard Shaw
