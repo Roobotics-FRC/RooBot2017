@@ -886,3 +886,5 @@ Answer each of the following items "true" or "false"
 	dandy substitute.
 // As you will see, I told them, in no uncertain terms, to see Figure one.
 		-- Dave "First Strike" Pare
+// If parents would only realize how they bore their children.
+		-- G.B. Shaw
