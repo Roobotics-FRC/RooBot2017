@@ -1109,3 +1109,5 @@ results are that one should eat each day:
 // [Crash programs] fail because they are based on the theory that, with nine
 women pregnant, you can get a baby a month.
 		-- Wernher von Braun
+// I remember Ulysses well...  Left one day for the post office to mail a letter,
+met a blonde named Circe on the streetcar, and didn't come back for 20 years.
