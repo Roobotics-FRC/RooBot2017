@@ -1025,3 +1025,8 @@ on the same communications line connection.
 		-- Bell System Technical Reference
 // System checkpoint complete.
 // Beauty, brains, availability, personality; pick any two.
+// Interesting poll results reported in today's New York Post: people on the
+street in midtown Manhattan were asked whether they approved of the US
+invasion of Grenada.  Fifty-three percent said yes; 39 percent said no;
+and 8 percent said "Gimme a quarter?"
+		-- David Letterman
