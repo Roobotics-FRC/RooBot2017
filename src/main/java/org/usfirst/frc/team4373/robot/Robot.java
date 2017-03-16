@@ -443,3 +443,5 @@ old falsehoods.
 // Alexander Hamilton started the U.S. Treasury with nothing - and that was
 the closest our country has ever been to being even.
 	-- The Best of Will Rogers
+// The groundhog is like most other prophets; it delivers its message and then
+disappears.
