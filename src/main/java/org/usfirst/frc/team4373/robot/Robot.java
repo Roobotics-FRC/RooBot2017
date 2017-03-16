@@ -620,3 +620,5 @@ government, therefore, is the method of choosing leaders.
 		-- Frank Herbert, "Children of Dune"
 // Vulcans do not approve of violence.
 		-- Spock, "Journey to Babel", stardate 3842.4
+// I read Playboy for the same reason I read National Geographic.  To see
+the sights I'm never going to visit.
