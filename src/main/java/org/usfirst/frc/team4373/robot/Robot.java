@@ -918,3 +918,5 @@ and the other half who have nothing to say and keep on saying it.
 // "They that can give up essential liberty to obtain a little temporary
 safety deserve neither liberty nor safety."
 		-- Benjamin Franklin, 1759
+// I used to be Snow White, but I drifted.
+		-- Mae West
