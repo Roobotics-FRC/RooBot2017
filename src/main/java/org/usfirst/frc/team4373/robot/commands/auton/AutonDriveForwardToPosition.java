@@ -58,6 +58,9 @@ public class AutonDriveForwardToPosition extends Command {
 
     @Override
     protected void execute() {
+        if(this.revsStart == -1) {
+            revsStart = driveTrain.getLeftEncoderPosition();
+        }
         int leftTurns = driveTrain.getLeftEncoderPosition();
         SmartDashboard.putNumber("Revolutions remaining",
                 targetRevolutions - leftTurns);
@@ -70,23 +73,19 @@ public class AutonDriveForwardToPosition extends Command {
     }
 
     @Override
-    public synchronized void start() {
-        super.start();
-        revsStart = driveTrain.getLeftEncoderPosition();
-    }
-
-    @Override
     protected boolean isFinished() {
         return this.isFinished;
     }
 
     @Override
     protected void end() {
+        revsStart = -1;
         driveTrain.setBoth(0.0d);
     }
 
     @Override
     protected void interrupted() {
+        revsStart = -1;
         driveTrain.setBoth(0d);
     }
 }
