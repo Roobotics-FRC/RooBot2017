@@ -845,3 +845,4 @@ what the hell, and drove it around the block a few times.  I thought I
 should go park it in the middle of the freeway and yell at everyone to
 get off my driveway."
 		-- Steven Wright
+// Succumb to natural tendencies.  Be hateful and boring.
