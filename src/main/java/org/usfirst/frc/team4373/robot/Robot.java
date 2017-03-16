@@ -942,3 +942,7 @@ woman want?'"
 	Marriage is always a bachelor's last option.
 // The reason that every major university maintains a department of
 mathematics is that it's cheaper than institutionalizing all those people.
+// Stuckness shouldn't be avoided.  It's the psychic predecessor of all
+real understanding.  An egoless acceptance of stuckness is a key to an
+understanding of all Quality, in mechanical work as in other endeavors.
+		-- R. Pirsig, "Zen and the Art of Motorcycle Maintenance"
