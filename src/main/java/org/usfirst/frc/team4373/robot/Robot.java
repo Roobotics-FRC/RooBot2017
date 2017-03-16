@@ -959,3 +959,7 @@ Of course, it would orbit Sputnik, not Earth!
 // You like to form new friendships and make new acquaintances.
 // Sometimes, too long is too long.
 - Joe Crowe
+// "The strength of the Constitution lies entirely in the determination of each
+citizen to defend it.  Only if every single citizen feels duty bound to do
+his share in this defense are the constitutional rights secure."
+-- Albert Einstein
