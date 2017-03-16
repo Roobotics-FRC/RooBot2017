@@ -812,3 +812,4 @@ walnut."
 	Any shag carpet that causes the lid to become top-heavy, thus
 	creating endless annoyance to male users.
 		-- Rich Hall, "Sniglets"
+// He who has imagination without learning has wings but no feet.
