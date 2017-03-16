@@ -39,6 +39,9 @@ public class DriveTrain extends Subsystem {
         this.middle1 = new CANTalon(RobotMap.MIDDLE_DRIVE_MOTOR_1);
         this.middle2 = new CANTalon(RobotMap.MIDDLE_DRIVE_MOTOR_2);
 
+        this.left1.reverseOutput(true);
+        this.left1.setP(0.3d);
+
         this.right1.enableBrakeMode(true);
         this.right2.enableBrakeMode(true);
         this.left1.enableBrakeMode(true);
@@ -64,7 +67,6 @@ public class DriveTrain extends Subsystem {
      */
     public void changeControlMode(CANTalon.TalonControlMode controlMode) {
         this.left1.changeControlMode(controlMode);
-        this.left1.reverseOutput(true);
         this.right1.changeControlMode(controlMode);
         this.middle1.changeControlMode(controlMode);
         this.left1.setFeedbackDevice(CANTalon.FeedbackDevice.CtreMagEncoder_Absolute);
