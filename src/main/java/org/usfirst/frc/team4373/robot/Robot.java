@@ -1000,3 +1000,11 @@ terror of their tyranny, however, is alleviated by their lack of consistency."
 // Bunker's Admonition:
 	You cannot buy beer; you can only rent it.
 // Chicago law prohibits eating in a place that is on fire.
+// Suppose for a moment that the automobile industry had developed at the same
+rate as computers and over the same period:  how much cheaper and more efficient
+would the current models be?  If you have not already heard the analogy, the
+answer is shattering.  Today you would be able to buy a Rolls-Royce for $2.75,
+it would do three million miles to the gallon, and it would deliver enough
+power to drive the Queen Elizabeth II.  And if you were interested in
+miniaturization, you could place half a dozen of them on a pinhead.
+-- Christopher Evans
