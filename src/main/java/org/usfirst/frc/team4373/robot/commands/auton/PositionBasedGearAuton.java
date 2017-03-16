@@ -33,9 +33,15 @@ public class PositionBasedGearAuton extends Command {
     private void setNeutralState() {
         this.moveForwardTurns = SmartDashboard.getNumber("Move forward turns", 4);
         this.moveBackwardTurns = 4;
-        this.motorValue = motorValue;
         this.state = State.WAITING;
         this.positionStart = 0;
+    }
+
+    private void setNeutralState(int time, double motorValue) {
+        this.moveForwardTurns = SmartDashboard.getNumber("Move forward turns", 4);
+        this.moveBackwardTurns = 4;
+        this.motorValue = motorValue;
+        this.state = State.WAITING;
     }
 
     /**
@@ -56,7 +62,7 @@ public class PositionBasedGearAuton extends Command {
         super();
         requires(driveTrain = DriveTrain.getDriveTrain());
         requires(gearRelease = GearRelease.getGearRelease());
-        this.setNeutralState();
+        this.setNeutralState(time, motorValue);
     }
 
     public void setMotorValue(double motorValue) {
