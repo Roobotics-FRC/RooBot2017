@@ -181,3 +181,8 @@ sprang to her feet with a wild rebel yell, dashed wildly around the table,
 then galloped wriggling from the room followed by her distraught boyfriend.
 A man seated on the other side of the room with a date of his own beckoned
 to the waiter and said, "We'll have two of whatever she was drinking."
+// Life in this society being, at best, an utter bore and no aspect of society
+being at all relevant to women, there remains to civic-minded responsible
+thrill-seeking females only to overthrow the government, eliminate the money
+system, institute complete automation and destroy the male sex.
+		-- Valerie Solanas
