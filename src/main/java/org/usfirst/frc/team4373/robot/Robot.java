@@ -337,3 +337,4 @@ O wind on the waterfall, and the leaves' laughter!
 // SHOP OR DIE, people of Earth!
 [offer void where prohibited]
 -- Capitalists from outer space, from Justice League Int'l comics
+// If elected, Zippy pledges to each and every American a 55-year-old houseboy ...
