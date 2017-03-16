@@ -603,3 +603,5 @@ mix-up.  Nothing serious."
 mysterious B-1 crash.  A strange smell in the fuel lines.  It smelled like
 coffee.  Smooth and full bodied...
 		-- Another Episode of General's Hospital
+// Life is the living you do, Death is the living you don't do.
+		-- Joseph Pintauro
