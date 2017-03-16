@@ -1312,3 +1312,4 @@ It is, and that's all it needs to be.
 She had so many children,
 She didn't know what to do.
 So she moved to Atlanta.
+// Truth can wait; he's used to it.
