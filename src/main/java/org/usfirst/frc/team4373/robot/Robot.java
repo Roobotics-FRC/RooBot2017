@@ -221,3 +221,6 @@ piece would be better known as:
 // Stability itself is nothing else than a more sluggish motion.
 // like:
 	When being alive at the same time is a wonderful coincidence.
+// Politics and the fate of mankind are formed by men without ideals and without
+greatness.  Those who have greatness within them do not go in for politics.
+		-- Albert Camus
