@@ -58,7 +58,7 @@ public class AutonDriveForwardToPosition extends Command {
 
     @Override
     protected void execute() {
-        if(this.revsStart == -1) {
+        if (this.revsStart == -1) {
             revsStart = driveTrain.getLeftEncoderPosition();
         }
         int leftTurns = driveTrain.getLeftEncoderPosition();
