@@ -976,3 +976,5 @@ by Hegel for the American market on a subcontract from General Dynamics.
 		-- I.F. Stone
 // Government [is] an illusion the governed should not encourage.
 		-- John Updike, "Couples"
+// When it's dark enough you can see the stars.
+		-- Ralph Waldo Emerson,
