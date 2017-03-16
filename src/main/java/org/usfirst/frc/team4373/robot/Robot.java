@@ -310,3 +310,5 @@ lesson is that *winning* is more important than *truth*.
 // My doctor told me to stop having intimate dinners for four.  Unless there
 are three other people.
 		-- Orson Welles
+// There will always be beer cans rolling on the floor of your car when
+the boss asks for a lift home from the office.
