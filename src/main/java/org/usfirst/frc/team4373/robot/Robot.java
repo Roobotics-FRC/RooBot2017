@@ -474,3 +474,4 @@ autonomous region, rioted over much needed spelling reform in the Soviet Union.
 // The primary requisite for any new tax law is for it to exempt enough
 voters to win the next election.
 // Violence is a sword that has no handle -- you have to hold the blade.
+// Why bother building any more nuclear warheads until we use the ones we have?
