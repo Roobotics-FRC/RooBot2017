@@ -902,3 +902,11 @@ Answer each of the following items "true" or "false"
 	endeavor, and stays in that field long enough, becomes an
 	obstruction to its progress -- in direct proportion to the
 	importance of their original contribution.
+// A man arrived home early to find his wife in the arms of his best friend,
+who swore how much they were in love.  To quiet the enraged husband, the
+lover suggested, "Friends shouldn't fight, let's play gin rummy.  If I win,
+you get a divorce so I can marry her.  If you win, I promise never to see
+her again.  Okay?"
+
+"Alright," agreed the husband.  "But how about a quarter a point
+on the side to make it interesting?"
