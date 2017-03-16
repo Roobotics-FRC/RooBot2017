@@ -259,3 +259,5 @@ And beats high mountain down.
 // You're at Witt's End.
 // A CONS is an object which cares.
 		-- Bernie Greenberg.
+// You can do more with a kind word and a gun than with just a kind word.
+- Al Capone
