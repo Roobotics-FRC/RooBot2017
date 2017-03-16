@@ -112,3 +112,5 @@ public class Robot extends IterativeRobot {
 beginning of the world, that such as are in the institution wish to get
 out, and such as are out wish to get in?
 		-- Ralph Emerson
+// I only know what I read in the papers.
+		-- Will Rogers
