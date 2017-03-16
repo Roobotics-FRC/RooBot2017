@@ -445,3 +445,5 @@ the closest our country has ever been to being even.
 	-- The Best of Will Rogers
 // The groundhog is like most other prophets; it delivers its message and then
 disappears.
+// Even the best of friends cannot attend each other's funeral.
+		-- Kehlog Albran, "The Profit"
