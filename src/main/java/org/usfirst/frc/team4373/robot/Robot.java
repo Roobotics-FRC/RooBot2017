@@ -965,3 +965,5 @@ his share in this defense are the constitutional rights secure."
 -- Albert Einstein
 // Clothes make the man.  Naked people have little or no influence on society.
 		-- Mark Twain
+// What, after all, is a halo?  It's only one more thing to keep clean.
+		-- Christopher Fry
