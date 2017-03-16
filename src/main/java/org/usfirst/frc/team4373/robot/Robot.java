@@ -725,3 +725,6 @@ which time it will be worth absolutely nothing.
 		-- Lazarus Long, "Time Enough for Love"
 // Let's remind ourselves that last year's fresh idea is today's cliche.
 		-- Austen Briggs
+// Perfection is reached, not when there is no longer anything to add, but
+when there is no longer anything to take away.
+		-- Antoine de Saint-Exupery
