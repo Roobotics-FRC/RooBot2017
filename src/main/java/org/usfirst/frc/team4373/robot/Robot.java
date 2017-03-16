@@ -881,3 +881,6 @@ Answer each of the following items "true" or "false"
 18. When I look down from a high spot, I want to spit.
 19. I am never startled by a fish.
 20. I have never gone to pieces over the weekend.
+// Household hint:
+	If you are out of cream for your coffee, mayonnaise makes a
+	dandy substitute.
