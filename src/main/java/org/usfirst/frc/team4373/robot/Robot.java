@@ -967,3 +967,6 @@ his share in this defense are the constitutional rights secure."
 		-- Mark Twain
 // What, after all, is a halo?  It's only one more thing to keep clean.
 		-- Christopher Fry
+// "Data is a lot like humans:  It is born.  Matures.  Gets married to other data,
+divorced. Gets old.  One thing that it doesn't do is die.  It has to be killed."
+-- Arthur Miller
