@@ -1038,3 +1038,5 @@ A:	2 bits.
 // Try to value useful qualities in one who loves you.
 // Charm is a way of getting the answer "Yes" -- without having asked any
 clear question.
+// Since we're all here, we must not be all there.
+		-- Bob "Mountain" Beck
