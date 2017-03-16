@@ -574,3 +574,5 @@ could tell them.
 // Did you know that clones never use mirrors?
 		-- Ambrose Bierce, "The Devil's Dictionary"
 // Be careful!  Is it classified?
+// With a rubber duck, one's never alone.
+		-- "The Hitchhiker's Guide to the Galaxy"
