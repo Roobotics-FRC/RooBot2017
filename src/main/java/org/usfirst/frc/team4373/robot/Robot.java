@@ -437,3 +437,6 @@ is and will always be a wild animal.
 // What's the matter with the world?  Why, there ain't but one thing wrong
 with every one of us -- and that's "selfishness."
 		-- The Best of Will Rogers
+// To stay young requires unceasing cultivation of the ability to unlearn
+old falsehoods.
+		-- Lazarus Long, "Time Enough For Love"
