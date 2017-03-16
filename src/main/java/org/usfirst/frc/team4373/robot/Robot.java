@@ -510,3 +510,5 @@ put on a professor.
 // Who messed with my anti-paranoia shot?
 // I'll meet you... on the dark side of the moon...
 		-- Pink Floyd
+// Pohl's law:
+	Nothing is so good that somebody, somewhere, will not hate it.
