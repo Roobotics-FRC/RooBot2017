@@ -1088,3 +1088,8 @@ Love's wounds unseen.
 That's what someone told me;
 But I don't know what it means.
 		-- Linda Ronstadt, "Long Long Time"
+// 	Eugene d'Albert, a noted German composer, was married six times.
+At an evening reception which he attended with his fifth wife shortly
+after their wedding, he presented the lady to a friend who said politely,
+"Congratulations, Herr d'Albert; you have rarely introduced me to so
+charming a wife."
