@@ -263,3 +263,5 @@ And beats high mountain down.
 - Al Capone
 // It is surely a great calamity for a human being to have no obsessions.
 - Robert Bly
+// Friends may come and go, but enemies accumulate.
+		-- Thomas Jones
