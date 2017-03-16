@@ -114,3 +114,8 @@ out, and such as are out wish to get in?
 		-- Ralph Emerson
 // I only know what I read in the papers.
 		-- Will Rogers
+// All we know is the phenomenon: we spend our time sending messages to each
+other, talking and trying to listen at the same time, exchanging information.
+This seems to be our most urgent biological function; it is what we do with
+our lives."
+		-- Lewis Thomas, "The Lives of a Cell"
