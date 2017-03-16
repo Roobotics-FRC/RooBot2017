@@ -759,3 +759,5 @@ the prisoners of addiction and the prisoners of envy.
 of events, there lurks a singular, sinister attitude of mind."
 	"Whose?"
 	"MINE! HA-HA!"
+// Bringing computers into the home won't change either one, but may
+revitalize the corner saloon.
