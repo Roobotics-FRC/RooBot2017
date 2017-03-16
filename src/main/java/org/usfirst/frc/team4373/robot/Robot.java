@@ -449,3 +449,11 @@ disappears.
 		-- Kehlog Albran, "The Profit"
 // If I'm over the hill, why is it I don't recall ever being on top?
 		-- Jerry Muscha
+// Certain old men prefer to rise at dawn, taking a cold bath and a long
+walk with an empty stomach and otherwise mortifying the flesh.  They
+then point with pride to these practices as the cause of their sturdy
+health and ripe years; the truth being that they are hearty and old,
+not because of their habits, but in spite of them.  The reason we find
+only robust persons doing this thing is that it has killed all the
+others who have tried it.
+		-- Ambrose Bierce, "The Devil's Dictionary"
