@@ -643,3 +643,4 @@ out of MEGATON MAN!"
 // I heard a definition of an intellectual, that I thought was very interesting:
 a man who takes more words than are necessary to tell more than he knows.
 		-- Dwight D. Eisenhower
+// An idea is not responsible for the people who believe in it.
