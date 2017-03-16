@@ -241,3 +241,5 @@ Snoopy:	That's nice to know.
 is allowed to drive a taxi in New York.  For New York cabbies, honesty and
 stopping at red lights are both optional.
 	-- From "East vs. West: The War Between the Coasts
+// "...[Linux's] capacity to talk via any medium except smoke signals."
+(By Dr. Greg Wettstein, Roger Maris Cancer Center)
