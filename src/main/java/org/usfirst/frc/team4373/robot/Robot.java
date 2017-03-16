@@ -87,7 +87,7 @@ public class Robot extends IterativeRobot {
 
     @Override
     public void autonomousPeriodic() {
-        DriveWithJoystick.getDriveWithJoystick().cancel();
+        //DriveWithJoystick.getDriveWithJoystick().cancel();
         Scheduler.getInstance().run();
     }
 
