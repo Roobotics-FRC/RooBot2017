@@ -646,3 +646,4 @@ a man who takes more words than are necessary to tell more than he knows.
 // An idea is not responsible for the people who believe in it.
 // I must get out of these wet clothes and into a dry Martini.
 		-- Alexander Woolcott
+// Memory fault -- brain fried
