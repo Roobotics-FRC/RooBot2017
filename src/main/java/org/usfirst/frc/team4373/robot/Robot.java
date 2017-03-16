@@ -950,3 +950,5 @@ understanding of all Quality, in mechanical work as in other endeavors.
 hands so deeply inserted in each other's pocket that they cannot separately
 plunder a third.
 -- Ambrose Bierce
+// The Czechs announced after Sputnik that they, too, would launch a satellite.
+Of course, it would orbit Sputnik, not Earth!
