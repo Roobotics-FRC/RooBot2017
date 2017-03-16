@@ -938,3 +938,5 @@ wordy evidence of the fact.
 // "The great question... which I have not been able to answer... is, `What does 
 woman want?'"
 -- Sigmund Freud
+// Serocki's Stricture:
+	Marriage is always a bachelor's last option.
