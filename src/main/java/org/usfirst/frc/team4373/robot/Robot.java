@@ -796,3 +796,5 @@ favor of smart solutions to stupid problems.
 // "And they told us, what they wanted...
  Was a sound that could kill some-one, from a distance." -- Kate Bush
 // But Officer, I stopped for the last one, and it was green!
+// A pedestal is as much a prison as any small, confined space.
+		-- Gloria Steinem
