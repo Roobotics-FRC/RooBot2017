@@ -172,3 +172,5 @@ chaos.
 		-- Ernest Bramah
 // A Linux machine! because a 486 is a terrible thing to waste!
 (By jjs@wintermute.ucr.edu, Joe Sloan)
+// The worst cliques are those which consist of one man.
+		-- G.B. Shaw
