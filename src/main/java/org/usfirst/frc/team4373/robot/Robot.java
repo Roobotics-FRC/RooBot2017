@@ -1121,3 +1121,4 @@ By water, wood and hill, by reed and willow,
 By fire, sun and moon, harken now and hear us!
 Come, Tom Bombadil, for our need is near us!
 		-- J. R. R. Tolkien
+// The idle man does not know what it is to enjoy rest.
