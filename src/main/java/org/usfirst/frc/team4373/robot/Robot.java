@@ -194,3 +194,7 @@ they don't notice you.
 	"When you have learned to snatch the error code from
 	the trap frame, it will be time for you to leave."
 		-- Geoffrey James, "The Tao of Programming"
+// You say you are lying.  But if everything you say is a lie, then you are
+telling the truth.  You cannot tell the truth because everything you say
+is a lie.  You lie, you tell the truth ... but you cannot, for you lie.
+		-- Norman the android, "I, Mudd", stardate 4513.3
