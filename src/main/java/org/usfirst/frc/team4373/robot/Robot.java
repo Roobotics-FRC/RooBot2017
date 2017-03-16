@@ -302,3 +302,8 @@ murderous resentment of people who are ignorant without having come by
 their ignorance the hard way."
 		-- Kurt Vonnegut, "Cat's Cradle"
 // Greatness is a transitory experience. It is never consistent.
+// 	How do you insult a lawyer?
+	You might as well not even try.  Consider: of all the highly
+trained and educated professions, law is the only one in which the prime
+lesson is that *winning* is more important than *truth*.
+	Once someone has sunk to that level, what worse can you say about them?
