@@ -1,5 +1,6 @@
 package org.usfirst.frc.team4373.robot.commands.auton;
 
+import com.ctre.CANTalon;
 import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 
@@ -28,6 +29,7 @@ public class TestAuton extends Command {
 
     @Override
     protected void execute() {
+        driveTrain.changeControlMode(CANTalon.TalonControlMode.MotionMagic);
         driveTrain.setBoth(3);
     }
 
@@ -38,11 +40,11 @@ public class TestAuton extends Command {
 
     @Override
     protected void end() {
-
+        driveTrain.changeControlMode(CANTalon.TalonControlMode.PercentVbus);
     }
 
     @Override
     protected void interrupted() {
-
+        driveTrain.changeControlMode(CANTalon.TalonControlMode.PercentVbus);
     }
 }
