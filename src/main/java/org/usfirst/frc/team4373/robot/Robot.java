@@ -432,3 +432,5 @@ is and will always be a wild animal.
 	(100) Killer velcro
 	(101) Currency
 // Xerox your lunch and file it under "sex offenders"!
+// I have to think hard to name an interesting man who does not drink.
+		-- Richard Burton
