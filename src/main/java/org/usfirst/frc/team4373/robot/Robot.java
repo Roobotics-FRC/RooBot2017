@@ -607,3 +607,8 @@ coffee.  Smooth and full bodied...
 		-- Joseph Pintauro
 // "Cogito ergo I'm right and you're wrong."
 		-- Blair Houghton
+// I would be batting the big feller if they wasn't ready with the other one,
+but a left-hander would be the thing if they wouldn't have knowed it already
+because there is more things involved than could come up on the road, even
+after we've been home a long while.
+		-- Casey Stengel
