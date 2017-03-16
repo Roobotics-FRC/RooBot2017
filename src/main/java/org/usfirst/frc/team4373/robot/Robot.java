@@ -1071,3 +1071,6 @@ inspires us with dread and fear, whether by night or by day, brings us
 sleeplessness, inopportune mistakes, aimless anxieties, absent-mindedness
 and acts that are contrary to habit...
 		-- Hippocrates "The Sacred Disease"
+// The trouble is, there is an endless supply of White Men, but there has
+always been a limited number of Human Beings.
+		-- Little Big Man
