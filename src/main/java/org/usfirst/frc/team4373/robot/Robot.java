@@ -816,3 +816,6 @@ walnut."
 // Comparing information and knowledge is like asking whether the fatness
 of a pig is more or less green than the designated hitter rule."
 		-- David Guaspari
+// No modern woman with a grain of sense ever sends little notes to an
+unmarried man -- not until she is married, anyway.
+		-- Arthur Binstead
