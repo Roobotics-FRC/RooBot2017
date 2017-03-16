@@ -9,6 +9,7 @@ import org.usfirst.frc.team4373.robot.commands.auton.PositionBasedGearAuton;
 import org.usfirst.frc.team4373.robot.commands.auton.TestAuton;
 import org.usfirst.frc.team4373.robot.commands.auton.TimeBasedAuton;
 import org.usfirst.frc.team4373.robot.commands.auton.TimeBasedGearAuton;
+import org.usfirst.frc.team4373.robot.commands.teleop.DriveWithJoystick;
 import org.usfirst.frc.team4373.robot.subsystems.Climber;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 import org.usfirst.frc.team4373.robot.subsystems.GearRelease;
@@ -51,6 +52,7 @@ public class Robot extends IterativeRobot {
 
     @Override
     public void autonomousInit() {
+        DriveWithJoystick.getDriveWithJoystick().cancel();
         if (autonCommand != null) {
             autonCommand.cancel();
         }
