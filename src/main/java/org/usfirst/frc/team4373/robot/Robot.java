@@ -688,3 +688,4 @@ just a case of "uncontained blade liberation."
 	like Caneel Bay.  Nothing is more transparent than leaving the
 	office at 11:45 on a Tuesday night, only to return an Aztec sun
 	god at 8:15 the next morning.
+// Among the lucky, you are the chosen one.
