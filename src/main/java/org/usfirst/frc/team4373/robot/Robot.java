@@ -654,3 +654,6 @@ a man who takes more words than are necessary to tell more than he knows.
 // Keep emotionally active.  Cater to your favorite neurosis.
 // On-line, adj.:
 	The idea that a human being should always be accessible to a computer.
+// Mix a little foolishness with your serious plans; it's lovely to be silly
+at the right moment.
+		-- Horace
