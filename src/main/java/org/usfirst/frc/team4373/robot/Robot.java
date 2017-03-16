@@ -819,3 +819,9 @@ of a pig is more or less green than the designated hitter rule."
 // No modern woman with a grain of sense ever sends little notes to an
 unmarried man -- not until she is married, anyway.
 		-- Arthur Binstead
+// Unfair animal names:
+
+-- tsetse fly			-- bullhead
+-- booby			-- duck-billed platypus
+-- sapsucker			-- Clarence
+		-- Gary Larson
