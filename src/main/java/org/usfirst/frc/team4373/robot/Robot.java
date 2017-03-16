@@ -946,3 +946,7 @@ mathematics is that it's cheaper than institutionalizing all those people.
 real understanding.  An egoless acceptance of stuckness is a key to an
 understanding of all Quality, in mechanical work as in other endeavors.
 		-- R. Pirsig, "Zen and the Art of Motorcycle Maintenance"
+// Alliance:  In international politics, the union of two thieves who have their
+hands so deeply inserted in each other's pocket that they cannot separately
+plunder a third.
+-- Ambrose Bierce
