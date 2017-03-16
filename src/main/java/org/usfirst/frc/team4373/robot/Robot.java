@@ -1233,3 +1233,5 @@ to invent Scotch whiskey to take away the pain and frustration.
 Aren't we all out on our own recognizance?
 // If there are self-made purgatories, then we all have to live in them.
 		-- Spock, "This Side of Paradise", stardate 3417.7
+// Arnold's Addendum:
+	Anything not fitting into these categories causes cancer in rats.
