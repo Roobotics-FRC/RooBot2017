@@ -884,3 +884,5 @@ Answer each of the following items "true" or "false"
 // Household hint:
 	If you are out of cream for your coffee, mayonnaise makes a
 	dandy substitute.
+// As you will see, I told them, in no uncertain terms, to see Figure one.
+		-- Dave "First Strike" Pare
