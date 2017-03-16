@@ -146,3 +146,6 @@ asked Nasrudin, "me or a donkey?"
 - Nicklaus Wirth
 // I know you believe you understand what you think this fortune says, but
 I'm not sure you realize that what you are reading is not what it means.
+// The fact that boys are allowed to exist at all is evidence of a remarkable
+Christian forbearance among men.
+		-- Ambrose Bierce
