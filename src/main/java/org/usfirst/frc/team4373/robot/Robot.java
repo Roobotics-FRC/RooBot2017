@@ -232,3 +232,7 @@ greatness.  Those who have greatness within them do not go in for politics.
 	(2) *Of course* the third party vendor we bought that from
 	    will fix the microcode.
 	(3) Beta test site?  No, *of course* you're not a beta test site.
+// Linus:	Hi!  I thought it was you.
+	I've been watching you from way off...  You're looking great!
+Snoopy:	That's nice to know.
+	The secret of life is to look good at a distance.
