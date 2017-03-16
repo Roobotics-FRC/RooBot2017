@@ -934,3 +934,4 @@ it in order to protect themselves.
 // Blessed is the man who, having nothing to say, abstains from giving
 wordy evidence of the fact.
 		-- George Eliot
+// Blow it out your ear.
