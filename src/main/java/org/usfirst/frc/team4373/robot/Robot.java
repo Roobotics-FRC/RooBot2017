@@ -1317,3 +1317,9 @@ So she moved to Atlanta.
 		-- Albert Einstein
 // Despite all appearances, your boss is a thinking, feeling, human being.
 // For 20 dollars, I'll give you a good fortune next time ...
+// System/3!  System/3!
+See how it runs!  See how it runs!
+	Its monitor loses so totally!
+	It runs all its programs in RPG!
+	It's made by our favorite monopoly!
+System/3!
