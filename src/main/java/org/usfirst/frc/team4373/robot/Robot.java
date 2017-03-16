@@ -468,3 +468,4 @@ autonomous region, rioted over much needed spelling reform in the Soviet Union.
 // May your SO always know when you need a hug.
 // First Law of Socio-Genetics:
 	Celibacy is not hereditary.
+// Your love life will be... interesting.
