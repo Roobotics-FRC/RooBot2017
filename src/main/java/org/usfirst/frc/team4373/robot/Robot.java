@@ -545,3 +545,6 @@ LII:
 		-- Norman Augustine
 // Keep a diary and one day it'll keep you.
 		-- Mae West
+// Executive ability is deciding quickly and getting somebody else to do
+the work.
+		-- John G. Pollard
