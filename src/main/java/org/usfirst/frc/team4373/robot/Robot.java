@@ -638,3 +638,5 @@ out of MEGATON MAN!"
 // Scrubbing floors and emptying bedpans has as much dignity as the Presidency.
 		-- Richard Nixon
 // You had mail.  Paul read it, so ask him what it said.
+// Uncertain fortune is thoroughly mastered by the equity of the calculation.
+- Blaise Pascal
