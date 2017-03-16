@@ -1019,3 +1019,7 @@ when they wake up, that's as good as they're gonna feel all day!
 // At Group L, Stoffel oversees six first-rate programmers, a managerial
 challenge roughly comparable to herding cats.
 		-- The Washington Post Magazine, 9 June, 1985
+// Both models are identical in performance, functional operation, and
+interface circuit details.  The two models, however, are not compatible
+on the same communications line connection.
+		-- Bell System Technical Reference
