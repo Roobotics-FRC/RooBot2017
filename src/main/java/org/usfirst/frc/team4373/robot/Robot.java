@@ -188,3 +188,5 @@ system, institute complete automation and destroy the male sex.
 		-- Valerie Solanas
 // Some changes are so slow, you don't notice them.  Others are so fast,
 they don't notice you.
+// Life is what happens to you while you're busy making other plans.
+		-- John Lennon, "Beautiful Boy"
