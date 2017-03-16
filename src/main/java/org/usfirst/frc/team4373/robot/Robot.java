@@ -1305,3 +1305,4 @@ beyond reason."  She added that "literary work is very difficult to do".
 thinking everyone is out to get you.  That's normal -- they are.  Paranoia
 is thinking that they're conspiring.
 		-- J. Kegler
+// Them as has, gets.
