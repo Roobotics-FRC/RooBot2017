@@ -1123,3 +1123,8 @@ Come, Tom Bombadil, for our need is near us!
 		-- J. R. R. Tolkien
 // The idle man does not know what it is to enjoy rest.
 // Quantum Mechanics is God's version of "Trust me."
+// If you wish to be happy for one hour, get drunk.
+If you wish to be happy for three days, get married.
+If you wish to be happy for a month, kill your pig and eat it.
+If you wish to be happy forever, learn to fish.
+		-- Chinese Proverb
