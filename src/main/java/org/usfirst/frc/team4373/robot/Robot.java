@@ -1237,3 +1237,6 @@ Aren't we all out on our own recognizance?
 	Anything not fitting into these categories causes cancer in rats.
 // Is a computer language with goto's totally Wirth-less?
 // Why isn't there some cheap and easy way to prove how much she means to me?
+// I told my kids, "Someday, you'll have kids of your own."  One of them said,
+"So will you."
+		-- Rodney Dangerfield
