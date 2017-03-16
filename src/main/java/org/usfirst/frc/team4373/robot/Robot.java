@@ -994,3 +994,6 @@ of COMPARATIVE SHOPPING ...
 // ... and furthermore ... I don't like your trousers.
 // Good-bye.  I am leaving because I am bored.
 		-- George Saunders' dying words
+// "The majority of the stupid is invincible and guaranteed for all time. The 
+terror of their tyranny, however, is alleviated by their lack of consistency."
+-- Albert Einstein
