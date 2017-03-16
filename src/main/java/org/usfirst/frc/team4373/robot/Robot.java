@@ -1106,3 +1106,6 @@ results are that one should eat each day:
 	1 glass of skim milk
 	27 heads of lettuce.
 		-- Rev. Adrian Melott
+// [Crash programs] fail because they are based on the theory that, with nine
+women pregnant, you can get a baby a month.
+		-- Wernher von Braun
