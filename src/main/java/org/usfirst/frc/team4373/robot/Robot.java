@@ -635,3 +635,5 @@ out of MEGATON MAN!"
 // The final delusion is the belief that one has lost all delusions.
 		-- Maurice Chapelain, "Main courante"
 // Give them RADAR-GUIDED SKEE-BALL LANES and VELVEETA BURRITOS!!
+// Scrubbing floors and emptying bedpans has as much dignity as the Presidency.
+		-- Richard Nixon
