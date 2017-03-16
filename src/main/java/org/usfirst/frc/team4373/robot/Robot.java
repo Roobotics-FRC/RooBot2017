@@ -657,3 +657,4 @@ a man who takes more words than are necessary to tell more than he knows.
 // Mix a little foolishness with your serious plans; it's lovely to be silly
 at the right moment.
 		-- Horace
+// Where do your SOCKS go when you lose them in th' WASHER?
