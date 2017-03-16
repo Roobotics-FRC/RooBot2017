@@ -992,3 +992,5 @@ called you from here."
 // JAPAN is a WONDERFUL planet -- I wonder if we'll ever reach their level
 of COMPARATIVE SHOPPING ...
 // ... and furthermore ... I don't like your trousers.
+// Good-bye.  I am leaving because I am bored.
+		-- George Saunders' dying words
