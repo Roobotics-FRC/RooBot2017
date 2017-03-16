@@ -447,3 +447,5 @@ the closest our country has ever been to being even.
 disappears.
 // Even the best of friends cannot attend each other's funeral.
 		-- Kehlog Albran, "The Profit"
+// If I'm over the hill, why is it I don't recall ever being on top?
+		-- Jerry Muscha
