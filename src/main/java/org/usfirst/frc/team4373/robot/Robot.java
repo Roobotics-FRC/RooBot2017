@@ -714,3 +714,4 @@ what he writes fiction.
 		-- William Faulkner
 // Somewhere in Tenafly, New Jersey, a chiropractor is viewing "Leave it
 to Beaver"!
+// Freedom of the press is for those who happen to own one.
