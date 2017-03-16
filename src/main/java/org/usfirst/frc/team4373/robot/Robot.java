@@ -1173,3 +1173,4 @@ son, remember, 'Imitation is the sincerest form of philately.'"
 // Talk is cheap because supply always exceeds demand.
 // Sailing is fun, but scrubbing the decks is aardvark.
 		-- Heard on Noahs' ark
+// The cost of living hasn't affected its popularity.
