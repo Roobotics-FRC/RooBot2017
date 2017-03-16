@@ -1064,3 +1064,10 @@ environment in a stable ecosphere, while a bowl of cherries is a
 round container filled with little red fruits on sticks.
 // Support the Girl Scouts!
 	(Today's Brownie is tomorrow's Cookie!)
+// Men ought to know that from the brain and from the brain only arise our
+pleasures, joys, laughter, and jests as well as our sorrows, pains, griefs
+and tears.  ...  It is the same thing which makes us mad or delirious,
+inspires us with dread and fear, whether by night or by day, brings us
+sleeplessness, inopportune mistakes, aimless anxieties, absent-mindedness
+and acts that are contrary to habit...
+		-- Hippocrates "The Sacred Disease"
