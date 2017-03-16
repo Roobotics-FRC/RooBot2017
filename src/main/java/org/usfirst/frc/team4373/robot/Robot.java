@@ -1160,3 +1160,10 @@ but true", while the powers of 2 are all extremely odd numbers.
 an album too, and started her own collection.  "Dad, she buys everything I've
 bought, and it's taken all the fun out of it for me.  I'm quitting."  Don't,
 son, remember, 'Imitation is the sincerest form of philately.'"
+// IBM:
+	[International Business Machines Corp.]  Also known as Itty Bitty
+	Machines or The Lawyer's Friend.  The dominant force in computer
+	marketing, having supplied worldwide some 75% of all known hardware
+	and 10% of all software.  To protect itself from the litigious envy
+	of less successful organizations, such as the US government, IBM
+	employs 68% of all known ex-Attorneys' General.
