@@ -703,3 +703,6 @@ unmarried man -- not until she is married, anyway.
 		-- John Keats
 // Smear the road with a runner!!
 // Cheer Up!  Things are getting worse at a slower rate.
+// A conference is a gathering of important people who singly can do nothing
+but together can decide that nothing can be done.
+		-- Fred Allen
