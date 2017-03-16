@@ -1083,3 +1083,8 @@ itself, and that is an excellent thing for the syndicates of financiers and
 manufacturers for whom patriotic terrors are an abundant source of gain.
 		-- Anatole France
 // Huh?
+// Time washes clean
+Love's wounds unseen.
+That's what someone told me;
+But I don't know what it means.
+		-- Linda Ronstadt, "Long Long Time"
