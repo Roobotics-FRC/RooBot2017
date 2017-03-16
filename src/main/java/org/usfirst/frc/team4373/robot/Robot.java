@@ -798,3 +798,6 @@ favor of smart solutions to stupid problems.
 // But Officer, I stopped for the last one, and it was green!
 // A pedestal is as much a prison as any small, confined space.
 		-- Gloria Steinem
+// QOTD:
+	"This is a one line proof... if we start sufficiently far to the
+	left."
