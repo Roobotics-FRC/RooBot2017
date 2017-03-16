@@ -71,7 +71,7 @@ public class PositionBasedGearAuton extends Command {
 
     @Override
     protected void execute() {
-        double turns = Math.abs(driveTrain.getLeftEncoderTurns());
+        double turns = driveTrain.getLeftEncoderTurns();
         SmartDashboard.putNumber("Turns",
                 turns - positionStart);
         switch (state) {
@@ -83,9 +83,9 @@ public class PositionBasedGearAuton extends Command {
                 break;
             case MOVING_TOWARD_PEG:
                 SmartDashboard.putNumber("Turns remaining",
-                        moveForwardTurns - (turns - positionStart));
+                        Math.abs(moveForwardTurns - (turns - positionStart)));
                 if (positionStart == 0) positionStart = turns;
-                if (turns - positionStart <= moveForwardTurns) {
+                if (Math.abs(turns - positionStart) <= moveForwardTurns) {
                     driveTrain.setBoth(-this.motorValue);
                 } else {
                     driveTrain.setBoth(0.0d);
@@ -95,8 +95,8 @@ public class PositionBasedGearAuton extends Command {
                 break;
             case MOVING_AWAY_FROM_PEG:
                 SmartDashboard.putNumber("Turns remaining",
-                        moveBackwardTurns - (turns - positionStart));
-                if (turns - positionStart <= moveBackwardTurns) {
+                        Math.abs(moveBackwardTurns - (turns - positionStart)));
+                if (Math.abs(turns - positionStart) <= moveBackwardTurns) {
                     driveTrain.setBoth(0.25);
                 } else {
                     driveTrain.setBoth(0.0d);
