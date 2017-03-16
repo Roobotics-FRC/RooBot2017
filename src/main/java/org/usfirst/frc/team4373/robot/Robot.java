@@ -989,3 +989,5 @@ told the player to run over to his office to see if he was in.  "OK, Coach",
 the player replied, and was off.  "See what I mean?" Sherrill asked.
 "Yeah", replied the dean.  "He could have just picked up this phone and
 called you from here."
+// JAPAN is a WONDERFUL planet -- I wonder if we'll ever reach their level
+of COMPARATIVE SHOPPING ...
