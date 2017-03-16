@@ -1235,3 +1235,4 @@ Aren't we all out on our own recognizance?
 		-- Spock, "This Side of Paradise", stardate 3417.7
 // Arnold's Addendum:
 	Anything not fitting into these categories causes cancer in rats.
+// Is a computer language with goto's totally Wirth-less?
