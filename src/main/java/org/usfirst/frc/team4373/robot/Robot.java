@@ -584,3 +584,5 @@ same moment -- halftime.
 		-- The Duke of Wellington
 // Nobody knows what goes between his cold toes and his warm ears.
 		-- Roy Harper
+// "If it ain't broke, don't fix it."
+- Bert Lantz
