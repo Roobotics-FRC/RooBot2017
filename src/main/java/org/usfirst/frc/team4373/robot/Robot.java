@@ -168,3 +168,5 @@ more apropos. The mechanistic world-view is falling further and further behind
 the real world where even simple systems can produce the most marvellous
 chaos. 
 -- Peter da Silva
+// One learns to itch where one can scratch.
+		-- Ernest Bramah
