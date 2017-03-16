@@ -2,6 +2,7 @@ package org.usfirst.frc.team4373.robot.subsystems;
 
 import com.ctre.CANTalon;
 import com.ctre.CanTalonJNI;
+import edu.wpi.first.wpilibj.DriverStation;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import org.usfirst.frc.team4373.robot.RobotMap;
@@ -160,7 +161,8 @@ public class DriveTrain extends Subsystem {
             power *= getLeftEncoderCPR();
             this.left1.setSetpoint(power);
         }
-        SmartDashboard.putString("leftTalonValue", "" + power);
+        SmartDashboard.putNumber("leftTalonValue", power);
+        DriverStation.reportError("leftTalonValue, " + power + "\n", false);
         this.left1.set(power);
     }
 
