@@ -471,3 +471,5 @@ autonomous region, rioted over much needed spelling reform in the Soviet Union.
 // Your love life will be... interesting.
 // What sane person could live in this world and not be crazy?
 		-- Ursula K. LeGuin
+// The primary requisite for any new tax law is for it to exempt enough
+voters to win the next election.
