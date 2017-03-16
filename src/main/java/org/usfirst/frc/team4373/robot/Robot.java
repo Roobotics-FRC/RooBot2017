@@ -689,3 +689,4 @@ just a case of "uncontained blade liberation."
 	office at 11:45 on a Tuesday night, only to return an Aztec sun
 	god at 8:15 the next morning.
 // Among the lucky, you are the chosen one.
+// People who make no mistakes do not usually make anything.
