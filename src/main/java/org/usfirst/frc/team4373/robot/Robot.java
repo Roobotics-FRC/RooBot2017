@@ -618,3 +618,5 @@ those who govern.  The machinery of government is always subordinate to the
 will of those who administer that machinery.  The most important element of
 government, therefore, is the method of choosing leaders.
 		-- Frank Herbert, "Children of Dune"
+// Vulcans do not approve of violence.
+		-- Spock, "Journey to Babel", stardate 3842.4
