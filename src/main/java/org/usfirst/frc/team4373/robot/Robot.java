@@ -257,3 +257,5 @@ Grinds hard stones to meal;
 Slays king, ruins town,
 And beats high mountain down.
 // You're at Witt's End.
+// A CONS is an object which cares.
+		-- Bernie Greenberg.
