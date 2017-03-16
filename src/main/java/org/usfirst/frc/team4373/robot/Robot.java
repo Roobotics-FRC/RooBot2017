@@ -634,3 +634,4 @@ more and more that there is something which cannot be understood.
 out of MEGATON MAN!"
 // The final delusion is the belief that one has lost all delusions.
 		-- Maurice Chapelain, "Main courante"
+// Give them RADAR-GUIDED SKEE-BALL LANES and VELVEETA BURRITOS!!
