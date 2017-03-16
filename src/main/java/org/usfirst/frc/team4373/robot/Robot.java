@@ -67,7 +67,7 @@ public class Robot extends IterativeRobot {
                 autonCommand = TimeBasedGearAuton.getTimeBasedGearAuton(autonValueKey, motorValue);
                 break;
             case "driveRevolutions":
-                autonCommand = PositionBasedGearAuton.getPositionBasedGearAUton(
+                autonCommand = PositionBasedGearAuton.getPositionBasedGearAuton(
                         autonRevsKey, motorValue);
                 break;
             default:

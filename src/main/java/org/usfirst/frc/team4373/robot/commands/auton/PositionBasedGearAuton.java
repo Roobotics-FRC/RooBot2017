@@ -42,6 +42,7 @@ public class PositionBasedGearAuton extends Command {
         this.moveBackwardTurns = 4;
         this.motorValue = motorValue;
         this.state = State.WAITING;
+        this.positionStart = 0;
     }
 
     /**
@@ -49,7 +50,7 @@ public class PositionBasedGearAuton extends Command {
      * @param time The amount of time the motor should run.
      * @param motorValue The speed (0-1) at which the motor should run.
      */
-    public static PositionBasedGearAuton getPositionBasedGearAUton(int time, double motorValue) {
+    public static PositionBasedGearAuton getPositionBasedGearAuton(int time, double motorValue) {
         if (positionBasedGearAuton == null) {
             positionBasedGearAuton = new PositionBasedGearAuton(time, motorValue);
         } else {
@@ -85,7 +86,7 @@ public class PositionBasedGearAuton extends Command {
                 SmartDashboard.putString("Autonomous state",
                         "PositionBasedGearAuton:WAITING\n");
                 setNeutralState();
-                positionStart = turns;
+                //positionStart = turns;
                 state = State.MOVING_TOWARD_PEG;
                 break;
             case MOVING_TOWARD_PEG:
