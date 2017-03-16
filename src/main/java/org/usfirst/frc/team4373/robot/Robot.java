@@ -1008,3 +1008,8 @@ it would do three million miles to the gallon, and it would deliver enough
 power to drive the Queen Elizabeth II.  And if you were interested in
 miniaturization, you could place half a dozen of them on a pinhead.
 -- Christopher Evans
+// "The lawgiver, of all beings, most owes the law allegiance.
+ He of all men should behave as though the law compelled him.
+ But it is the universal weakness of mankind that what we are
+ given to administer we presently imagine we own."
+-- H.G. Wells
