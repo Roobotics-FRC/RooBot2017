@@ -1189,3 +1189,5 @@ With no place to go.		But that can't make the queue move fast.
 		   Morning Rain" by G. Lightfoot
 // Be careful when you bite into your hamburger.
 		-- Derek Bok
+// My way of joking is to tell the truth.  That's the funniest joke in the world.
+		-- Muhammad Ali
