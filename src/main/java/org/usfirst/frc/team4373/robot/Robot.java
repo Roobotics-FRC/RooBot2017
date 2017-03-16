@@ -749,3 +749,4 @@ wall, that they may eat their own dung, and drink their own piss with you?
 // A failure will not appear until a unit has passed final inspection.
 // You had some happiness once, but your parents moved away, and you had to
 leave it behind.
+// Computer Science is merely the post-Turing decline in formal systems theory.
