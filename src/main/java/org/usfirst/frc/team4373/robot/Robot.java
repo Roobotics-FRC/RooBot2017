@@ -434,3 +434,6 @@ is and will always be a wild animal.
 // Xerox your lunch and file it under "sex offenders"!
 // I have to think hard to name an interesting man who does not drink.
 		-- Richard Burton
+// What's the matter with the world?  Why, there ain't but one thing wrong
+with every one of us -- and that's "selfishness."
+		-- The Best of Will Rogers
