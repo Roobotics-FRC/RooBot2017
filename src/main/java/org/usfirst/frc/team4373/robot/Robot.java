@@ -202,3 +202,6 @@ is a lie.  You lie, you tell the truth ... but you cannot, for you lie.
 		-- Marcus Terentius Varro
 // Three may keep a secret, if two of them are dead.
 		-- Benjamin Franklin
+// Life is a serious burden, which no thinking, humane person would
+wantonly inflict on someone else.
+		-- Clarence Darrow
