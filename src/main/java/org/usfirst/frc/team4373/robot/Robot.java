@@ -1093,3 +1093,16 @@ At an evening reception which he attended with his fifth wife shortly
 after their wedding, he presented the lady to a friend who said politely,
 "Congratulations, Herr d'Albert; you have rarely introduced me to so
 charming a wife."
+// This is the first numerical problem I ever did.  It demonstrates the
+power of computers:
+
+Enter lots of data on calorie & nutritive content of foods.  Instruct
+the thing to maximize a function describing nutritive content, with a
+minimum level of each component, for fixed caloric content.  The
+results are that one should eat each day:
+
+	1/2 chicken
+	1 egg
+	1 glass of skim milk
+	27 heads of lettuce.
+		-- Rev. Adrian Melott
