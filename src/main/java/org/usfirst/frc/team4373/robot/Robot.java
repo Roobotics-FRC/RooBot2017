@@ -348,3 +348,22 @@ It's likely to last.
 		-- Ogden Nash
 // Whenever a system becomes completely defined, some damn fool discovers
 something which either abolishes the system or expands it beyond recognition.
+// Why not have an old-fashioned Christmas for your family this year? Just
+picture the scene in your living room on Christmas morning as your children
+open their old-fashioned presents.
+
+Your 11-year-old son: "What the heck is this?"
+
+You:	"A spinning top!  You spin it around, and then eventually it falls
+down.  What fun!  Ha, ha!"
+
+Son:	"Is this a joke?  Jason Thompson's parents got him a computer with 
+two disk drives and 128 kilobytes of random-access memory, and I get this 
+cretin TOP?"
+
+Your 8-year-old daughter: "You think that's bad?  Look at this."
+
+You:	"It's figgy pudding!  What a treat!"
+
+Daughter: "It looks like goat barf."
+		-- Dave Barry, "Simple, Homespun Gifts"
