@@ -940,3 +940,5 @@ woman want?'"
 -- Sigmund Freud
 // Serocki's Stricture:
 	Marriage is always a bachelor's last option.
+// The reason that every major university maintains a department of
+mathematics is that it's cheaper than institutionalizing all those people.
