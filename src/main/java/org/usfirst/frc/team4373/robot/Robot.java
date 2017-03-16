@@ -1221,3 +1221,4 @@ A:	Diyathinkhesaurus Rex.
 -- Patricia O Tuama
 // I owe the public nothing.
 		-- J.P. Morgan
+// Fortunate is he for whom the belle toils.
