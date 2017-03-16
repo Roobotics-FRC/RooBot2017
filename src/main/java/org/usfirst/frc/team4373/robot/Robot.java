@@ -632,3 +632,5 @@ more and more that there is something which cannot be understood.
 	"These are DARK TIMES for FREEDOM and PROSPERITY!"
 	"These are GREAT TIMES to put your money on BAD GUY to kick the CRAP
 out of MEGATON MAN!"
+// The final delusion is the belief that one has lost all delusions.
+		-- Maurice Chapelain, "Main courante"
