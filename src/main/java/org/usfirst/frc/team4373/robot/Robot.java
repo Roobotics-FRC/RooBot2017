@@ -808,3 +808,7 @@ favor of smart solutions to stupid problems.
 the mammals are taking over, and we all have a brain about the size of a 
 walnut."
 -- some dinosaurs from The Far Side, by Gary Larson
+// toilet toup'ee, n.:
+	Any shag carpet that causes the lid to become top-heavy, thus
+	creating endless annoyance to male users.
+		-- Rich Hall, "Sniglets"
