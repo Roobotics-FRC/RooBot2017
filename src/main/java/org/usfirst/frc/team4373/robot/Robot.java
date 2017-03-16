@@ -268,3 +268,15 @@ And beats high mountain down.
 // (null cookie; hope that's ok)
 // Wilner's Observation:
 	All conversations with a potato should be conducted in private.
+// As I argued in "Beloved Son", a book about my son Brian and the subject
+of religious communes and cults, one result of proper early instruction
+in the methods of rational thought will be to make sudden mindless
+conversions -- to anything -- less likely.  Brian now realizes this and
+has, after eleven years, left the sect he was associated with.  The 
+problem is that once the untrained mind has made a formal commitment to
+a religious philosophy -- and it does not matter whether that philosophy
+is generally reasonable and high-minded or utterly bizarre and 
+irrational -- the powers of reason are suprisingly ineffective in 
+changing the believer's mind.
+- Steve Allen, comdeian, from an essay in the book "The Courage of 
+  Conviction", edited by Philip Berman
