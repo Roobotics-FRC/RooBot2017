@@ -622,3 +622,5 @@ government, therefore, is the method of choosing leaders.
 		-- Spock, "Journey to Babel", stardate 3842.4
 // I read Playboy for the same reason I read National Geographic.  To see
 the sights I'm never going to visit.
+// Everything takes longer, costs more, and is less useful.
+		-- Erwin Tomash
