@@ -1227,3 +1227,5 @@ A:	Diyathinkhesaurus Rex.
 // The notion of a "record" is an obsolete remnant of the days of the 80-column
 card.
 		-- Dennis M. Ritchie
+// Also, the Scots are said to have invented golf.  Then they had
+to invent Scotch whiskey to take away the pain and frustration.
