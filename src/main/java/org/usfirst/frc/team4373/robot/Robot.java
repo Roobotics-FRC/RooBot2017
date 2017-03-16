@@ -1171,3 +1171,5 @@ son, remember, 'Imitation is the sincerest form of philately.'"
 // If we can ever make red tape nutritional, we can feed the world.
 		-- R. Schaeberle, "Management Accounting"
 // Talk is cheap because supply always exceeds demand.
+// Sailing is fun, but scrubbing the decks is aardvark.
+		-- Heard on Noahs' ark
