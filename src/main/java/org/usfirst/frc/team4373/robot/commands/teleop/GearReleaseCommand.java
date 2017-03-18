@@ -22,11 +22,12 @@ public class GearReleaseCommand extends Command {
     @Override
     protected void initialize() {
         this.gearRelease.activate();
+        this.gearRelease.startCompressor();
     }
 
     @Override
     protected void execute() {
-        if (OI.getOI().getDriveJoystick().getRawButton(RobotMap.GEAR_INTAKE_UP_BUTTON)) {
+        if (OI.getOI().getOperatorJoystick().getRawButton(RobotMap.OPERATOR_JOYSTICK_GEAR_INTAKE_UP_BUTTON)) {
             gearRelease.activate();
             SmartDashboard.putBoolean("Pistons", true);
         } else {
@@ -43,10 +44,12 @@ public class GearReleaseCommand extends Command {
     @Override
     protected void end() {
         this.gearRelease.setNeutral();
+        this.gearRelease.stopCompressor();
     }
 
     @Override
     protected void interrupted() {
         this.gearRelease.setNeutral();
+        this.gearRelease.stopCompressor();
     }
 }
