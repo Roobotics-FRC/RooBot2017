@@ -35,4 +35,5 @@ public class RobotMap {
     // misc
     public static final int TIME_BASED_AUTON_DEFAULT_SECONDS = 4;
     public static final double TIME_BASED_AUTON_MOTOR_VALUE = 0.5;
+    public static final double POSITION_BASED_AUTON_MODOR_TURNS = 10;
 }

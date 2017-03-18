@@ -62,6 +62,30 @@ public class DriveTrain extends Subsystem {
         this.middle2.configEncoderCodesPerRev(4096);
     }
 
+    public CANTalon getLeft1() {
+        return left1;
+    }
+
+    public CANTalon getLeft2() {
+        return left2;
+    }
+
+    public CANTalon getRight1() {
+        return right1;
+    }
+
+    public CANTalon getRight2() {
+        return right2;
+    }
+
+    public CANTalon getMiddle1() {
+        return middle1;
+    }
+
+    public CANTalon getMiddle2() {
+        return middle2;
+    }
+
     /**
      * Changes the control mode of all leader talons.
      * @param controlMode the control mode to change them to.
