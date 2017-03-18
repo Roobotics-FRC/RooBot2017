@@ -8,20 +8,16 @@ import org.usfirst.frc.team4373.robot.commands.teleop.GearReleaseCommand;
 
 /**
  * A programmatic representation of physical gear release components.
+ *
  * @author aaplmath
  * @author Henry Pitcairn
  */
 public class GearRelease extends Subsystem {
 
-    private DoubleSolenoid solenoid1;
-    private Compressor compressor;
-
     private static GearRelease gearRelease = null;
-
-    public static GearRelease getGearRelease() {
-        gearRelease = gearRelease == null ? new GearRelease() : gearRelease;
-        return gearRelease;
-    }
+    private DoubleSolenoid solenoid1;
+    private DoubleSolenoid solenoid2;
+    private Compressor compressor;
 
     private GearRelease() {
         super("GearRelease");
@@ -30,7 +26,16 @@ public class GearRelease extends Subsystem {
                 RobotMap.BACKWARD_SOLENOID_PORT,
                 RobotMap.FORWARD_SOLENOID_PORT
         );
+        this.solenoid2 = new DoubleSolenoid(
+                RobotMap.PCM_PORT,
+                RobotMap.PUSHER_SOLENOID_PORT
+        );
         this.compressor = new Compressor(0);
+    }
+
+    public static GearRelease getGearRelease() {
+        gearRelease = gearRelease == null ? new GearRelease() : gearRelease;
+        return gearRelease;
     }
 
     private void setBoth(DoubleSolenoid.Value value) {
@@ -55,6 +60,22 @@ public class GearRelease extends Subsystem {
 
     public void stopCompressor() {
         this.compressor.stop();
+    }
+
+    public void setPusherSolenoid(DoubleSolenoid.Value value) {
+        this.solenoid2.set(value);
+    }
+
+    public void activatePusherSolenoid() {
+        this.setPusherSolenoid(DoubleSolenoid.Value.kForward);
+    }
+
+    public void deactivatePusherSolenoid() {
+        this.setPusherSolenoid(DoubleSolenoid.Value.kReverse);
+    }
+
+    public void setPusherSolenoidNeutral() {
+        this.setPusherSolenoid(DoubleSolenoid.Value.kOff);
     }
 
     @Override
