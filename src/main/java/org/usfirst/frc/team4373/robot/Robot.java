@@ -1,9 +1,9 @@
 package org.usfirst.frc.team4373.robot;
 
+import edu.wpi.first.wpilibj.CameraServer;
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import org.usfirst.frc.team4373.robot.input.did.USBCameraStream;
 import org.usfirst.frc.team4373.robot.subsystems.Climber;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 import org.usfirst.frc.team4373.robot.subsystems.GearRelease;
@@ -19,7 +19,8 @@ public class Robot extends IterativeRobot {
         DriveTrain.getDriveTrain();
         Climber.getClimber();
         GearRelease.getGearRelease();
-        USBCameraStream.getUSBCameraStream().run();
+        CameraServer.getInstance().setQuality(100);
+        CameraServer.getInstance().startAutomaticCapture();
     }
 
     @Override
