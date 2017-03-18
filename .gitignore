@@ -13,3 +13,6 @@ bin/
 .project
 # Don't commit gradle caches
 .gradle/
+gradlew
+gradle/
+*gradle*
