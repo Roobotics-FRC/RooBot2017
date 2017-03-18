@@ -31,8 +31,9 @@ public class RobotMap {
     public static final int PCM_PORT = 15;
     public static final int FORWARD_SOLENOID_PORT = 1;
     public static final int BACKWARD_SOLENOID_PORT = 0;
-    // OBVIOUSLY A PLACEHOLDER TODO TODO TODO HELP!!
-    public static final int PUSHER_SOLENOID_PORT = -1;
+    public static final int PUSHER_SOLENOID_PORT = 2;
+
+    public static final int[] SOLENOID_PORTS = {0, 1, 2};
 
     // misc
     public static final int TIME_BASED_AUTON_DEFAULT_SECONDS = 4;
