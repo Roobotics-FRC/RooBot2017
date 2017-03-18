@@ -30,25 +30,9 @@ public class TimeBasedGearAuton extends Command {
         MOVING_AWAY_FROM_PEG
     }
 
-    private static TimeBasedGearAuton timeBasedGearAuton = null;
 
-    /**
-     * Gets the current TimeBasedGearAuton instance with the specified parameters.
-     * @param time The amount of time the motor should run.
-     * @param motorValue The speed (0-1) at which the motor should run.
-     */
-    public static TimeBasedGearAuton getTimeBasedGearAuton(int time, double motorValue) {
-        if (timeBasedGearAuton == null) {
-            timeBasedGearAuton = new TimeBasedGearAuton(time, motorValue);
-        }
-        else {
-            timeBasedGearAuton.setTime(time);
-            timeBasedGearAuton.setMotorValue(motorValue);
-        }
-        return timeBasedGearAuton;
-    }
-    
-    private TimeBasedGearAuton(int time, double motorValue) {
+
+    public TimeBasedGearAuton(int time, double motorValue) {
         super();
         requires(driveTrain = DriveTrain.getDriveTrain());
         requires(gearRelease = GearRelease.getGearRelease());
@@ -57,7 +41,6 @@ public class TimeBasedGearAuton extends Command {
         this.releaseDuration = 2000;
         this.moveBackwardDuration = 1000;
         this.motorValue = motorValue;
-        this.state = State.WAITING;
     }
 
     public void setTime(int time) {

@@ -54,10 +54,10 @@ public class Robot extends IterativeRobot {
                 RobotMap.TIME_BASED_AUTON_MOTOR_VALUE);
         switch (command) {
             case "driveStraight":
-                autonCommand = TimeBasedAuton.getTimeBasedAuton(autonValueKey, motorValue);
+                autonCommand = new TimeBasedAuton(autonValueKey, motorValue);
                 break;
             case "rudimentaryGear":
-                autonCommand = TimeBasedGearAuton.getTimeBasedGearAuton(autonValueKey, motorValue);
+                autonCommand = new TimeBasedGearAuton(autonValueKey, motorValue);
                 break;
             default:
                 autonCommand = null;

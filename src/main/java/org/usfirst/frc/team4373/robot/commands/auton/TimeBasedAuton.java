@@ -19,24 +19,8 @@ public class TimeBasedAuton extends Command {
 
     private long timeStart;
 
-    private static TimeBasedAuton timeBasedAuton = null;
 
-    /**
-     * Gets the current TimeBasedAuton instance with the specified parameters.
-     * @param time The amount of time the motor should run.
-     * @param motorValue The speed (0-1) at which the motor should run.
-     */
-    public static TimeBasedAuton getTimeBasedAuton(int time, double motorValue) {
-        if (timeBasedAuton == null) {
-            timeBasedAuton = new TimeBasedAuton(time, motorValue);
-        } else {
-            timeBasedAuton.setTime(time);
-            timeBasedAuton.setMotorValue(motorValue);
-        }
-        return timeBasedAuton;
-    }
-
-    private TimeBasedAuton(int time, double motorValue) {
+    public TimeBasedAuton(int time, double motorValue) {
         super();
         requires(driveTrain = DriveTrain.getDriveTrain());
         this.timeSeconds = time;
