@@ -15,21 +15,12 @@ import org.usfirst.frc.team4373.robot.commands.teleop.GearReleaseCommand;
 public class GearRelease extends Subsystem {
 
     private static GearRelease gearRelease = null;
-    private DoubleSolenoid solenoid1;
-    private DoubleSolenoid solenoid2;
+    private PneumaticsControl solenoids;
     private Compressor compressor;
 
     private GearRelease() {
         super("GearRelease");
-        this.solenoid1 = new DoubleSolenoid(
-                RobotMap.PCM_PORT,
-                RobotMap.BACKWARD_SOLENOID_PORT,
-                RobotMap.FORWARD_SOLENOID_PORT
-        );
-        this.solenoid2 = new DoubleSolenoid(
-                RobotMap.PCM_PORT,
-                RobotMap.PUSHER_SOLENOID_PORT
-        );
+        this.solenoids = PneumaticsControl.getPneumaticsControl();
         this.compressor = new Compressor(0);
     }
 
@@ -38,20 +29,8 @@ public class GearRelease extends Subsystem {
         return gearRelease;
     }
 
-    private void setBoth(DoubleSolenoid.Value value) {
-        this.solenoid1.set(value);
-    }
-
-    public void activate() {
-        setBoth(DoubleSolenoid.Value.kForward);
-    }
-
-    public void deactivate() {
-        setBoth(DoubleSolenoid.Value.kReverse);
-    }
-
-    public void setNeutral() {
-        setBoth(DoubleSolenoid.Value.kOff);
+    public PneumaticsControl getSolenoids() {
+        return this.solenoids;
     }
 
     public void startCompressor() {
@@ -62,21 +41,6 @@ public class GearRelease extends Subsystem {
         this.compressor.stop();
     }
 
-    public void setPusherSolenoid(DoubleSolenoid.Value value) {
-        this.solenoid2.set(value);
-    }
-
-    public void activatePusherSolenoid() {
-        this.setPusherSolenoid(DoubleSolenoid.Value.kForward);
-    }
-
-    public void deactivatePusherSolenoid() {
-        this.setPusherSolenoid(DoubleSolenoid.Value.kReverse);
-    }
-
-    public void setPusherSolenoidNeutral() {
-        this.setPusherSolenoid(DoubleSolenoid.Value.kOff);
-    }
 
     @Override
     protected void initDefaultCommand() {
