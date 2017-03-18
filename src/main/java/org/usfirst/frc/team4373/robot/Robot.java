@@ -6,9 +6,12 @@ import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
+<<<<<<< HEAD
 import org.usfirst.frc.team4373.robot.commands.auton.TimeBasedAuton;
 import org.usfirst.frc.team4373.robot.commands.auton.TimeBasedGearAuton;
 import org.usfirst.frc.team4373.robot.input.did.USBCameraStream;
+=======
+>>>>>>> Use CameraServer Singleton directly in Robot
 import org.usfirst.frc.team4373.robot.subsystems.Climber;
 import org.usfirst.frc.team4373.robot.subsystems.DriveTrain;
 import org.usfirst.frc.team4373.robot.subsystems.GearRelease;
@@ -38,7 +41,10 @@ public class Robot extends IterativeRobot {
         GearRelease.getGearRelease();
         CameraServer.getInstance().setQuality(100);
         CameraServer.getInstance().startAutomaticCapture();
+<<<<<<< HEAD
 
+=======
+>>>>>>> Use CameraServer Singleton directly in Robot
     }
 
     @Override
